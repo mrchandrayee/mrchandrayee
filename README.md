@@ -1,108 +1,88 @@
-<h2 align="left">Hi 👋! I'm Chand Rayee — a Full-Stack Developer, AI Explorer & DevOps Engineer from New Delhi, India 🇮🇳</h2>
+<h2 align="left">Hi 👋! My name is Chand Rayee and I'm a Full-Stack Developer from India</h2>
 
----
-
-🚀 Passionate about building scalable, intelligent, and user-centric web applications, I bring 7+ years of professional experience helping startups, enterprises, and NGOs with custom software solutions.
-
-🔍 My work spans across full-stack product engineering, AI chatbot integrations, cloud infrastructure, and community-driven apps — especially in the religious, fintech, and SaaS sectors.
-
-🧠 I love working at the intersection of **technology, strategy, and user experience**.
-
----
+###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrchandrayee&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mrchandrayee&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mrchandrayee&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mrchandrayee&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
----
+###
 
-### 🛠️ Tech Stack & Tools
+<img align="right" height="150" src="https://i.pinimg.com/originals/03/28/3c/03283c06cd14ce8936b53fa2dbe9ecb7.gif"  />
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="Next.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="Django" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="30" alt="AWS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="PostgreSQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="GitHub" />
-</div>
+###
 
----
+### 🔭 I’m currently working on:
+- **Religious Donation App for India** – real-time prayer alerts, Quran reader, and live chat with gurus  
+  [Link](https://github.com/mrchandrayee)
 
-### 👨‍💻 About Me
+### 👯 I’m looking to collaborate on:
+- **AI Resume Generator for Freelancers**  
+  [Coming Soon](https://github.com/mrchandrayee)
 
-- 🔧 I specialize in **Django + React/Next.js full-stack development**
-- 🤖 Built custom **AI-powered bots** using OpenAI/GPT APIs
-- ☁️ Deployed scalable apps using **Docker, AWS, DigitalOcean**
-- 📈 SEO-focused, responsive, and accessible design-first approach
-- 🌍 Open to **remote & international collaborations**
-- 🎯 Currently working on a unified app for religious donation & spiritual guidance in India
+### 🤝 I’m looking for help with:
+- **Marketing & GTM Strategy** for SaaS tools targeting creators and communities
 
----
+### 🌱 I’m currently learning:
+- Next.js 14  
+- Cloud-native app design (Kubernetes, Docker)  
+- LangChain & GPT APIs
 
-### 🌟 Featured Projects
+### 💬 Ask me about:
+- Django, React, DevOps, LLMs, GPT Integrations, Cloud Infrastructure
 
-- **🕌 Religious Community App**  
-  Real-time Namaz notifications, Quran reader, guru chat, donation tracking, and event system for spiritual connection.
+### 📫 How to reach me:
+- 📧 Email: chandrayee.cse@gmail.com  
+- 🌐 Portfolio: [chandrayee.me](https://chandrayee.me)  
+- 📝 Blog: [medium.com/@mrchandrayee](https://medium.com/@mrchandrayee)  
+- 📄 Resume: [View Resume](https://chandrayee.me/resume)
 
-- **🤖 AI Portfolio Generator**  
-  Auto-generates portfolios and resumes using OpenAI, customizable via UI.
-
-- **🛒 Custom E-Commerce Platform**  
-  Django + React based headless commerce with advanced CMS, multi-user login, Stripe integration.
-
-- **📊 Admin Dashboards & Analytics**  
-  SaaS dashboard with filters, charts, and role-based control. Optimized for speed and mobile.
+### ⚡ Fun fact:
+- I debug my dreams (yes, even in sleep mode)
 
 ---
 
-### 📜 Certifications
+### 🛠️ Skills & Tech Stack
 
-- 🎓 **Machine Learning & AI Program** – IIIT Bangalore & upGrad — *April 2024*
+#### Programming Languages  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 
----
+#### Frontend  
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css)
 
-### 💼 Experience
+#### Backend  
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi)
 
-**Freelance Full-Stack Developer**  
-_2020 – Present_
+#### DevOps & Cloud  
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 
-- Built over 30+ client projects globally (web apps, SaaS MVPs, AI chat tools)
-- Delivered responsive, SEO-optimized apps using Django, React, and Next.js
-- Integrated Docker-based CI/CD pipelines and deployed to AWS/DigitalOcean
+#### Database  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 
-**Software Developer — Faskum Technologies**  
-_2018 – 2019_
-
-- Created Django + React web applications for clients in healthcare & education
-- Implemented backend automation to streamline operations
-- Collaborated with UI/UX and QA teams for successful delivery
-
----
-
-### 📫 Contact Me
-
-<div align="left">
-  <a href="mailto:chandrayee.cse@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/mrchandrayee" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin" />
-  </a>
-  <a href="https://github.com/mrchandrayee" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="github" />
-  </a>
-  <a href="https://chandrayee.me" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=google-chrome&label=&color=4285F4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio" />
-  </a>
-</div>
+#### Tools  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code)
 
 ---
 
-🌱 *Let's build something impactful — one line of code at a time.*
+### 🌐 Social
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mrchandrayee)  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mrchandrayee)  
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mrchandrayee)  
+[![Medium](https://img.shields.io/badge/-Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mrchandrayee)
+
+---
+
+💖 _Thanks for visiting! Let’s build something impactful together._  
