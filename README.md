@@ -7,46 +7,6 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=mrchandrayee&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 </div>
 
-<div align="center">
-  <h3>📈 Detailed Repository Analytics</h3>
-  
-  <!-- Repository Language Distribution -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mrchandrayee&theme=dracula" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mrchandrayee&theme=dracula" alt="Most Commit Language" />
-  
-  <!-- Contribution Timeline -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mrchandrayee&theme=dracula&utcOffset=8" alt="Contribution Timeline" />
-  
-  <!-- Contribution Graph -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrchandrayee&theme=dracula&hide_border=false" alt="GitHub Streak Stats" />
-  
-  <!-- Total Contributions -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrchandrayee&theme=dracula" width="100%" alt="Contribution Graph" />
-  
-  <!-- Advanced Analytics -->
-  <h3>🔍 Advanced Analytics</h3>
-  
-  <!-- Coding Stats -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrchandrayee&theme=dracula&layout=compact&langs_count=10&hide_border=true&custom_title=Top%20Languages" alt="Language Stats" width="70%" />
-  
-  <!-- Repository Traffic -->
-  <a href="https://github.com/mrchandrayee">
-    <img src="https://komarev.com/ghpvc/?username=mrchandrayee&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" height="25" alt="Profile Views Counter" />
-  </a>
-  
-  <!-- Trophy Stats -->
-  <img src="https://github-profile-trophy.vercel.app/?username=mrchandrayee&theme=dracula&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" width="100%" />
-  
-  <!-- Repository Growth Chart -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrchandrayee&theme=dracula&hide_border=true" width="100%" alt="Contribution Activity Graph" />
-  
-  <!-- Commit Activity Calendar -->
-  <img src="https://github-widgetbox.vercel.app/api/profile?username=mrchandrayee&data=followers,repositories,stars,commits&theme=dracula" alt="GitHub WidgetBox" width="70%" />
-</div>
-
-###
-
-<img align="right" height="150" src="https://i.pinimg.com/originals/03/28/3c/03283c06cd14ce8936b53fa2dbe9ecb7.gif"  />
 
 ###
 
@@ -184,5 +144,45 @@
 
 
 ---
+<div align="center">
+  <h3>📈 Detailed Repository Analytics</h3>
+  
+  <!-- Repository Language Distribution -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mrchandrayee&theme=dracula" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mrchandrayee&theme=dracula" alt="Most Commit Language" />
+  
+  <!-- Contribution Timeline -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mrchandrayee&theme=dracula&utcOffset=8" alt="Contribution Timeline" />
+  
+  <!-- Contribution Graph -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrchandrayee&theme=dracula&hide_border=false" alt="GitHub Streak Stats" />
+  
+  <!-- Total Contributions -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrchandrayee&theme=dracula" width="100%" alt="Contribution Graph" />
+  
+  <!-- Advanced Analytics -->
+  <h3>🔍 Advanced Analytics</h3>
+  
+  <!-- Coding Stats -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrchandrayee&theme=dracula&layout=compact&langs_count=10&hide_border=true&custom_title=Top%20Languages" alt="Language Stats" width="70%" />
+  
+  <!-- Repository Traffic -->
+  <a href="https://github.com/mrchandrayee">
+    <img src="https://komarev.com/ghpvc/?username=mrchandrayee&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" height="25" alt="Profile Views Counter" />
+  </a>
+  
+  <!-- Trophy Stats -->
+  <img src="https://github-profile-trophy.vercel.app/?username=mrchandrayee&theme=dracula&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" width="100%" />
+  
+  <!-- Repository Growth Chart -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrchandrayee&theme=dracula&hide_border=true" width="100%" alt="Contribution Activity Graph" />
+  
+  <!-- Commit Activity Calendar -->
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=mrchandrayee&data=followers,repositories,stars,commits&theme=dracula" alt="GitHub WidgetBox" width="70%" />
+</div>
+
+###
+
+<img align="right" height="150" src="https://i.pinimg.com/originals/03/28/3c/03283c06cd14ce8936b53fa2dbe9ecb7.gif"  />
 
 💖 _Thanks for visiting! Let’s build something impactful together._
