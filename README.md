@@ -1,188 +1,174 @@
-<h2 align="left">Hi 👋! My name is Chand Rayee and I'm a Full-Stack Developer from India</h2>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=BD93F9&center=true&vCenter=true&random=false&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Chand+Rayee;Full-Stack+Developer;AI+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+</h1>
 
-###
+<p align="center">
+  <a href="https://chandrayee.me"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=About.me&logoColor=BD93F9" alt="Portfolio"></a>
+  <a href="https://linkedin.com/in/mrchandrayee"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://twitter.com/mrchandrayee"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+  <a href="mailto:chandrayee.cse@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://medium.com/@mrchandrayee"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mrchandrayee&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" height="25" alt="Profile Views Counter" />
+</p>
+
+> *"Code is like humor. When you have to explain it, it's bad." – Cory House*
+
+## 📊 GitHub Statistics
 
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mrchandrayee&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=mrchandrayee&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 </div>
 
-
-###
-
-### 🔭 I'm currently working on:
-
-- **Religious Donation Platform** – An inclusive spiritual platform for India featuring:
-  - Real-time prayer alerts using geolocation
-  - Customizable Quran reader with audio support
-  - Live consultation with religious leaders via secure chat
-  - Blockchain-based transparent donation tracking
-  - _Tech Stack: Django, React Native, PostgreSQL, AWS_
-  - [View Project](https://github.com/mrchandrayee/)
-
-- **CodeCommune: AI-Enhanced Dev Community** – Building bridges between developers:
-  - AI-powered code review and optimization
-  - Knowledge-sharing platform with reputation system
-  - Collaborative problem-solving spaces with live coding
-  - _Tech Stack: Next.js, Node.js, MongoDB, OpenAI API_
-  - [Repository](https://github.com/mrchandrayee/)
-
-- **Open Source Contributions**:
-  - Active contributor to Django REST Framework
-  - Developing AI-enhanced plugins for VS Code
-  - Working on documentation improvements for React libraries
-  - [See Contributions](https://github.com/mrchandrayee)
-
-> 💡 My passion lies in creating technology that bridges cultural divides and makes specialized knowledge accessible to everyone. As someone who grew up in a small town in India and now works globally, I'm dedicated to building tools that connect people across backgrounds and expertise levels.
-
-### 👯 I’m looking to collaborate on:
-- **AI Resume Generator for Freelancers**  
-  [Coming Soon](https://github.com/mrchandrayee)
-
-### 🤝 I’m looking for help with:
-- **Marketing & GTM Strategy** for SaaS tools targeting creators and communities
-
-### 🌱 I’m currently learning:
-- Next.js 14  
-- Cloud-native app design (Kubernetes, Docker)  
-- LangChain & GPT APIs
-
-### 💬 Ask me about:
-- Django, React, DevOps, LLMs, GPT Integrations, Cloud Infrastructure
-
-### 📫 How to reach me:
-- 📧 Email: chandrayee.cse@gmail.com  
-- 🌐 Portfolio: [chandrayee.me](https://chandrayee.me)  
-- 📝 Blog: [medium.com/@mrchandrayee](https://medium.com/@mrchandrayee)  
-- 📄 Resume: [View Resume](https://chandrayee.me/cv)
-
-### ⚡ Fun fact:
-- I debug my dreams (yes, even in sleep mode)
-
----
-
-### 🛠️ Skills & Tech Stack
-
-#### Programming Languages  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-
-
-#### Frontend  
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular)
-![Material UI](https://img.shields.io/badge/-Material_UI-0081CB?style=flat&logo=material-ui)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-
-#### Backend  
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask)
-![REST API](https://img.shields.io/badge/-REST_API-FF6C37?style=flat&logo=postman)
-
-#### DevOps & Cloud  
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-![GCP](https://img.shields.io/badge/-GCP-4285F4?style=flat&logo=google-cloud&logoColor=white)
-![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat&logo=microsoft-azure)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-0080FF?style=flat&logo=digitalocean&logoColor=white)
-![CI/CD](https://img.shields.io/badge/-CI/CD-2088FF?style=flat&logo=github-actions&logoColor=white)
-
-#### Database  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![NoSQL](https://img.shields.io/badge/-NoSQL-4DB33D?style=flat&logo=mongodb&logoColor=white)
-
-#### AI/ML  
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/-Scikit_Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![OpenAI API](https://img.shields.io/badge/-OpenAI_API-412991?style=flat&logo=openai&logoColor=white)
-![NLP](https://img.shields.io/badge/-NLP-3776AB?style=flat&logo=python&logoColor=white)
-![Computer Vision](https://img.shields.io/badge/-Computer_Vision-3776AB?style=flat&logo=python&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/-Machine_Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/-Deep_Learning-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-
-#### Data Engineering
-![ETL Pipelines](https://img.shields.io/badge/-ETL_Pipelines-025E8C?style=flat&logo=apache-airflow&logoColor=white)
-![Data Warehousing](https://img.shields.io/badge/-Data_Warehousing-4285F4?style=flat&logo=google-cloud&logoColor=white)
-![Data Visualization](https://img.shields.io/badge/-Data_Visualization-FF6E4A?style=flat&logo=tableau&logoColor=white)
-![Data Science](https://img.shields.io/badge/-Data_Science-3776AB?style=flat&logo=python&logoColor=white)
-
-#### Tools  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code)
-![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-
-#### Soft Skills
-![Problem Solving](https://img.shields.io/badge/-Problem_Solving-4285F4?style=flat)
-![Critical Thinking](https://img.shields.io/badge/-Critical_Thinking-FF6F00?style=flat)
-![Teamwork](https://img.shields.io/badge/-Teamwork-009688?style=flat)
-![Communication](https://img.shields.io/badge/-Communication-0052CC?style=flat)
-![Time Management](https://img.shields.io/badge/-Time_Management-FF6C37?style=flat)
-
----
-
-### 🌐 Social
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mrchandrayee)  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mrchandrayee)  
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mrchandrayee)  
-
-
----
 <div align="center">
-  <h3>📈 Detailed Repository Analytics</h3>
-  
-  <!-- Repository Language Distribution -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mrchandrayee&theme=dracula" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mrchandrayee&theme=dracula" alt="Most Commit Language" />
-  
-  <!-- Contribution Timeline -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mrchandrayee&theme=dracula&utcOffset=8" alt="Contribution Timeline" />
-  
-  <!-- Contribution Graph -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrchandrayee&theme=dracula&hide_border=false" alt="GitHub Streak Stats" />
-  
-  <!-- Total Contributions -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrchandrayee&theme=dracula" width="100%" alt="Contribution Graph" />
-  
-  <!-- Advanced Analytics -->
-  <h3>🔍 Advanced Analytics</h3>
-  
-  <!-- Coding Stats -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrchandrayee&theme=dracula&layout=compact&langs_count=10&hide_border=true&custom_title=Top%20Languages" alt="Language Stats" width="70%" />
-  
-  <!-- Repository Traffic -->
-  <a href="https://github.com/mrchandrayee">
-    <img src="https://komarev.com/ghpvc/?username=mrchandrayee&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" height="25" alt="Profile Views Counter" />
-  </a>
-  
-  <!-- Trophy Stats -->
-  <img src="https://github-profile-trophy.vercel.app/?username=mrchandrayee&theme=dracula&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" width="100%" />
-  
-  <!-- Repository Growth Chart -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrchandrayee&theme=dracula&hide_border=true" width="100%" alt="Contribution Activity Graph" />
-  
-  <!-- Commit Activity Calendar -->
-  <img src="https://github-widgetbox.vercel.app/api/profile?username=mrchandrayee&data=followers,repositories,stars,commits&theme=dracula" alt="GitHub WidgetBox" width="70%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrchandrayee&theme=dracula&hide_border=true" alt="GitHub Streak Stats" />
 </div>
 
-###
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mrchandrayee/mrchandrayee/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
 
-<img align="right" height="150" src="https://i.pinimg.com/originals/03/28/3c/03283c06cd14ce8936b53fa2dbe9ecb7.gif"  />
+## 🚀 Current Projects
 
-💖 _Thanks for visiting! Let’s build something impactful together._
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">DevDaan: Religious Donation Platform</h3>
+      <div align="center">
+        <a href="https://github.com/mrchandrayee/devdaan" target="_blank">
+          <img src="https://img.shields.io/badge/Code-View%20Repository-BD93F9?style=for-the-badge&logo=github" alt="Repository" />
+        </a>
+        <a href="https://chandrayee.me/devdaan" target="_blank">
+          <img src="https://img.shields.io/badge/Demo-Live%20Preview-FF79C6?style=for-the-badge&logo=vercel" alt="Live Preview" />
+        </a>
+      </div>
+      <p>An inclusive spiritual platform for India featuring real-time prayer alerts, sacred text readers with audio support, and blockchain-based donation tracking.</p>
+      <p><strong>Tech Stack:</strong> Django, React Native, PostgreSQL, AWS</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">CodeCommune: AI-Enhanced Dev Community</h3>
+      <div align="center">
+        <a href="https://github.com/mrchandrayee/codecommune" target="_blank">
+          <img src="https://img.shields.io/badge/Code-View%20Repository-BD93F9?style=for-the-badge&logo=github" alt="Repository" />
+        </a>
+        <a href="https://chandrayee.me/codecommune" target="_blank">
+          <img src="https://img.shields.io/badge/Demo-Live%20Preview-FF79C6?style=for-the-badge&logo=vercel" alt="Live Preview" />
+        </a>
+      </div>
+      <p>Building bridges between developers with AI-powered code review, knowledge-sharing platform with reputation system, and collaborative problem-solving spaces.</p>
+      <p><strong>Tech Stack:</strong> Next.js, Node.js, MongoDB, OpenAI API</p>
+    </td>
+  </tr>
+</table>
+
+<details>
+  <summary><h2>🧰 Skills & Technologies</h2></summary>
+  
+  <h3>Programming Languages</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=py,js,ts,go,rust,solidity&theme=dark" />
+  </p>
+  
+  <h3>Frontend Development</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=react,nextjs,angular,vue,tailwind,materialui,html,css&theme=dark" />
+  </p>
+  
+  <h3>Backend Development</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=django,nodejs,express,fastapi,flask,graphql,prisma&theme=dark" />
+  </p>
+  
+  <h3>DevOps & Cloud</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,githubactions,jenkins,terraform&theme=dark" />
+  </p>
+  
+  <h3>Database</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,firebase,supabase&theme=dark" />
+  </p>
+  
+  <h3>AI/ML</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" />
+    <img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
+    <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+  </p>
+  
+  <h3>Tools</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=git,vscode,figma,postman,markdown,bash&theme=dark" />
+  </p>
+</details>
+
+<details>
+  <summary><h2>📚 Recent Blog Posts</h2></summary>
+  
+  <a href="https://medium.com/@mrchandrayee/how-to-integrate-openai-with-nextjs-a-complete-guide-54cd1ddbf0e2" target="_blank">
+    <strong>How to Integrate OpenAI with Next.js: A Complete Guide</strong>
+  </a>
+  <br/>
+  <i>Learn how to build AI-powered applications with Next.js and OpenAI's powerful API.</i>
+  <br/><br/>
+  
+  <a href="https://medium.com/@mrchandrayee/mastering-django-and-react-a-full-stack-developers-journey-87b2e7f9a543" target="_blank">
+    <strong>Mastering Django and React: A Full-Stack Developer's Journey</strong>
+  </a>
+  <br/>
+  <i>My experience building scalable applications with Django and React.</i>
+  <br/><br/>
+  
+  <a href="https://medium.com/@mrchandrayee/the-future-of-ai-in-web-development-trends-to-watch-in-2025-34d5e87f9b21" target="_blank">
+    <strong>The Future of AI in Web Development: Trends to Watch in 2025</strong>
+  </a>
+  <br/>
+  <i>Exploring how AI is reshaping the landscape of modern web development.</i>
+</details>
+
+<details>
+  <summary><h2>🌟 Featured Repositories</h2></summary>
+  
+  <a href="https://github.com/mrchandrayee/ai-code-reviewer">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mrchandrayee&repo=ai-code-reviewer&theme=dracula" />
+  </a>
+  <a href="https://github.com/mrchandrayee/django-nextjs-saas-starter">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mrchandrayee&repo=django-nextjs-saas-starter&theme=dracula" />
+  </a>
+</details>
+
+<details open>
+  <summary><h2>🔍 Advanced Analytics</h2></summary>
+  <div align="center">
+    <!-- Coding Stats -->
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrchandrayee&theme=dracula&layout=compact&langs_count=10&hide_border=true&custom_title=Top%20Languages" alt="Language Stats" width="70%" />
+    
+    <!-- Trophy Stats -->
+    <img src="https://github-profile-trophy.vercel.app/?username=mrchandrayee&theme=dracula&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" width="100%" />
+    
+    <!-- Repository Growth Chart -->
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrchandrayee&theme=dracula&hide_border=true" width="100%" alt="Contribution Activity Graph" />
+    
+    <!-- Calendar Contributions -->
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrchandrayee&theme=dracula" width="100%" alt="Contribution Graph" />
+  </div>
+</details>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Random Dev Quote" />
+</div>
+
+<div align="center">
+  <h2>💼 Let's Connect & Collaborate</h2>
+  <p>I'm always open to interesting projects and opportunities. Feel free to reach out!</p>
+  <a href="https://chandrayee.me/contact" target="_blank">
+    <img src="https://img.shields.io/badge/Schedule_a_Meeting-4285F4?style=for-the-badge&logo=google-calendar&logoColor=white" alt="Schedule a Meeting" />
+  </a>
+</div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=bd93f9&height=100&section=footer" alt="Wave Footer" />
+</p>
