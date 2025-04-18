@@ -7,6 +7,23 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=mrchandrayee&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 </div>
 
+<div align="center">
+  <h3>📈 Detailed Repository Analytics</h3>
+  
+  <!-- Repository Language Distribution -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mrchandrayee&theme=dracula" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mrchandrayee&theme=dracula" alt="Most Commit Language" />
+  
+  <!-- Contribution Timeline -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mrchandrayee&theme=dracula&utcOffset=8" alt="Contribution Timeline" />
+  
+  <!-- Contribution Graph -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrchandrayee&theme=dracula&hide_border=false" alt="GitHub Streak Stats" />
+  
+  <!-- Total Contributions -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrchandrayee&theme=dracula" width="100%" alt="Contribution Graph" />
+</div>
+
 ###
 
 <img align="right" height="150" src="https://i.pinimg.com/originals/03/28/3c/03283c06cd14ce8936b53fa2dbe9ecb7.gif"  />
@@ -15,20 +32,20 @@
 
 ### 🔭 I'm currently working on:
 
-- **DevDaan: Religious Donation Platform** – An inclusive spiritual platform for India featuring:
+- **Religious Donation Platform** – An inclusive spiritual platform for India featuring:
   - Real-time prayer alerts using geolocation
-  - Customizable Quran/Bhagavad Gita reader with audio support
+  - Customizable Quran reader with audio support
   - Live consultation with religious leaders via secure chat
   - Blockchain-based transparent donation tracking
   - _Tech Stack: Django, React Native, PostgreSQL, AWS_
-  - [View Project](https://github.com/mrchandrayee/devdaan)
+  - [View Project](https://github.com/mrchandrayee/)
 
 - **CodeCommune: AI-Enhanced Dev Community** – Building bridges between developers:
   - AI-powered code review and optimization
   - Knowledge-sharing platform with reputation system
   - Collaborative problem-solving spaces with live coding
   - _Tech Stack: Next.js, Node.js, MongoDB, OpenAI API_
-  - [Repository](https://github.com/mrchandrayee/codecommune)
+  - [Repository](https://github.com/mrchandrayee/)
 
 - **Open Source Contributions**:
   - Active contributor to Django REST Framework
