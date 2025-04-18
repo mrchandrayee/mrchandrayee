@@ -27,7 +27,7 @@
   <h3>🔍 Advanced Analytics</h3>
   
   <!-- Coding Stats -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrchandrayee&theme=dracula&layout=compact&langs_count=10&hide_border=true&custom_title=Most%20Used%20Languages%20(By%20File%20Size)" alt="Language Stats" width="70%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrchandrayee&theme=dracula&layout=compact&langs_count=10&hide_border=true&custom_title=Top%20Languages" alt="Language Stats" width="70%" />
   
   <!-- Repository Traffic -->
   <a href="https://github.com/mrchandrayee">
