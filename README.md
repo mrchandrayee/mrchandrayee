@@ -22,6 +22,29 @@
   
   <!-- Total Contributions -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrchandrayee&theme=dracula" width="100%" alt="Contribution Graph" />
+  
+  <!-- Advanced Analytics -->
+  <h3>🔍 Advanced Analytics</h3>
+  
+  <!-- Code Quality Metrics -->
+  <img src="https://metrics.lecoq.io/mrchandrayee?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&achievements=1&notable=1&isocalendar.duration=half-year&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable.from=organization&notable.repositories=false&config.timezone=Asia%2FKolkata" width="70%" alt="Detailed Metrics" />
+  
+  <!-- Wakatime Stats for Coding Time -->
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=mrchandrayee&theme=dracula&layout=compact" alt="Wakatime Stats" width="70%" />
+  
+  <!-- Repository Traffic -->
+  <a href="https://github.com/mrchandrayee">
+    <img src="https://komarev.com/ghpvc/?username=mrchandrayee&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" height="25" alt="Profile Views Counter" />
+  </a>
+  
+  <!-- Trophy Stats -->
+  <img src="https://github-profile-trophy.vercel.app/?username=mrchandrayee&theme=dracula&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" width="100%" />
+  
+  <!-- Repository Growth Chart -->
+  <img src="https://activity-graph.herokuapp.com/graph?username=mrchandrayee&theme=dracula&hide_border=true" width="100%" alt="Contribution Activity Graph" />
+  
+  <!-- Commit Activity Calendar -->
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=mrchandrayee&data=followers,repositories,stars,commits&theme=dracula" alt="GitHub WidgetBox" width="70%" />
 </div>
 
 ###
