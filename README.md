@@ -26,10 +26,7 @@
   <!-- Advanced Analytics -->
   <h3>🔍 Advanced Analytics</h3>
   
-  <!-- Code Quality Metrics -->
-  <img src="https://metrics.lecoq.io/mrchandrayee?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&achievements=1&notable=1&isocalendar.duration=half-year&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable.from=organization&notable.repositories=false&config.timezone=Asia%2FKolkata" width="70%" alt="Detailed GitHub Metrics" />
-  
-  <!-- Coding Stats (Alternative to Wakatime) -->
+  <!-- Coding Stats -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrchandrayee&theme=dracula&layout=compact&langs_count=10&hide_border=true&custom_title=Most%20Used%20Languages%20(By%20File%20Size)" alt="Language Stats" width="70%" />
   
   <!-- Repository Traffic -->
