@@ -23,48 +23,63 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=mrchandrayee&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrchandrayee&theme=dracula&hide_border=true" alt="GitHub Streak Stats" />
-</div>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mrchandrayee/mrchandrayee/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
+###
 
-## 🚀 Current Projects
+### 🔭 I'm currently working on:
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">DevDaan: Religious Donation Platform</h3>
-      <div align="center">
-        <a href="https://github.com/mrchandrayee/devdaan" target="_blank">
-          <img src="https://img.shields.io/badge/Code-View%20Repository-BD93F9?style=for-the-badge&logo=github" alt="Repository" />
-        </a>
-        <a href="https://chandrayee.me/devdaan" target="_blank">
-          <img src="https://img.shields.io/badge/Demo-Live%20Preview-FF79C6?style=for-the-badge&logo=vercel" alt="Live Preview" />
-        </a>
-      </div>
-      <p>An inclusive spiritual platform for India featuring real-time prayer alerts, sacred text readers with audio support, and blockchain-based donation tracking.</p>
-      <p><strong>Tech Stack:</strong> Django, React Native, PostgreSQL, AWS</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">CodeCommune: AI-Enhanced Dev Community</h3>
-      <div align="center">
-        <a href="https://github.com/mrchandrayee/codecommune" target="_blank">
-          <img src="https://img.shields.io/badge/Code-View%20Repository-BD93F9?style=for-the-badge&logo=github" alt="Repository" />
-        </a>
-        <a href="https://chandrayee.me/codecommune" target="_blank">
-          <img src="https://img.shields.io/badge/Demo-Live%20Preview-FF79C6?style=for-the-badge&logo=vercel" alt="Live Preview" />
-        </a>
-      </div>
-      <p>Building bridges between developers with AI-powered code review, knowledge-sharing platform with reputation system, and collaborative problem-solving spaces.</p>
-      <p><strong>Tech Stack:</strong> Next.js, Node.js, MongoDB, OpenAI API</p>
-    </td>
-  </tr>
-</table>
+- **Religious Donation Platform** – An inclusive spiritual platform for India featuring:
+  - Real-time prayer alerts using geolocation
+  - Customizable Quran reader with audio support
+  - Live consultation with religious leaders via secure chat
+  - Blockchain-based transparent donation tracking
+  - _Tech Stack: Django, React Native, PostgreSQL, AWS_
+  - [View Project](https://github.com/mrchandrayee/)
 
-<details>
+- **CodeCommune: AI-Enhanced Dev Community** – Building bridges between developers:
+  - AI-powered code review and optimization
+  - Knowledge-sharing platform with reputation system
+  - Collaborative problem-solving spaces with live coding
+  - _Tech Stack: Next.js, Node.js, MongoDB, OpenAI API_
+  - [Repository](https://github.com/mrchandrayee/)
+
+- **Open Source Contributions**:
+  - Active contributor to Django REST Framework
+  - Developing AI-enhanced plugins for VS Code
+  - Working on documentation improvements for React libraries
+  - [See Contributions](https://github.com/mrchandrayee)
+
+> 💡 My passion lies in creating technology that bridges cultural divides and makes specialized knowledge accessible to everyone. As someone who grew up in a small town in India and now works globally, I'm dedicated to building tools that connect people across backgrounds and expertise levels.
+
+### 👯 I’m looking to collaborate on:
+- **AI Resume Generator for Freelancers**  
+  [Coming Soon](https://github.com/mrchandrayee)
+
+### 🤝 I’m looking for help with:
+- **Marketing & GTM Strategy** for SaaS tools targeting creators and communities
+
+### 🌱 I’m currently learning:
+- Next.js 14  
+- Cloud-native app design (Kubernetes, Docker)  
+- LangChain & GPT APIs
+
+### 💬 Ask me about:
+- Django, React, DevOps, LLMs, GPT Integrations, Cloud Infrastructure
+
+### 📫 How to reach me:
+- 📧 Email: chandrayee.cse@gmail.com  
+- 🌐 Portfolio: [chandrayee.me](https://chandrayee.me)  
+- 📝 Blog: [medium.com/@mrchandrayee](https://medium.com/@mrchandrayee)  
+- 📄 Resume: [View Resume](https://chandrayee.me/cv)
+
+### ⚡ Fun fact:
+- I debug my dreams (yes, even in sleep mode)
+
+---
+
+### 🛠️ Skills & Tech Stack
+
+<details open>
   <summary><h2>🧰 Skills & Technologies</h2></summary>
   
   <h3>Programming Languages</h3>
@@ -105,40 +120,31 @@
   </p>
 </details>
 
-<details>
-  <summary><h2>📚 Recent Blog Posts</h2></summary>
-  
-  <a href="https://medium.com/@mrchandrayee/how-to-integrate-openai-with-nextjs-a-complete-guide-54cd1ddbf0e2" target="_blank">
-    <strong>How to Integrate OpenAI with Next.js: A Complete Guide</strong>
-  </a>
-  <br/>
-  <i>Learn how to build AI-powered applications with Next.js and OpenAI's powerful API.</i>
-  <br/><br/>
-  
-  <a href="https://medium.com/@mrchandrayee/mastering-django-and-react-a-full-stack-developers-journey-87b2e7f9a543" target="_blank">
-    <strong>Mastering Django and React: A Full-Stack Developer's Journey</strong>
-  </a>
-  <br/>
-  <i>My experience building scalable applications with Django and React.</i>
-  <br/><br/>
-  
-  <a href="https://medium.com/@mrchandrayee/the-future-of-ai-in-web-development-trends-to-watch-in-2025-34d5e87f9b21" target="_blank">
-    <strong>The Future of AI in Web Development: Trends to Watch in 2025</strong>
-  </a>
-  <br/>
-  <i>Exploring how AI is reshaping the landscape of modern web development.</i>
-</details>
+---
 
-<details>
-  <summary><h2>🌟 Featured Repositories</h2></summary>
+### 🌐 Social
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mrchandrayee)  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mrchandrayee)  
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mrchandrayee)  
+
+
+---
+<div align="center">
+  <h3>📈 Detailed Repository Analytics</h3>
   
-  <a href="https://github.com/mrchandrayee/ai-code-reviewer">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mrchandrayee&repo=ai-code-reviewer&theme=dracula" />
-  </a>
-  <a href="https://github.com/mrchandrayee/django-nextjs-saas-starter">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mrchandrayee&repo=django-nextjs-saas-starter&theme=dracula" />
-  </a>
-</details>
+  <!-- Repository Language Distribution -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mrchandrayee&theme=dracula" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mrchandrayee&theme=dracula" alt="Most Commit Language" />
+  
+  <!-- Contribution Timeline -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mrchandrayee&theme=dracula&utcOffset=8" alt="Contribution Timeline" />
+  
+  <!-- Contribution Graph -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrchandrayee&theme=dracula&hide_border=false" alt="GitHub Streak Stats" />
+  
+  <!-- Total Contributions -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrchandrayee&theme=dracula" width="100%" alt="Contribution Graph" />
 
 <details open>
   <summary><h2>🔍 Advanced Analytics</h2></summary>
