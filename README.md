@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=BD93F9&center=true&vCenter=true&random=false&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Chand+Rayee;Full-Stack+Developer;AI+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=BD93F9&center=true&vCenter=true&random=false&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Chand+Rayee;Full-Stack+Developer;AI+Engineer;Open+Source+Contributor" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -151,13 +151,13 @@
   <div align="center">
     <!-- Coding Stats -->
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrchandrayee&theme=dracula&layout=compact&langs_count=10&hide_border=true&custom_title=Top%20Languages" alt="Language Stats" width="70%" />
-    
+<br>
     <!-- Trophy Stats -->
     <img src="https://github-profile-trophy.vercel.app/?username=mrchandrayee&theme=dracula&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" width="100%" />
-    
+<br>
     <!-- Repository Growth Chart -->
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrchandrayee&theme=dracula&hide_border=true" width="100%" alt="Contribution Activity Graph" />
-    
+<br>
     <!-- Calendar Contributions -->
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrchandrayee&theme=dracula" width="100%" alt="Contribution Graph" />
   </div>
