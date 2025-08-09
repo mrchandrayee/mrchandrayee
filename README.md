@@ -5,7 +5,7 @@
 <p align="center">
   <strong>Chand Rayee</strong> — Full-Stack Developer, AI Architect, and Cloud Expert<br>
   <strong>8+ years of experience</strong> helping startups and enterprises build fast, secure, and future-ready digital systems<br>
-  <strong>Rate: $20.00/hr</strong>
+  
 </p>
 
 <p align="center">
@@ -111,7 +111,7 @@
 
 ### Business & Trading Platforms
 - **[DPTHub](https://dpthub.com/)** - Digital project management and tracking platform
-- **[Nstee.in](https://nstee.in/)** - Educational technology platform
+- **[nstee.in](https://nstee.in/)** - Fashion brand platform
 - **[PikaTrading](https://pikatrading.com/)** - Advanced trading analytics and tools
 - **[Aesora](https://aesora.com/)** - Business intelligence and analytics dashboard
 
