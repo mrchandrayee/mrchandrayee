@@ -3,134 +3,111 @@
 <h2 align="center">Transform your business with intelligent, high-performance web apps, custom AI solutions, and scalable cloud infrastructure.</h2>
 
 <p align="center">
-  <strong>Chand Rayee</strong> — Full-Stack Developer, AI Architect, and Cloud Expert<br>
-  <strong>8+ years of experience</strong> helping startups and enterprises build fast, secure, and future-ready digital systems<br>
-  
+  <strong>Chand Rayee</strong> — Full-Stack Developer, AI Architect & Cloud Expert<br>
+  <strong>8+ years of experience</strong> delivering secure, scalable, and future-ready digital solutions
 </p>
 
 <p align="center">
-  <a href="mailto:chandrayee.cse@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://linkedin.com/in/mrchandrayee"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:chandrayee.cse@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://linkedin.com/in/mrchandrayee"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://chandrayee.me"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
 </p>
 
 ---
 
 ## 🚀 What I Do Best
 
-- **Full-Stack Development** — React, Next.js, Django, Node.js & TypeScript
-- **AI-Powered Applications** — NLP, Computer Vision, Chatbots & Predictive Analytics
-- **Cloud-Native Infrastructure** — AWS, Azure, GCP & CI/CD DevOps workflows
-- **API Architecture & Integration** — REST, GraphQL, WebSocket APIs, 3rd-Party Services
-- **Enterprise Security** — Auth, rate limiting, data encryption, and compliance-ready systems
-- **UX-First Design** — Mobile-first, responsive UIs built with Tailwind CSS and modern frontends
+- **Full-Stack Development** — React, Next.js, Django, Node.js, TypeScript
+- **AI-Powered Applications** — NLP, Computer Vision, Chatbots, Predictive Analytics
+- **Cloud-Native Infrastructure** — AWS, Azure, GCP, CI/CD DevOps
+- **API Architecture & Integration** — REST, GraphQL, WebSockets, 3rd-Party APIs
+- **Enterprise-Grade Security** — Authentication, data encryption, compliance-ready systems
+- **UX-First Design** — Responsive, mobile-first interfaces with modern frameworks
 
-## 🧠 AI & ML Expertise
+---
 
-- **Chatbots & NLP**: Sentiment analysis, summarization, translation, and contextual AI agents
-- **Computer Vision**: Object detection, OCR, facial recognition, image/video processing
-- **Predictive Modeling**: Customer analytics, forecasting, risk scoring
-- **Process Automation**: Workflow optimization, smart schedulers, and performance tracking
-- **Custom AI Models**: Fine-tuned LLMs, continuous learning loops, and scalable deployments
+## 📌 Projects Portfolio
 
-## 🌐 Web Development Strengths
+### **AI-Powered Applications**
+- **[MeetCuteApp.ai](https://meetcuteapp.ai)**  
+  AI-based dating platform with machine learning–powered match suggestions, chat automation, and real-time compatibility scoring.  
+  *Tech:* Next.js, Django, WebSockets, OpenAI, AWS
 
-- **React / Next.js / Angular** — Fast, modern SPAs and SSR web apps
-- **Performance-Optimized Code** — Lazy loading, asset optimization, caching strategies
-- **SEO-Ready Builds** — Clean code, meta structuring, and page speed improvements
-- **Secure Full-Stack Systems** — Role-based access, encrypted data, and backend hardening
+- **[Campix.ai](https://campix.ai)**  
+  Automated AI platform for image processing, ad generation, and content optimization for marketing agencies.  
+  *Tech:* React, FastAPI, TensorFlow, AWS Lambda, S3
 
-## 🔌 API & Integration Capabilities
+- **[RealWin.ai](https://realwin.ai)**  
+  Predictive analytics platform for sports and business forecasting with custom AI models.  
+  *Tech:* Next.js, FastAPI, PostgreSQL, LangChain
 
-- **REST & GraphQL APIs** — Robust, scalable, and well-documented
-- **Microservices Architecture** — Service decomposition, API gateways, real-time sync
-- **Popular Integrations**: Stripe, PayPal, Zoom, Slack, Salesforce, HubSpot, Google APIs
-- **Secure Interfaces**: OAuth 2.0, JWT, API rate limiting, webhook implementations
+---
 
-## ☁️ Cloud, DevOps & Infra-as-Code
+### **Full-Stack Web Applications**
+- **[MiniaturesCraze](https://miniaturescraze.com)**  
+  E-commerce platform for 3D miniatures with 360° product views, secure payments, and custom order tracking.  
+  *Tech:* Next.js, Django REST, PostgreSQL, Stripe
 
-- **AWS | GCP | Azure Expert** — Serverless, EC2, Cloud SQL, Functions, RDS, Pub/Sub
-- **IaC & CI/CD**: Terraform, GitHub Actions, Jenkins, Docker, Kubernetes
-- **Serverless & Cost-Optimized Deployments** — Auto-scaling and performance-first designs
-- **Cloud Migrations** — Zero downtime, database transfers, legacy modernization
+- **[DropShapes](https://dropshapes.com)**  
+  AI-powered resume and portfolio builder with live preview, PDF export, and collaboration features.  
+  *Tech:* Next.js, Node.js, OpenAI, Supabase
 
-## ✅ Why Clients Choose Me
+- **[ProofSpark.io](https://proofspark.io)**  
+  Ad verification and fraud detection tool with AI-driven analytics and reporting dashboards.  
+  *Tech:* React, FastAPI, PostgreSQL, AWS S3
 
-- 8+ years of hands-on experience across full project lifecycles
-- Transparent, collaborative, and deadline-driven communication
-- Proven delivery of enterprise-grade, scalable software systems
-- Passionate about innovation, clean code, and business impact
+- **[Ramply.net](https://ramply.net)**  
+  Social networking and community engagement platform with content feeds, chat, and event management.  
+  *Tech:* Next.js, Django, PostgreSQL, WebSockets
+
+---
+
+### **Business & Trading Platforms**
+- **[DPTHub](https://dpthub.com)**  
+  Project management platform for IT companies with task tracking, resource allocation, and reporting.  
+  *Tech:* React, Django REST, PostgreSQL, AWS
+
+- **[nstee.in](https://nstee.in)**  
+  E-commerce store for premium apparel with product customization and secure online payments.  
+  *Tech:* Shopify, Liquid, JavaScript, Cloudflare
+
+- **[PikaTrading](https://pikatrading.com)**  
+  Trading analytics platform with market trend prediction, alerts, and portfolio management tools.  
+  *Tech:* Next.js, Node.js, Binance API, MongoDB
+
+- **[Aesora](https://aesora.com)**  
+  Business intelligence dashboard integrating analytics from multiple data sources with custom visualizations.  
+  *Tech:* React, Django, Chart.js, PostgreSQL
+
+---
+
+### **Other Notable Projects**
+- **[UploadArticle.com](https://uploadarticle.com)** — Multi-category content publishing platform. *(WordPress, PHP, MySQL)*
+- **[BaddieHub.uk](https://baddiehub.uk)** — Media-heavy content platform with optimized CDN delivery. *(Next.js, Node.js)*
+- **[LyricsBaazaar.com](https://lyricsbaazaar.com)** — Lyrics website with SEO-optimized song pages. *(WordPress, PHP)*
+- **[Streameast.org.uk](https://streameast.org.uk)** — Live streaming aggregation platform. *(React, Node.js)*
+- **[AaryaEditz.us](https://aaryaeditz.us)** — Video editing and content creation showcase site. *(WordPress)*
+- **[TechInfoBusiness.com](https://techinfobusiness.com)** — Technology news and insights portal. *(WordPress, PHP)*
 
 ---
 
 ## 🛠️ Tech Stack Highlights
 
-### Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,vue,tailwind,typescript,html,css&theme=dark" />
-</p>
-
-### Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=django,nodejs,fastapi,flask,express,graphql&theme=dark" />
-</p>
-
-### Cloud/DevOps
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,githubactions,jenkins,terraform&theme=dark" />
-</p>
-
-### AI/ML
-<p>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch&theme=dark" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
-</p>
-
-### Database
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,firebase,supabase&theme=dark" />
-</p>
+**Frontend:** React, Next.js, Angular, Vue, Tailwind CSS, TypeScript  
+**Backend:** Django, FastAPI, Flask, Node.js, Express, GraphQL  
+**Cloud/DevOps:** AWS, GCP, Azure, Docker, Kubernetes, GitHub Actions, Jenkins, Terraform  
+**AI/ML:** Python, TensorFlow, PyTorch, OpenAI, LangChain  
+**Databases:** PostgreSQL, MySQL, MongoDB, Redis, Firebase, Supabase
 
 ---
 
-## 🚀 Sample Work & Portfolio
+## 🤝 Let’s Build Something Great
 
-### AI-Powered Applications
-- **[MeetCuteApp.ai](https://meetcuteapp.ai)** - AI-powered dating platform with smart matching algorithms
-  - [API Documentation](https://api.meetcuteapp.ai/docs)
-- **[Campix.ai](https://www.campix.ai/)** - AI-driven image processing and enhancement platform
-- **[RealWin.ai](https://realwin.ai/)** - Intelligent analytics and prediction system
-
-### Full-Stack Web Applications
-- **[MiniaturescrCraze](https://miniaturescraze.com)** - E-commerce platform with advanced features
-  - [API Documentation](https://api.miniaturescraze.com/docs)
-- **[DropShapes](https://dropshapes.com)** - Interactive design tool with real-time collaboration
-  - [API Documentation](https://api.dropshapes.com/docs)
-- **[ProofSpark.io](https://proofspark.io/)** - Document verification and management system
-- **[Ramply.net](https://www.ramply.net/)** - Social networking and community platform
-
-### Business & Trading Platforms
-- **[DPTHub](https://dpthub.com/)** - Digital project management and tracking platform
-- **[nstee.in](https://nstee.in/)** - Fashion brand platform
-- **[PikaTrading](https://pikatrading.com/)** - Advanced trading analytics and tools
-- **[Aesora](https://aesora.com/)** - Business intelligence and analytics dashboard
-
----
-
-## 🤝 Ready to Transform Your Business?
-
-I specialize in delivering production-ready, scalable, and well-documented solutions that drive real business impact. Whether you're building a custom AI solution, scaling your web application, or migrating to the cloud — I'm here to make your vision a reality.
-
-**Let's connect and discuss your next project:**
+I deliver **production-ready, scalable, and well-documented** solutions that create real business impact.  
+Whether it’s **custom AI**, **full-stack web apps**, or **cloud migration** — I ensure smooth delivery and long-term success.
 
 <p align="center">
   <a href="mailto:chandrayee.cse@gmail.com">
-    <img src="https://img.shields.io/badge/Get_In_Touch-4285F4?style=for-the-badge&logo=gmail&logoColor=white" alt="Get In Touch" />
+    <img src="https://img.shields.io/badge/Contact_Me-4285F4?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</p>
-
----
-
-<p align="center">
-  <strong>Full-Stack | AI/ML | API | Cloud — Scalable Tech Solutions That Drive Results</strong>
 </p>
