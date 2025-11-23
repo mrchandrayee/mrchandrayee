@@ -1,132 +1,111 @@
-<h1 align="center">🚀 Chand Rayee</h1>
-<h3 align="center">Senior Full-Stack Developer | AI/ML Architect | Cloud Solutions Expert</h3>
+# Chand Rayee  
+### Senior Full-Stack Developer • AI/ML Engineer • Cloud Solutions Specialist
 
-<p align="center">
-  <a href="https://chandrayee.me"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
-  <a href="mailto:chandrayee.cse@gmail.com"><img src="https://img.shields.io/badge/Email-D44638?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://linkedin.com/in/mrchandrayee"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</p>
+## About Me  
+Hi, I’m **Chand**, a full-stack engineer with **8+ years of practical, hands-on experience** building real products for real businesses.
 
----
+I’ve worked with:
+- funded startups needing fast and stable development,
+- small and mid-sized companies modernizing their systems,
+- and global SaaS teams looking for long-term technical support.
 
-## 👋 About Me  
-I’m **Chand Rayee**, a **Senior Full-Stack Engineer & AI Architect** with **8+ years of hands-on experience** delivering complex, large-scale, and business-critical digital systems.
+My work is simple:  
+**I build systems that stay reliable, scale smoothly, and make business operations easier.**
 
-Over the years, I’ve helped:
-
-- Funded startups  
-- SME-level businesses  
-- Enterprise teams  
-- Global SaaS companies  
-
-build **reliable, scalable, secure, and future-ready platforms**.
-
-I specialize in transforming product ideas into **fully engineered, production-grade systems** — built with clean architecture, modern UI/UX, robust APIs, intelligent automation, and cloud-optimized deployments.
+I focus on clear architecture, smooth user experience, secure backend systems, and cloud setups that run without breaking.
 
 ---
 
-# 🔥 What I Bring to the Table (8+ Years Expertise)
+## 🔥 What I’m Good At
 
-### **✔ Product-Level Engineering**  
-Not just coding — I build **complete solutions** with architecture, scalability, and long-term maintainability in mind.
+### **Building Complete Products**
+Not just front-end, not just API —  
+I take an idea and turn it into a fully working, well-structured application.
 
-### **✔ AI-First Digital Transformation**  
-Practical implementation of AI to automate tasks, enhance user experience, and drive real business value.
+### **Practical AI Development**
+Integrating AI where it actually makes sense:
+- automation  
+- chat systems  
+- data processing  
+- recommendations  
+- real-time intelligence  
 
-### **✔ Mature Backend & API Engineering**  
-High-performance, secure, well-structured backend systems used by real customers at scale.
+### **Backend Engineering That Scales**
+I’ve built APIs and backend systems that handle real users, real traffic, and real business needs.
 
-### **✔ Cloud-Native Reliability**  
-Deployment pipelines, monitoring, logs, alerts, cost-optimization, and infrastructure that simply *works*.
+### **Cloud & Deployment**
+Stable environments, CI/CD pipelines, monitoring, logs, security —  
+so teams can focus on business while the system quietly does its work.
 
-### **✔ Professional Communication**  
-Clear updates, predictable delivery, and a problem-solving mindset.
+### **Communication & Clarity**
+I keep development clean, transparent, and predictable.  
+Clients always know what’s happening and what’s next.
 
 ---
 
-# 🛠 Technical Expertise (Senior Level)
+## 🛠 Technical Skills (Short & Clear)
 
-### **Frontend Engineering**
-<p>
-  <img src="https://skillicons.dev/icons?i=next,react,ts,tailwind,redux" />
-</p>
-- Enterprise-ready UI  
-- Performance optimization  
-- Accessibility & SEO  
-- Component-driven architecture  
+### **Frontend**
+- React, Next.js, TypeScript  
+- Clean UI implementation  
+- Fast, responsive, and SEO-focused builds  
 
-### **Backend & Core Engineering**
-<p>
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,nodejs,express" />
-</p>
-- Scalable APIs  
-- Authentication & security  
-- Microservices  
-- Background workers & schedulers  
-- Real-time WebSocket systems  
+### **Backend**
+- Python (Django, FastAPI)  
+- Node.js (Express)  
+- REST APIs, authentication, real-time features  
+- Microservices and structured architecture  
 
-### **AI / ML (Practical, Real-World Use Cases)**
-- NLP, CV, Generative AI  
-- LangChain, RAG, Vector DB  
-- Automation agents  
-- Embedding search  
+### **AI / ML**
+- NLP, GenAI, automation  
+- LangChain, vector search, embedding systems  
+- AI-powered features for real applications  
 
 ### **Cloud & DevOps**
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,cloudflare,githubactions" />
-</p>
+- AWS, Docker, deployments  
 - CI/CD pipelines  
-- Containerized deployments  
-- High availability & monitoring  
-- Cost-optimized infrastructure  
+- Monitoring, logs, backups, security  
 
-### **Databases & Storage**
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,firebase,supabase" />
-</p>
-- Normalized & scalable schemas  
-- Optimization & indexing  
-- Caching strategies  
-- Storage architecture  
+### **Databases**
+- PostgreSQL, MySQL, MongoDB, Redis  
+- Query optimization, indexing, caching  
+- Scalable database design  
 
 ---
 
-# 🧩 Engineering Values (My Work Philosophy)
-- **Build once, scale forever**  
-- **Clean code → clean systems**  
-- **Speed + reliability > shortcuts**  
-- **Security baked into every layer**  
-- **Documentation that saves future cost**  
-- **Deliver what is promised, maintain what is built**  
+## 🧩 How I Approach Engineering  
+- Build features that solve real problems  
+- Keep code clean, simple, and maintainable  
+- Prioritize security and stability  
+- Document everything that matters  
+- Deliver what I promise — on time  
+
+I always aim for systems that the next developer can understand without frustration.
 
 ---
 
-# 📈 GitHub Stats (Activity Overview)
+## 📈 GitHub Overview
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mrchandrayee&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mrchandrayee&theme=tokyonight&hide_border=true" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=mrchandrayee&show_icons=true&theme=default&hide_border=true" />
+  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=mrchandrayee&theme=default&hide_border=true" />
 </p>
 
 ---
 
-# 🤝 Let’s Work Together  
-I partner with teams who value **professionalism, long-term thinking, and engineering excellence**.
-
-If you’re building:
-
+## 🤝 Let’s Work Together  
+If you're working on:
 - a SaaS platform  
-- an AI-powered product  
-- a large-scale full-stack application  
-- a cloud-native backend  
-- or modern enterprise-grade solutions  
+- an AI feature or automation  
+- a backend that needs to scale  
+- a complete full-stack product  
+- or a system that must be stable and secure  
 
-I’d be glad to contribute my experience.
+…I’d be happy to help.
 
-<p align="center">
-  <a href="mailto:chandrayee.cse@gmail.com">
-    <img src="https://img.shields.io/badge/Contact_Me-2D8CFF?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-</p>
+Feel free to connect:  
+📩 **chandrayee.cse@gmail.com**
 
-<h3 align="center">“Reliable engineering. Mature delivery. Real-world results.”</h3>
+---
+
+### “Good engineering is quiet, reliable, and built to last.”
