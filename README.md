@@ -1,4 +1,6 @@
-# 🔥 Chand Rayee — Full-Stack Developer | AI Architect | Cloud Engineer
+<!-- Header Banner -->
+<h1 align="center">🚀 Chand Rayee</h1>
+<h3 align="center">Full-Stack Developer | AI/ML Engineer | Cloud Architect</h3>
 
 <p align="center">
   <a href="https://chandrayee.me"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
@@ -9,111 +11,81 @@
 
 ---
 
-<h2 align="center">🚀 Building Intelligent, Scalable & High-Performance Systems</h2>
+## 🧑‍💻 About Me
 
-I am a **Full-Stack Developer**, **AI Engineer**, and **Cloud Architect** with **8+ years** of experience delivering production-grade applications for startups, enterprises, and global SaaS companies.
+I'm **Chand Rayee**, a highly experienced **Full-Stack Developer**, **AI Architect**, and **Cloud Engineer** with **8+ years** of building scalable, secure, and production-grade solutions.
 
----
+I specialize in **end-to-end product development** — from designing system architecture to building intelligent APIs, crafting modern interfaces, and deploying cloud-native applications.
 
-## 🔥 About Me
+I help businesses build:
 
-- 🧑‍💻 Full-Stack Developer (React, Next.js, Django, FastAPI, TypeScript)  
-- 🤖 AI/ML Engineer (NLP, Generative AI, Computer Vision, LangChain, RAG)  
-- ☁️ Cloud Specialist (AWS, Docker, Kubernetes, CI/CD, Cloudflare)  
-- 🔐 Enterprise system designer — scalable, secure, and future-ready  
-- 🧩 Passionate about AI automation, real-time applications & SaaS architecture  
-
----
-
-# 📌 Featured Projects (Latest)
-
-## 🧠 AI Platforms & Automation
-
-### 🔹 **MeetCuteApp.ai**
-AI-powered dating platform with compatibility scoring & automated chat agents.  
-**Tech:** Next.js, Django, WebSockets, PostgreSQL, OpenAI, AWS
-
-### 🔹 **Campix.ai**
-Automated AI platform for media processing & content generation.  
-**Tech:** React, FastAPI, TensorFlow, AWS Lambda, S3
-
-### 🔹 **RealWin.ai**
-AI prediction system for sports & business intelligence.  
-**Tech:** Next.js, FastAPI, PostgreSQL, LangChain
+✔ Scalable end-to-end SaaS platforms  
+✔ AI-powered workflows & automation systems  
+✔ High-performance APIs & backend systems  
+✔ Modern, fast, enterprise-ready dashboards  
+✔ Secure, cloud-native apps with CI/CD pipelines  
 
 ---
 
-## 💼 Full-Stack SaaS & Web Apps
+## ⚡ What I Do
 
-### 🔹 **MiniaturesCraze**
-E-commerce for 3D miniatures with custom order tracking & secure payments.  
-**Tech:** Next.js, Django REST, PostgreSQL, Stripe
+### **💻 Full-Stack Development**
+- React / Next.js 14 / TypeScript  
+- Django / FastAPI / Node.js  
+- Component-driven architecture  
+- UI/UX optimized, SEO-ready, responsive apps  
 
-### 🔹 **DropShapes**
-AI résumé + portfolio builder with real-time PDF export.  
-**Tech:** Next.js, Node.js, Supabase, OpenAI
+### **🤖 AI/ML Engineering**
+- NLP, CV, Chatbots, RAG, LangChain  
+- Generative AI integrations  
+- Custom AI model pipelines  
+- Intelligent automation  
 
-### 🔹 **ProofSpark.io**
-AI-driven ad verification & fraud detection dashboards.  
-**Tech:** React, FastAPI, PostgreSQL, AWS
+### **☁️ Cloud & DevOps**
+- AWS (Lambda, S3, EC2, CloudFront)  
+- Docker, Kubernetes, GitHub Actions  
+- CI/CD, Auto-Scaling, Monitoring  
+- Cloud Architecture & Security  
 
-### 🔹 **Ramply.net**
-Social platform with content feed, events & real-time chat.  
-**Tech:** Next.js, Django, WebSockets
-
----
-
-## 📊 Business, Trading & Enterprise Platforms
-
-### 🔹 **DPTHub**
-Project & resource management system for IT teams.  
-**Tech:** React, Django REST, PostgreSQL, AWS
-
-### 🔹 **PikaTrading**
-Market trend analytics & portfolio monitoring.  
-**Tech:** Next.js, Node.js, Binance API, MongoDB
-
-### 🔹 **Aesora**
-BI dashboards with multi-source analytics.  
-**Tech:** React, Django, PostgreSQL
-
-### 🔹 **nstee.in**
-Premium apparel e-commerce.  
-**Tech:** Shopify, Liquid, Cloudflare
+### **🔐 Backend & API Architecture**
+- Microservices  
+- WebSockets & real-time systems  
+- REST / GraphQL / gRPC  
+- High-performance, secure APIs  
 
 ---
 
-## 🌍 Other Work (Live)
-
-- UploadArticle.com  
-- BaddieHub.uk  
-- Streameast.org.uk  
-- LyricsBaazaar.com  
-- AaryaEditz.us  
-- TechInfoBusiness.com  
-
----
-
-# 🛠️ Tech Stack
+## 🛠️ Tech Skills (Latest)
 
 ### **Frontend**
-React • Next.js 14 • TypeScript • Tailwind • Redux • ShadCN UI • WebSockets
+<p>
+  <img src="https://skillicons.dev/icons?i=react,next,ts,tailwind,redux,html,css,js" />
+</p>
 
 ### **Backend**
-FastAPI • Django REST • Node.js • Express • GraphQL • Microservices
+<p>
+  <img src="https://skillicons.dev/icons?i=python,django,fastapi,nodejs,express" />
+</p>
 
-### **AI & ML**
-Python • TensorFlow • PyTorch • OpenAI • LangChain • Vector DBs • RAG
+### **AI / ML**
+<p>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+</p>
+- OpenAI • LangChain • Vector DB • RAG
 
-### **Cloud & DevOps**
-AWS (S3, Lambda, EC2) • Docker • Kubernetes • GitHub Actions • Cloudflare • CI/CD
+### **Cloud / DevOps**
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,cloudflare,githubactions" />
+</p>
 
 ### **Databases**
-PostgreSQL (JSONB) • MySQL • MongoDB • Redis • Supabase • Firebase
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,firebase,supabase" />
+</p>
 
 ---
 
-# 📈 GitHub Stats
+## 📊 GitHub Overview
 
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=mrchandrayee&show_icons=true&theme=tokyonight" />
@@ -122,14 +94,35 @@ PostgreSQL (JSONB) • MySQL • MongoDB • Redis • Supabase • Firebase
 
 ---
 
-# 💬 Let’s Build Something Great
+## ⚙️ Code Philosophy
 
-I build **secure, scalable & AI-powered applications** that create measurable business impact.  
-If you're working on something ambitious, I’d love to collaborate.
+- **Clean, modular, scalable** code  
+- **Production-ready** architecture  
+- **Performance-first** mind-set  
+- **Security & reliability** as core principles  
+- **Documentation without complexity**  
+
+---
+
+## 🤝 Let’s Collaborate
+
+If you're building something innovative — SaaS, AI automation, full-stack platform, or cloud-native system — I can help you bring it to life.
 
 <p align="center">
   <a href="mailto:chandrayee.cse@gmail.com">
-    <img src="https://img.shields.io/badge/Contact_Me-4285F4?style=for-the-badge&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/Contact_Me-4285F4?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
+---
+
+### ⭐ Want an even more premium design?
+I can generate:
+
+- A **Glassmorphism UI** version  
+- A **Neon Cyberpunk** version  
+- A **Minimal Ultra-Clean** version  
+- A **Dark Portfolio Styled** version  
+- A **Developer Portfolio with animation badges**  
+
+Just tell me!  
