@@ -97,20 +97,41 @@ Query optimization, indexing, scalable schema design
 - Focus only on features that add real long-term value  
 - Deliver consistent and reliable outcomes without unnecessary complexity  
 
----
 
-## GitHub Overview  
-
-<p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=mrchandrayee&show_icons=true&theme=default&hide_border=true" />
-  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=mrchandrayee&theme=default&hide_border=true" />
-</p>
-
----
 
 ## Contact  
-If you’re developing a SaaS platform, AI-driven application, backend-heavy system, or cloud-native product and need someone who can bring structure, clarity, and long-term engineering thinking, I’d be happy to connect.
+If you’re working on a SaaS platform, AI-driven application, backend-heavy system, or cloud-native product and need structured engineering, reliable delivery, and long-term technical support, feel free to reach out.
 
-Email: **chandrayee.cse@gmail.com**  
-Portfolio: **https://chandrayee.me**  
-Location: **New Delhi, India**
+**Email:**  
+chandrayee.cse@gmail.com  
+
+**Phone / WhatsApp:**  
++91 9334575742  
+
+**Portfolio:**  
+https://chandrayee.me  
+
+**Personal Website:**  
+https://iapfsai.com  
+
+**Upwork:**  
+https://www.upwork.com/freelancers/~01858df63e54e4b647  
+
+**Fiverr:**  
+https://www.fiverr.com/mrchandrayee/  
+
+**GitHub:**  
+https://github.com/mrchandrayee  
+
+**LinkedIn:**  
+https://linkedin.com/in/mrchandrayee  
+
+**Instagram:**  
+https://instagram.com/chandrayee  
+
+**Facebook:**  
+https://facebook.com/chandrayee  
+
+**YouTube:**  
+https://www.youtube.com/@mrchandrayee  
+
