@@ -1,77 +1,86 @@
 # Chand Rayee  
-Senior Full-Stack Developer | AI/ML Engineer | Cloud Solutions Architect
+Senior Full-Stack Developer | AI/ML Engineer | Cloud Solutions Architect  
+New Delhi, India  
 
-## About Me
-I am Chand Rayee, a full-stack and AI-focused engineer with more than eight years of practical experience in designing, building, and maintaining production-grade systems.
+## About Me  
+I am a full-stack engineer with over eight years of experience designing and building reliable, scalable, and long-term software systems.  
+My work spans across product engineering, AI-enabled platforms, large backend systems, and cloud infrastructure that supports real users and revenue-driven businesses.
 
-My work spans across funded startups, mid-sized companies, and global SaaS teams. I specialize in taking a product from concept to a stable, scalable, and maintainable platform that can support real users and real business workflows.
+Over the years, I’ve worked with:  
+- DPT Hub Private Limited (Senior Software Engineer, 2023–Present)  
+- Digital Promotion Team (AI Integration Specialist, 2021–2022)  
+- Faskum Technologies (Full-Stack Developer, 2017–2020)
 
-I focus on long-term reliability, clean engineering, and predictable delivery. My approach is straightforward: understand the problem clearly, architect the right solution, and execute with consistency.
+Across these roles, I’ve delivered production systems used by organizations in India and abroad — including SaaS platforms, AI-integrated applications, real-time communication tools, e-commerce solutions, and custom enterprise dashboards.
 
----
-
-## What I Do
-**Full Product Development**  
-I build complete systems — frontend, backend, databases, and cloud deployment — with an emphasis on clarity, maintainability, and practical scalability.
-
-**AI and Automation**  
-I implement AI where it adds real value, such as automation, intelligent search, NLP-based systems, and workflow enhancements.
-
-**Backend & API Engineering**  
-I build structured, secure, and performant APIs designed for real production environments.
-
-**Cloud & DevOps**  
-I set up environments that run reliably: CI/CD pipelines, monitoring, logs, deployment systems, and cost-efficient cloud setups.
-
-**Clear Communication**  
-I keep the process transparent with clear expectations, progress updates, and straightforward discussion.
+I focus on building software that continues to work reliably as the business grows: clean backend architecture, predictable deployments, structured APIs, straightforward UX, and cloud environments designed for long-term maintainability.
 
 ---
 
-## Technical Skills
+## Professional Strengths  
 
-### Frontend
+### Product Engineering  
+I help teams turn product ideas into complete, stable platforms — from planning and architecture to development, testing, and production deployment.
+
+### Backend, APIs & Systems  
+I work extensively with Python, Django, FastAPI, Node.js, and microservice patterns to build secure, fast, and durable backend systems.
+
+### Applied AI  
+I integrate AI where it directly supports business goals: automated workflows, NLP systems, recommendation models, data extraction, document intelligence, and conversational interfaces.
+
+### Cloud & Reliability  
+Experience setting up AWS-based deployments, CI/CD pipelines, monitoring, logs, error tracking, and ensuring systems remain available and cost-efficient.
+
+### Long-Term Partnership  
+Most of my professional work involves long-term collaboration with teams building complex platforms that evolve over months and years.
+
+---
+
+## Technical Expertise  
+
+### Frontend  
 - React, Next.js, TypeScript  
-- Component-driven development  
-- Performance optimization and SEO  
-- Clean and responsive UI implementation  
+- Tailwind, component-driven UI  
+- Performance tuning and SEO  
+- Clean, predictable UI development  
 
-### Backend
-- Python (Django, FastAPI)  
-- Node.js (Express)  
+### Backend  
+- Django, FastAPI, Node.js  
 - REST APIs, authentication, authorization  
 - Real-time systems (WebSockets)  
-- Microservices and modular architecture  
+- Modular architecture and microservices  
 
-### AI / Machine Learning
-- NLP, text processing, embedding search  
-- RAG, LangChain, vector databases  
-- Practical AI integrations for real products  
+### AI / ML  
+- NLP and document processing  
+- Generative AI, embeddings, vector search  
+- LangChain-based pipelines  
+- Workflow automation and AI agents  
 
-### Cloud & DevOps
-- AWS (EC2, Lambda, S3, CloudFront)  
-- Docker, Kubernetes, GitHub Actions  
-- CI/CD pipelines  
-- Monitoring, logging, backups, security practices  
+### Cloud & DevOps  
+- AWS (EC2, S3, Lambda, CloudFront)  
+- Docker, Kubernetes  
+- GitHub Actions, CI/CD  
+- Monitoring, logging, backups, infra planning  
 
-### Databases
+### Databases  
 - PostgreSQL, MySQL, MongoDB, Redis  
-- Query optimization and indexing  
-- Caching strategies  
-- Scalable schema design  
+- Schema design, indexing, optimization  
+- Caching and high-performance queries  
 
 ---
 
-## How I Work
-- I prefer clarity over complexity.  
-- I design systems that remain understandable months or years later.  
-- I prioritize reliability and security at the core of every decision.  
-- I document what matters so teams can move faster.  
-- I deliver solutions that continue to perform under real-world usage.  
+## Engineering Approach  
+- Build systems that remain stable beyond the first release  
+- Keep codebase clean and understandable  
+- Choose architecture based on long-term impact, not trends  
+- Prioritize reliability and security from day one  
+- Communicate progress clearly and work in structured phases  
+- Maintain documentation that helps teams scale faster  
+- Deliver predictable outcomes with minimal surprises  
 
 ---
 
-## GitHub Overview
+## GitHub Overview  
 
 <p align="center">
   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=mrchandrayee&show_icons=true&theme=default&hide_border=true" />
@@ -80,7 +89,11 @@ I keep the process transparent with clear expectations, progress updates, and st
 
 ---
 
-## Let's Connect
-If you are working on a SaaS platform, AI feature, backend system, or a full-scale product and need a developer who brings experience, structure, and long-term thinking, feel free to reach out.
+## Contact  
+I work with teams building SaaS platforms, AI-enabled applications, full-stack products, backend-heavy systems, and cloud-native platforms.
 
-Email: **chandrayee.cse@gmail.com**
+If you need a developer who prioritizes clarity, reliability, and long-term architecture, feel free to connect.
+
+Email: **chandrayee.cse@gmail.com**  
+Portfolio: **chandrayee.me**  
+Location: **New Delhi, India**
