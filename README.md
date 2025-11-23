@@ -1,113 +1,135 @@
-# Full-Stack | AI/ML | API | Cloud — Scalable Tech Solutions
-
-<h2 align="center">Transform your business with intelligent, high-performance web apps, custom AI solutions, and scalable cloud infrastructure.</h2>
+# 🔥 Chand Rayee — Full-Stack Developer | AI Architect | Cloud Engineer
 
 <p align="center">
-  <strong>Chand Rayee</strong> — Full-Stack Developer, AI Architect & Cloud Expert<br>
-  <strong>8+ years of experience</strong> delivering secure, scalable, and future-ready digital solutions
-</p>
-
-<p align="center">
+  <a href="https://chandrayee.me"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
   <a href="mailto:chandrayee.cse@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://linkedin.com/in/mrchandrayee"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://chandrayee.me"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
+  <a href="https://github.com/mrchandrayee"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
 ---
 
-## 🚀 What I Do Best
+<h2 align="center">🚀 Building Intelligent, Scalable & High-Performance Systems</h2>
 
-- **Full-Stack Development** — React, Next.js, Django, Node.js, TypeScript
-- **AI-Powered Applications** — NLP, Computer Vision, Chatbots, Predictive Analytics
-- **Cloud-Native Infrastructure** — AWS, Azure, GCP, CI/CD DevOps
-- **API Architecture & Integration** — REST, GraphQL, WebSockets, 3rd-Party APIs
-- **Enterprise-Grade Security** — Authentication, data encryption, compliance-ready systems
-- **UX-First Design** — Responsive, mobile-first interfaces with modern frameworks
+I am a **Full-Stack Developer**, **AI Engineer**, and **Cloud Architect** with **8+ years** of experience delivering production-grade applications for startups, enterprises, and global SaaS companies.
 
 ---
 
-## 📌 Projects Portfolio
+## 🔥 About Me
 
-### **AI-Powered Applications**
-- **[MeetCuteApp.ai](https://meetcuteapp.ai)**  
-  AI-based dating platform with machine learning–powered match suggestions, chat automation, and real-time compatibility scoring.  
-  *Tech:* Next.js, Django, WebSockets, OpenAI, AWS
-
-- **[Campix.ai](https://campix.ai)**  
-  Automated AI platform for image processing, ad generation, and content optimization for marketing agencies.  
-  *Tech:* React, FastAPI, TensorFlow, AWS Lambda, S3
-
-- **[RealWin.ai](https://realwin.ai)**  
-  Predictive analytics platform for sports and business forecasting with custom AI models.  
-  *Tech:* Next.js, FastAPI, PostgreSQL, LangChain
+- 🧑‍💻 Full-Stack Developer (React, Next.js, Django, FastAPI, TypeScript)  
+- 🤖 AI/ML Engineer (NLP, Generative AI, Computer Vision, LangChain, RAG)  
+- ☁️ Cloud Specialist (AWS, Docker, Kubernetes, CI/CD, Cloudflare)  
+- 🔐 Enterprise system designer — scalable, secure, and future-ready  
+- 🧩 Passionate about AI automation, real-time applications & SaaS architecture  
 
 ---
 
-### **Full-Stack Web Applications**
-- **[MiniaturesCraze](https://miniaturescraze.com)**  
-  E-commerce platform for 3D miniatures with 360° product views, secure payments, and custom order tracking.  
-  *Tech:* Next.js, Django REST, PostgreSQL, Stripe
+# 📌 Featured Projects (Latest)
 
-- **[DropShapes](https://dropshapes.com)**  
-  AI-powered resume and portfolio builder with live preview, PDF export, and collaboration features.  
-  *Tech:* Next.js, Node.js, OpenAI, Supabase
+## 🧠 AI Platforms & Automation
 
-- **[ProofSpark.io](https://proofspark.io)**  
-  Ad verification and fraud detection tool with AI-driven analytics and reporting dashboards.  
-  *Tech:* React, FastAPI, PostgreSQL, AWS S3
+### 🔹 **MeetCuteApp.ai**
+AI-powered dating platform with compatibility scoring & automated chat agents.  
+**Tech:** Next.js, Django, WebSockets, PostgreSQL, OpenAI, AWS
 
-- **[Ramply.net](https://ramply.net)**  
-  Social networking and community engagement platform with content feeds, chat, and event management.  
-  *Tech:* Next.js, Django, PostgreSQL, WebSockets
+### 🔹 **Campix.ai**
+Automated AI platform for media processing & content generation.  
+**Tech:** React, FastAPI, TensorFlow, AWS Lambda, S3
 
----
-
-### **Business & Trading Platforms**
-- **[DPTHub](https://dpthub.com)**  
-  Project management platform for IT companies with task tracking, resource allocation, and reporting.  
-  *Tech:* React, Django REST, PostgreSQL, AWS
-
-- **[nstee.in](https://nstee.in)**  
-  E-commerce store for premium apparel with product customization and secure online payments.  
-  *Tech:* Shopify, Liquid, JavaScript, Cloudflare
-
-- **[PikaTrading](https://pikatrading.com)**  
-  Trading analytics platform with market trend prediction, alerts, and portfolio management tools.  
-  *Tech:* Next.js, Node.js, Binance API, MongoDB
-
-- **[Aesora](https://aesora.com)**  
-  Business intelligence dashboard integrating analytics from multiple data sources with custom visualizations.  
-  *Tech:* React, Django, Chart.js, PostgreSQL
+### 🔹 **RealWin.ai**
+AI prediction system for sports & business intelligence.  
+**Tech:** Next.js, FastAPI, PostgreSQL, LangChain
 
 ---
 
-### **Other Notable Projects**
-- **[UploadArticle.com](https://uploadarticle.com)** — Multi-category content publishing platform. *(WordPress, PHP, MySQL)*
-- **[BaddieHub.uk](https://baddiehub.uk)** — Media-heavy content platform with optimized CDN delivery. *(Next.js, Node.js)*
-- **[LyricsBaazaar.com](https://lyricsbaazaar.com)** — Lyrics website with SEO-optimized song pages. *(WordPress, PHP)*
-- **[Streameast.org.uk](https://streameast.org.uk)** — Live streaming aggregation platform. *(React, Node.js)*
-- **[AaryaEditz.us](https://aaryaeditz.us)** — Video editing and content creation showcase site. *(WordPress)*
-- **[TechInfoBusiness.com](https://techinfobusiness.com)** — Technology news and insights portal. *(WordPress, PHP)*
+## 💼 Full-Stack SaaS & Web Apps
+
+### 🔹 **MiniaturesCraze**
+E-commerce for 3D miniatures with custom order tracking & secure payments.  
+**Tech:** Next.js, Django REST, PostgreSQL, Stripe
+
+### 🔹 **DropShapes**
+AI résumé + portfolio builder with real-time PDF export.  
+**Tech:** Next.js, Node.js, Supabase, OpenAI
+
+### 🔹 **ProofSpark.io**
+AI-driven ad verification & fraud detection dashboards.  
+**Tech:** React, FastAPI, PostgreSQL, AWS
+
+### 🔹 **Ramply.net**
+Social platform with content feed, events & real-time chat.  
+**Tech:** Next.js, Django, WebSockets
 
 ---
 
-## 🛠️ Tech Stack Highlights
+## 📊 Business, Trading & Enterprise Platforms
 
-**Frontend:** React, Next.js, Angular, Vue, Tailwind CSS, TypeScript  
-**Backend:** Django, FastAPI, Flask, Node.js, Express, GraphQL  
-**Cloud/DevOps:** AWS, GCP, Azure, Docker, Kubernetes, GitHub Actions, Jenkins, Terraform  
-**AI/ML:** Python, TensorFlow, PyTorch, OpenAI, LangChain  
-**Databases:** PostgreSQL, MySQL, MongoDB, Redis, Firebase, Supabase
+### 🔹 **DPTHub**
+Project & resource management system for IT teams.  
+**Tech:** React, Django REST, PostgreSQL, AWS
+
+### 🔹 **PikaTrading**
+Market trend analytics & portfolio monitoring.  
+**Tech:** Next.js, Node.js, Binance API, MongoDB
+
+### 🔹 **Aesora**
+BI dashboards with multi-source analytics.  
+**Tech:** React, Django, PostgreSQL
+
+### 🔹 **nstee.in**
+Premium apparel e-commerce.  
+**Tech:** Shopify, Liquid, Cloudflare
 
 ---
 
-## 🤝 Let’s Build Something Great
+## 🌍 Other Work (Live)
 
-I deliver **production-ready, scalable, and well-documented** solutions that create real business impact.  
-Whether it’s **custom AI**, **full-stack web apps**, or **cloud migration** — I ensure smooth delivery and long-term success.
+- UploadArticle.com  
+- BaddieHub.uk  
+- Streameast.org.uk  
+- LyricsBaazaar.com  
+- AaryaEditz.us  
+- TechInfoBusiness.com  
+
+---
+
+# 🛠️ Tech Stack
+
+### **Frontend**
+React • Next.js 14 • TypeScript • Tailwind • Redux • ShadCN UI • WebSockets
+
+### **Backend**
+FastAPI • Django REST • Node.js • Express • GraphQL • Microservices
+
+### **AI & ML**
+Python • TensorFlow • PyTorch • OpenAI • LangChain • Vector DBs • RAG
+
+### **Cloud & DevOps**
+AWS (S3, Lambda, EC2) • Docker • Kubernetes • GitHub Actions • Cloudflare • CI/CD
+
+### **Databases**
+PostgreSQL (JSONB) • MySQL • MongoDB • Redis • Supabase • Firebase
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=mrchandrayee&show_icons=true&theme=tokyonight" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrchandrayee&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+# 💬 Let’s Build Something Great
+
+I build **secure, scalable & AI-powered applications** that create measurable business impact.  
+If you're working on something ambitious, I’d love to collaborate.
 
 <p align="center">
   <a href="mailto:chandrayee.cse@gmail.com">
-    <img src="https://img.shields.io/badge/Contact_Me-4285F4?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Contact_Me-4285F4?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
+
