@@ -135,7 +135,7 @@ https://instagram.com/chandrayee
 **Company Instagram:**  
 https://instagram.com/iapfsai 
 
-**ompany Facebook:**  
+**Company Facebook:**  
 https://facebook.com/iapfsai  
 
 **Company YouTube:**  
