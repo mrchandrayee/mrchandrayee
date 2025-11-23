@@ -108,10 +108,10 @@ chandrayee.cse@gmail.com
 **Phone / WhatsApp:**  
 +91 9334575742  
 
-**Portfolio:**  
+**Personal Portfolio:**  
 https://chandrayee.me  
 
-**Personal Website:**  
+**Company Website:**  
 https://iapfsai.com  
 
 **Upwork:**  
@@ -120,18 +120,24 @@ https://www.upwork.com/freelancers/~01858df63e54e4b647
 **Fiverr:**  
 https://www.fiverr.com/mrchandrayee/  
 
-**GitHub:**  
+**Personal GitHub:**  
 https://github.com/mrchandrayee  
 
-**LinkedIn:**  
+**Personal LinkedIn:**  
 https://linkedin.com/in/mrchandrayee  
 
-**Instagram:**  
+**Company LinkedIn:**  
+https://linkedin.com/in/iapfsai 
+
+**Personal Instagram:**  
 https://instagram.com/chandrayee  
 
-**Facebook:**  
-https://facebook.com/chandrayee  
+**Company Instagram:**  
+https://instagram.com/iapfsai 
 
-**YouTube:**  
-https://www.youtube.com/@mrchandrayee  
+**ompany Facebook:**  
+https://facebook.com/iapfsai  
+
+**Company YouTube:**  
+https://www.youtube.com/@iapfsai  
 
