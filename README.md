@@ -1,128 +1,136 @@
-<!-- Header Banner -->
-<h1 align="center">🚀 Chand Rayee</h1>
-<h3 align="center">Full-Stack Developer | AI/ML Engineer | Cloud Architect</h3>
+<!-- Neon Header -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&color=00F7FF&center=true&vCenter=true&width=700&lines=Chand+Rayee;Full-Stack+Developer;AI+Engineer+%7C+Cloud+Architect;Building+Scalable+%2B+Intelligent+Systems" />
+</h1>
 
 <p align="center">
-  <a href="https://chandrayee.me"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
-  <a href="mailto:chandrayee.cse@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://linkedin.com/in/mrchandrayee"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/mrchandrayee"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://chandrayee.me"><img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white"></a>
+  <a href="mailto:chandrayee.cse@gmail.com"><img src="https://img.shields.io/badge/Email-FF3E3E?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://linkedin.com/in/mrchandrayee"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/mrchandrayee"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
 ---
 
-## 🧑‍💻 About Me
-
-I'm **Chand Rayee**, a highly experienced **Full-Stack Developer**, **AI Architect**, and **Cloud Engineer** with **8+ years** of building scalable, secure, and production-grade solutions.
-
-I specialize in **end-to-end product development** — from designing system architecture to building intelligent APIs, crafting modern interfaces, and deploying cloud-native applications.
-
-I help businesses build:
-
-✔ Scalable end-to-end SaaS platforms  
-✔ AI-powered workflows & automation systems  
-✔ High-performance APIs & backend systems  
-✔ Modern, fast, enterprise-ready dashboards  
-✔ Secure, cloud-native apps with CI/CD pipelines  
+<!-- Glassmorphism Card -->
+<p align="center">
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=mrchandrayee&data=followers,repositories,stars,commits&theme=darkmode&style=flat-rounded" />
+</p>
 
 ---
 
-## ⚡ What I Do
+## 🚀 About Me  
+I'm **Chand Rayee**, a senior **Full-Stack Developer**, **AI Architect**, and **Cloud Specialist** with **8+ years** of experience building enterprise-grade, scalable, and high-performance digital systems.
 
-### **💻 Full-Stack Development**
-- React / Next.js 14 / TypeScript  
-- Django / FastAPI / Node.js  
-- Component-driven architecture  
-- UI/UX optimized, SEO-ready, responsive apps  
+I design & build:
 
-### **🤖 AI/ML Engineering**
-- NLP, CV, Chatbots, RAG, LangChain  
-- Generative AI integrations  
-- Custom AI model pipelines  
-- Intelligent automation  
+🔹 Cloud-native applications  
+🔹 AI-powered automation + intelligence  
+🔹 High-performance APIs & backend systems  
+🔹 Modern, reactive full-stack applications  
+🔹 Secure & scalable architectures  
 
-### **☁️ Cloud & DevOps**
+💡 I combine **AI + Full-Stack + Cloud** to build systems that are fast, intelligent, efficient, and future-proof.
+
+---
+
+# ⚡ Core Expertise
+
+## ✨ Full-Stack Engineering
+- React • Next.js 14 • TypeScript  
+- Django • FastAPI • Node.js  
+- Tailwind • ShadCN UI • Component-driven architectures  
+
+## ✨ AI & Machine Learning
+- NLP, CV, RAG, LangChain  
+- AI automation & agents  
+- Model training, embeddings, vector search  
+
+## ✨ Cloud & DevOps
 - AWS (Lambda, S3, EC2, CloudFront)  
-- Docker, Kubernetes, GitHub Actions  
-- CI/CD, Auto-Scaling, Monitoring  
-- Cloud Architecture & Security  
+- Docker • Kubernetes • GitHub Actions  
+- CI/CD pipelines • Auto-scaling infrastructure  
 
-### **🔐 Backend & API Architecture**
+## ✨ Backend & API Architecture
 - Microservices  
-- WebSockets & real-time systems  
-- REST / GraphQL / gRPC  
-- High-performance, secure APIs  
+- REST / GraphQL / WebSockets  
+- Secure authentication (JWT/OAuth)  
+- High-performance caching strategies  
 
 ---
 
-## 🛠️ Tech Skills (Latest)
+# ⚙️ Tech Stack (Premium UI)
 
-### **Frontend**
+### 🎨 Frontend  
 <p>
-  <img src="https://skillicons.dev/icons?i=react,next,ts,tailwind,redux,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=react,next,ts,tailwind,redux,javascript,html,css" />
 </p>
 
-### **Backend**
+### 🛠 Backend  
 <p>
   <img src="https://skillicons.dev/icons?i=python,django,fastapi,nodejs,express" />
 </p>
 
-### **AI / ML**
+### 🤖 AI / ML  
 <p>
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
 </p>
-- OpenAI • LangChain • Vector DB • RAG
+- OpenAI • LangChain • Vector Databases • Embeddings
 
-### **Cloud / DevOps**
+### ☁️ Cloud / DevOps  
 <p>
   <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,cloudflare,githubactions" />
 </p>
 
-### **Databases**
+### 🗄 Databases  
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,firebase,supabase" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,firebase,supabase" />
 </p>
 
 ---
 
-## 📊 GitHub Overview
+# 📊 Premium GitHub Analytics  
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=mrchandrayee&show_icons=true&theme=tokyonight" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrchandrayee&layout=compact&theme=tokyonight" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mrchandrayee&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mrchandrayee&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrchandrayee&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## ⚙️ Code Philosophy
+# 🎯 Philosophy & Approach
 
-- **Clean, modular, scalable** code  
-- **Production-ready** architecture  
-- **Performance-first** mind-set  
-- **Security & reliability** as core principles  
-- **Documentation without complexity**  
+✔ Clean, modular, scalable architecture  
+✔ Production-ready code that lasts  
+✔ Performance > complexity  
+✔ Cloud-first engineering principles  
+✔ Security at every layer  
+✔ AI where it creates real impact  
 
 ---
 
-## 🤝 Let’s Collaborate
+# 🤝 Let’s Build Something Impactful
 
-If you're building something innovative — SaaS, AI automation, full-stack platform, or cloud-native system — I can help you bring it to life.
+I collaborate with startups, enterprises, and founders who want to build:
+
+⚡ SaaS Platforms  
+⚡ AI Automation Systems  
+⚡ Cloud-native Applications  
+⚡ Full-Stack Products  
+⚡ Real-time Apps  
+⚡ Scalable System Architecture  
 
 <p align="center">
   <a href="mailto:chandrayee.cse@gmail.com">
-    <img src="https://img.shields.io/badge/Contact_Me-4285F4?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Contact%20Me-00A8FF?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### ⭐ Want an even more premium design?
-I can generate:
+<h3 align="center">✨ Always building, always learning, always shipping.</h3>
 
-- A **Glassmorphism UI** version  
-- A **Neon Cyberpunk** version  
-- A **Minimal Ultra-Clean** version  
-- A **Dark Portfolio Styled** version  
-- A **Developer Portfolio with animation badges**  
-
-Just tell me!  
