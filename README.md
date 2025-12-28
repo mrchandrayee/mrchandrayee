@@ -99,45 +99,39 @@ Query optimization, indexing, scalable schema design
 
 
 
-## Contact  
-If you’re working on a SaaS platform, AI-driven application, backend-heavy system, or cloud-native product and need structured engineering, reliable delivery, and long-term technical support, feel free to reach out.
+## 📞 Contact
 
-**Email:**  
-chandrayee.cse@gmail.com  
+If you’re working on a **SaaS platform, AI-driven application, backend-heavy system, or cloud-native product** and need **structured engineering, reliable delivery, and long-term technical support**, feel free to get in touch.
 
-**Phone / WhatsApp:**  
-+91 9334575742  
+### 📧 Email
+- chandrayee.cse@gmail.com
 
-**Personal Portfolio:**  
-https://chandrayee.me  
+### 📱 Phone / WhatsApp
+- +91 9334575742
 
-**Company Website:**  
-https://iapfsai.com  
+---
 
-**Upwork:**  
-https://www.upwork.com/freelancers/~01858df63e54e4b647  
+### 👤 Personal / Founder
+- 🌐 Portfolio: https://chandrayee.me
+- 💼 LinkedIn: https://www.linkedin.com/in/mrchandrayee
+- 🐙 GitHub: https://github.com/mrchandrayee
+- 📸 Instagram (Professional): https://www.instagram.com/chandrayee
+- 💻 Upwork: https://www.upwork.com/freelancers/~01858df63e54e4b647
+- 🎯 Fiverr: https://www.fiverr.com/mrchandrayee/
 
-**Fiverr:**  
-https://www.fiverr.com/mrchandrayee/  
+---
 
-**Personal GitHub:**  
-https://github.com/mrchandrayee  
+### 🏢 Company – IAPFSAI Technologies Private Limited
+- 🌐 Website: https://iapfsai.com
+- 💼 LinkedIn: https://www.linkedin.com/company/iapfsai
+- 📸 Instagram: https://www.instagram.com/iapfsai
+- 📘 Facebook: https://www.facebook.com/iapfsaitechnologies
+- 🎥 YouTube: https://www.youtube.com/@iapfsai
 
-**Personal LinkedIn:**  
-https://linkedin.com/in/mrchandrayee  
+---
 
-**Company LinkedIn:**  
-https://linkedin.com/in/iapfsai 
-
-**Personal Instagram:**  
-https://instagram.com/chandrayee  
-
-**Company Instagram:**  
-https://instagram.com/iapfsai 
-
-**Company Facebook:**  
-https://facebook.com/iapfsai  
-
-**Company YouTube:**  
-https://www.youtube.com/@iapfsai  
-
+### 🚀 Brand – ResumeCareerAI
+- 🌐 Website: https://resumecareerai.com
+- 📘 Facebook: https://www.facebook.com/resumecareerai
+- 📸 Instagram: https://www.instagram.com/resumecareerai
+- 💼 LinkedIn: https://www.linkedin.com/company/resumecareerai
