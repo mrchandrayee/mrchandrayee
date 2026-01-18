@@ -3,7 +3,7 @@ Senior Full-Stack Developer | AI/ML Engineer | Cloud Solutions Specialist
 New Delhi, India  
 
 ## About Me  
-I am a full-stack engineer with more than eight years of experience helping businesses turn ideas into reliable, secure, and scalable digital products.  
+I am a full-stack engineer with more than nine years of experience helping businesses turn ideas into reliable, secure, and scalable digital products.  
 My work spans across web applications, AI-powered solutions, backend systems, and cloud infrastructure designed to handle real users, real traffic, and real business operations.
 
 I focus on building systems that are fast, structured, scalable, and easy to maintain. The goal is always the same:  
@@ -106,8 +106,7 @@ If you’re working on a **SaaS platform, AI-driven application, backend-heavy s
 ### 📧 Email
 - chandrayee.cse@gmail.com
 
-### 📱 Phone / WhatsApp
-- +91 9334575742
+
 
 ---
 
