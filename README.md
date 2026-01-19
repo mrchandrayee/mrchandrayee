@@ -14,6 +14,31 @@ My work focuses on **clean architecture, strong backend systems, and practical A
 
 ---
 
+## Industry Experience  
+
+### Healthcare & Medical  
+Hospital management systems, clinic platforms, therapy management, medical AI tools, and secure documentation workflows.
+
+### Booking & Scheduling  
+Resort booking systems, travel platforms, and availability-driven applications with payments and automation.
+
+### E-Commerce & Marketplaces  
+Product marketplaces, digital asset platforms, classified-style listings, and admin-reviewed platforms.
+
+### Education & Learning  
+E-learning systems, vocational training platforms, course management, and national-scale education tools.
+
+### Finance, Billing & Payments  
+Billing platforms, invoicing systems, Stripe-based payment flows, and fintech-oriented SaaS products.
+
+### Enterprise & Government Systems  
+ERP-style systems, infrastructure management platforms, energy sector tools, and large admin dashboards.
+
+### Communication & AI Platforms  
+Chat systems, voice-based web apps, document intelligence pipelines, and AI-powered automation tools.
+
+---
+
 ## Live Products & Platforms (Selected)
 
 These are **real, running systems** I’ve worked on or built end-to-end. You can review them live:
