@@ -26,7 +26,7 @@ These are **real, running systems** I’ve worked on or built end-to-end. You ca
   🔗 https://billing.apexnote.com  
 
 - **Therapy & Clinic Management Systems**  
-  (Private enterprise deployments)
+  🔗 https://fleetfocus.in  
 
 ---
 
@@ -39,7 +39,6 @@ These are **real, running systems** I’ve worked on or built end-to-end. You ca
 ### E-Commerce & Marketplaces
 - **Miniatures Craze** – Digital collectibles marketplace  
   🔗 https://miniaturescraze.com  
-  🔗 API Docs: https://api.miniaturescraze.com/docs  
 
 - **NSTEE** – Marketplace & management platform  
   🔗 https://nstee.in  
@@ -55,7 +54,6 @@ These are **real, running systems** I’ve worked on or built end-to-end. You ca
 
 - **MeetCute AI** – Dating platform with AI-powered features  
   🔗 https://meetcuteapp.ai  
-  🔗 API Docs: https://api.meetcuteapp.ai/docs  
 
 - **ProofSpark** – AI content & document intelligence  
   🔗 https://proofspark.io  
@@ -78,8 +76,6 @@ These are **real, running systems** I’ve worked on or built end-to-end. You ca
 - **AESORA** – Business operations & automation platform  
   🔗 https://aesora.com  
 
-- **FleetFocus** – Fleet & logistics management  
-  🔗 https://fleetfocus.in  
 
 ---
 
