@@ -8,7 +8,7 @@ Senior Full-Stack Developer | AI Integration Engineer | Cloud & SaaS Architect
 
 I’m a senior full-stack developer with **9+ years of hands-on, real-world experience** building production-grade systems across healthcare, fintech, AI platforms, marketplaces, and enterprise applications.
 
-I specialize in taking ideas, MVPs, or partially built systems and turning them into **stable, secure, and scalable products** that can support real users, real traffic, and real business workflows.
+I specialize in building and evolving SaaS and web platforms — from early concepts and MVPs to mature, production-grade systems — designed to handle real users, real traffic, and real business operations.
 
 My work focuses on **clean architecture, strong backend systems, and practical AI integrations**. I prioritize clarity, reliability, and long-term maintainability over shortcuts or trend-driven decisions.
 
