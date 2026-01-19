@@ -1,123 +1,133 @@
 # Chand Rayee  
 Senior Full-Stack Developer | AI Integration Engineer | Cloud & SaaS Architect  
-New Delhi, India  
+📍 New Delhi, India  
 
 ---
 
 ## About Me  
 
-I am a senior full-stack developer with **9+ years of hands-on experience** building production-grade systems across healthcare, fintech, marketplaces, AI platforms, and enterprise applications.
+I’m a senior full-stack developer with **9+ years of real-world experience** building production-ready systems across healthcare, fintech, AI platforms, marketplaces, and enterprise applications.
 
-My work focuses on taking ideas, MVPs, or partially built systems and turning them into **stable, secure, and scalable products** that can support real users and real business operations.
+I specialize in taking ideas, MVPs, or partially built products and turning them into **stable, secure, and scalable platforms** that support real users and real business workflows.
 
-I specialize in clean architecture, strong backend systems, and practical AI integrations. My approach prioritizes **clarity, reliability, and long-term maintainability** over shortcuts or trend-driven decisions.
+My focus is always on **clean architecture, backend reliability, and long-term maintainability** — not quick hacks or demo-only solutions.
 
 ---
 
-## What I Do  
+## Live Products & Platforms (Selected)
 
-### Web & Application Development  
-- Frontend development using **React, Next.js, TypeScript**  
-- Backend systems with **Django, FastAPI, Node.js**  
+These are **real, running systems** I’ve worked on or built end-to-end:
+
+### Healthcare & Medical
+- **Medica Health** – AI-assisted healthcare platform  
+  🔗 https://medica.health  
+
+- **Healthcare Billing & Practice Management**  
+  🔗 https://billing.apexnote.com  
+
+- **Therapy & Clinic Management Systems**  
+  (Private enterprise deployments)
+
+---
+
+### Booking & Scheduling
+- **Brisbane Gateway** – Resort booking system with chatbot & automation  
+  🔗 https://brisbanegateway.com.au  
+
+---
+
+### E-Commerce & Marketplaces
+- **Miniatures Craze** – Digital collectibles marketplace  
+  🔗 https://miniaturescraze.com  
+  🔗 API Docs: https://api.miniaturescraze.com/docs  
+
+- **NSTEE** – Marketplace & management platform  
+  🔗 https://nstee.in  
+
+- **Pika Trading** – Asset trading platform  
+  🔗 https://pikatrading.com  
+
+---
+
+### AI & SaaS Platforms
+- **ResumeCareerAI** – AI resume & career platform  
+  🔗 https://resumecareerai.com  
+
+- **MeetCute AI** – Dating platform with AI-powered features  
+  🔗 https://meetcuteapp.ai  
+  🔗 API Docs: https://api.meetcuteapp.ai/docs  
+
+- **ProofSpark** – AI content & document intelligence  
+  🔗 https://proofspark.io  
+
+- **Campix AI** – AI-powered media platform  
+  🔗 https://www.campix.ai  
+
+- **RealWin AI** – AI-driven analytics & prediction platform  
+  🔗 https://realwin.ai  
+
+---
+
+### Enterprise, Government & Infrastructure
+- **Jess Children & Women** – Donation & NGO management system  
+  🔗 https://jesschildrenandwomen.org  
+
+- **DPT Hub** – Enterprise digital platform  
+  🔗 https://dpthub.com  
+
+- **AESORA** – Business operations & automation platform  
+  🔗 https://aesora.com  
+
+- **FleetFocus** – Fleet & logistics management  
+  🔗 https://fleetfocus.in  
+
+---
+
+## What I Build  
+
+### Web & Application Development
+- React, Next.js, TypeScript frontends  
+- Django, FastAPI, Node.js backends  
 - API-first, scalable architectures  
-- Performance-focused, SEO-friendly web apps  
+- SEO-optimized, performance-focused apps  
 
-### AI & Intelligent Systems  
-- LLM-powered chat and automation systems  
-- Voice, document, and data processing pipelines  
-- NLP-based applications with structured outputs  
-- Practical AI integrations for real business workflows  
+### AI & Intelligent Systems
+- LLM-based chat & automation  
+- Voice → AI → response pipelines  
+- Document & data processing systems  
+- Practical AI for real workflows (not demos)
 
-### Marketplaces & SaaS Platforms  
-- C2C and B2B marketplace platforms  
-- Admin-moderated listing systems  
-- Multi-tenant SaaS architectures  
-- Secure authentication, RBAC, and approval workflows  
+### SaaS & Marketplaces
+- Multi-tenant SaaS platforms  
+- Admin-moderated marketplaces  
+- Strict backend validation & workflows  
+- Secure auth, RBAC, and approval systems  
 
-### API Development & Integrations  
-- Clean REST APIs with strong validation  
-- Payment systems (Stripe, subscriptions, billing)  
-- Third-party service integrations  
-- Background jobs, webhooks, and async processing  
-
-### Cloud, Deployment & DevOps  
-- AWS-based production deployments  
-- CI/CD pipelines using GitHub Actions  
+### Cloud & DevOps
+- AWS production deployments  
+- CI/CD with GitHub Actions  
 - Dockerized services  
-- Monitoring, logging, backups, and cost control  
-
-### Security & Reliability  
-- Authentication and authorization systems  
-- Backend-enforced business rules  
-- Data integrity and fault tolerance  
-- Systems designed for long-term operation  
-
----
-
-## Industry Experience  
-
-### Healthcare & Medical  
-Hospital management systems, clinic platforms, therapy management, medical AI tools, and secure documentation workflows.
-
-### Booking & Scheduling  
-Resort booking systems, travel platforms, and availability-driven applications with payments and automation.
-
-### E-Commerce & Marketplaces  
-Product marketplaces, digital asset platforms, classified-style listings, and admin-reviewed platforms.
-
-### Education & Learning  
-E-learning systems, vocational training platforms, course management, and national-scale education tools.
-
-### Finance, Billing & Payments  
-Billing platforms, invoicing systems, Stripe-based payment flows, and fintech-oriented SaaS products.
-
-### Enterprise & Government Systems  
-ERP-style systems, infrastructure management platforms, energy sector tools, and large admin dashboards.
-
-### Communication & AI Platforms  
-Chat systems, voice-based web apps, document intelligence pipelines, and AI-powered automation tools.
-
----
-
-## Engineering Strengths  
-
-- Backend-first architecture with strong validation  
-- Clean, readable, and maintainable code  
-- Clear milestones and predictable delivery  
-- Business-aligned technical decisions  
-- Systems designed to scale without rewrites  
+- Monitoring, logging, backups  
 
 ---
 
 ## Tech Stack  
 
-### Frontend  
-React, Next.js, TypeScript, Tailwind  
-
-### Backend  
-Django, FastAPI, Node.js  
-
-### AI / ML  
-LLMs, NLP pipelines, document processing  
-Structured prompting and automation workflows  
-
-### Cloud & DevOps  
-AWS (EC2, S3, Lambda, CloudFront)  
-Docker, CI/CD pipelines  
-
-### Databases  
-PostgreSQL, MongoDB, Redis  
+**Frontend:** React, Next.js, TypeScript, Tailwind  
+**Backend:** Django, FastAPI, Node.js  
+**AI:** LLMs, NLP, document intelligence, automation pipelines  
+**Cloud:** AWS (EC2, S3, Lambda, CloudFront), Docker  
+**Databases:** PostgreSQL, MongoDB, Redis  
 
 ---
 
-## Engineering Principles  
+## How I Work  
 
-- Build predictable and stable systems  
-- Keep architecture simple and testable  
-- Enforce rules at the backend, not just the UI  
-- Optimize for long-term maintainability  
-- Communicate clearly and document decisions  
-- Focus only on features that create real value  
+- Backend-first, rule-driven architecture  
+- Clear milestones and predictable delivery  
+- Clean, readable, maintainable code  
+- Strong focus on reliability and security  
+- Honest communication, no surprises  
 
 
 ## 📞 Contact
