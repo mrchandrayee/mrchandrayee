@@ -194,6 +194,7 @@ If you’re working on a **SaaS platform, AI-driven application, backend-heavy s
 - 📸 Instagram: https://www.instagram.com/iapfsai  
 - 📘 Facebook: https://www.facebook.com/iapfsaitechnologies  
 - 🎥 YouTube: https://www.youtube.com/@iapfsai  
+- 🐦 X (Twitter): https://x.com/iapfsai 
 
 ---
 
