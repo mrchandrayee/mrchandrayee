@@ -1,6 +1,6 @@
 # Chand Rayee  
 **Senior Full-Stack Developer | AI Integration Engineer | Cloud & SaaS Architect**  
-📍 New Delhi, India  
+📍 Bengaluru, India  
 
 ---
 
