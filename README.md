@@ -79,9 +79,6 @@ We work across:
 
 ---
 
-## Industry Experience
-
-Healthcare & Medical | AI & SaaS | FinTech & Billing | Real Estate | E-Commerce & Marketplaces | Travel & Hospitality | Education & Training | Government & Public Services | Agriculture | Sports & Analytics | Enterprise Operations | Digital Media | Computer Vision & Surveillance
 
 ---
 
@@ -166,6 +163,27 @@ With 10+ years of experience, I bring an engineering-first and business-oriented
 - Focus on solutions that create practical business value.
 
 ---
+
+
+---
+
+## 🏭 Industry Experience
+
+<p>
+  <img src="https://img.shields.io/badge/🏥_Healthcare_&_Medical-0077B6?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/🤖_AI_&_SaaS-412991?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/💳_FinTech_&_Billing-1DBF73?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/🏠_Real_Estate-E63946?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/🛒_E--Commerce_&_Marketplaces-FF9F1C?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/✈️_Travel_&_Hospitality-023E8A?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/🎓_Education_&_Training-6A0572?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/🏛️_Government_&_Public_Services-2D6A4F?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/🌾_Agriculture-70C1B3?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/🏆_Sports_&_Analytics-C9B1FF?style=for-the-badge&logoColor=black"/>
+  <img src="https://img.shields.io/badge/🏢_Enterprise_Operations-343A40?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/📺_Digital_Media-E63946?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/📷_Computer_Vision_&_Surveillance-1B4332?style=for-the-badge&logoColor=white"/>
+</p>
 
 ## Our Vision
 
