@@ -230,7 +230,6 @@ A curated index of all AI/ML and Computer Vision projects by [@mrchandrayee](htt
 | 🖐️ Gesture & Interaction | 3 |
 | 🏃 Sports & Games | 2 |
 | 🎓 Capstone & ML Projects | 8 |
-| 🎓 Capstone & ML Projects | 8 |
 | **Total** | **85** |
 
 
