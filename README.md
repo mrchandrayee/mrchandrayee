@@ -350,6 +350,16 @@ Through our open-source computer vision initiatives, we're also committed to dem
 
 ---
 
+## 📂 Complete Project Index
+
+Browse all projects organized by category — click any index to explore the full list with descriptions and links.
+
+| Index | Description | View |
+|-------|-------------|------|
+| 🤖 **AI & Computer Vision Projects** | 77+ projects — Safety, ALPR, Face Recognition, Drones, OCR, Counting & more | [📄 View Index](https://github.com/mrchandrayee/mrchandrayee/blob/main/AI-CV-Projects-Index.md) |
+| 🎨 **Frontend Projects (HTML/CSS/JS)** | 34 projects — Buttons, Dashboards, Login Pages, E-Commerce, Galleries & more | [📄 View Index](https://github.com/mrchandrayee/mrchandrayee/blob/main/Frontend-Projects-Index.md) |
+| 🔍 **All Repositories** | Complete list of all public repositories | [🔗 View All](https://github.com/mrchandrayee?tab=repositories) |
+
 **Building Intelligent Systems. Engineering Scalable Platforms. Enabling AI-Driven Businesses.**
 
 **Open Source: Making AI Accessible to Everyone.**
