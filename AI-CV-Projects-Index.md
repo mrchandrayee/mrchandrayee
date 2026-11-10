@@ -229,7 +229,25 @@ A curated index of all AI/ML and Computer Vision projects by [@mrchandrayee](htt
 | 🏭 Industrial Automation | 1 |
 | 🖐️ Gesture & Interaction | 3 |
 | 🏃 Sports & Games | 2 |
-| **Total** | **77** |
+| 🎓 Capstone & ML Projects | 8 |
+| 🎓 Capstone & ML Projects | 8 |
+| **Total** | **85** |
+
+
+---
+
+## 🎓 Capstone & ML Projects
+
+| # | Project | Description | GitHub |
+|---|---------|-------------|--------|
+| 78 | 🧠 Brain MRI Style Transfer GAN | CycleGAN/U-Net to generate brain MRI images of different contrasts (T1↔T2) | [brain-mri-style-transfer-gan](https://github.com/mrchandrayee/brain-mri-style-transfer-gan) |
+| 79 | 📰 News Recommendation System | Content-based & collaborative news recommendation using TF-IDF, KNN & K-Means | [news-recommendation-system](https://github.com/mrchandrayee/news-recommendation-system) |
+| 80 | 💳 Credit Card Fraud Detection | Predict fraudulent transactions using XGBoost, Random Forest with SMOTE | [credit-card-fraud-detection-capstone](https://github.com/mrchandrayee/credit-card-fraud-detection-capstone) |
+| 81 | ⭐ Sentiment Product Recommendation | Sentiment analysis + collaborative filtering for e-commerce recommendations | [sentiment-product-recommendation-system](https://github.com/mrchandrayee/sentiment-product-recommendation-system) |
+| 82 | 📈 Rossmann Store Sales Prediction | Predict daily sales for 1,115 drug stores using time series & ensemble ML | [capstone-predict-sales](https://github.com/mrchandrayee/capstone-predict-sales) |
+| 83 | 👁️ Eye for Blind — Image Captioning | CNN+LSTM image captioning with TTS for visually impaired. Dockerized Streamlit app | [eye-for-blind-image-captioning](https://github.com/mrchandrayee/eye-for-blind-image-captioning) |
+| 84 | 🚗 Car Damage Detection MLOps | Detect car damage severity using CNN with supervised learning & MLOps pipeline | [car-damage-detection-mlops](https://github.com/mrchandrayee/car-damage-detection-mlops) |
+| 85 | 🎓 EdTech Lead Scoring MLOps | Lead scoring classification with Apache Airflow pipeline & automated retraining | [edtech-lead-scoring-mlops](https://github.com/mrchandrayee/edtech-lead-scoring-mlops) |
 
 ---
 
@@ -241,4 +259,4 @@ A curated index of all AI/ML and Computer Vision projects by [@mrchandrayee](htt
 
 ---
 
-*Last updated: November 2026*
+*Last updated: November 2026 — 85 projects across 15 categories*
