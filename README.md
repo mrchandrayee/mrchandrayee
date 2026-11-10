@@ -34,22 +34,6 @@ We work across:
 
 ---
 
-## 🌟 Featured & Client Projects
-
-A portfolio of 47+ live platforms, enterprise systems, and digital products across AI/SaaS, Healthcare, E-Commerce, Government, and more.
-
-👉 **[📄 View Full Portfolio](https://github.com/mrchandrayee/mrchandrayee/blob/main/Featured-Projects.md)**
-
----
-
-## 🤖 Open Source Computer Vision Projects
-
-85+ production-ready Computer Vision & ML projects — all free and open-source, covering Safety, ALPR, Face Recognition, Drones, OCR, Counting, and Capstone ML.
-
-👉 **[📄 View Full AI/CV Project Index](https://github.com/mrchandrayee/mrchandrayee/blob/main/AI-CV-Projects-Index.md)**
-
----
-
 ## What We Build
 
 ### 🧠 Agentic AI & Intelligent Systems
@@ -187,7 +171,8 @@ Browse all projects organized by category — click any index to explore the ful
 
 | Index | Description | View |
 |-------|-------------|------|
-| 🤖 **AI & Computer Vision Projects** | 77+ projects — Safety, ALPR, Face Recognition, Drones, OCR, Counting & more | [📄 View Index](https://github.com/mrchandrayee/mrchandrayee/blob/main/AI-CV-Projects-Index.md) |
+| 🌟 **Featured & Client Projects** | 47+ live platforms — AI/SaaS, Healthcare, E-Commerce, Enterprise & more | [📄 View Index](https://github.com/mrchandrayee/mrchandrayee/blob/main/Featured-Projects.md) |
+| 🤖 **AI & Computer Vision Projects** | 85+ projects — Safety, ALPR, Face Recognition, Drones, OCR, Counting & more | [📄 View Index](https://github.com/mrchandrayee/mrchandrayee/blob/main/AI-CV-Projects-Index.md) |
 | 🎨 **Frontend Projects (HTML/CSS/JS)** | 34 projects — Buttons, Dashboards, Login Pages, E-Commerce, Galleries & more | [📄 View Index](https://github.com/mrchandrayee/mrchandrayee/blob/main/Frontend-Projects-Index.md) |
 | 🔍 **All Repositories** | Complete list of all public repositories | [🔗 View All](https://github.com/mrchandrayee?tab=repositories) |
 
