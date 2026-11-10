@@ -98,24 +98,62 @@ With 10+ years of experience, I bring an engineering-first and business-oriented
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
-### AI & Machine Learning
-LLMs, Agentic AI, NLP, RAG, LangChain, Embeddings, Vector Databases, AI APIs, Automation Workflows, Computer Vision, PyTorch, TensorFlow, YOLO, OpenCV.
+**AI & Machine Learning**
 
-### Frontend
-React, Next.js, TypeScript, Tailwind CSS.
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+</p>
 
-### Backend
-Python, Django, FastAPI, Node.js, NestJS, REST APIs, GraphQL.
+**Frontend**
 
-### Cloud & DevOps
-AWS (EC2, S3, Lambda, CloudFront), Docker, Kubernetes, GitHub Actions, CI/CD, Cloudflare.
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
 
-### Databases
-PostgreSQL, MongoDB, Redis, Supabase, MySQL.
+**Backend**
 
----
+<p>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+</p>
+
+**Cloud & DevOps**
+
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white"/>
+</p>
+
+**Databases**
+
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
 
 ## Engineering Principles
 
@@ -139,31 +177,38 @@ Through our open-source computer vision initiatives, we're also committed to dem
 
 ---
 
-## 📞 Contact & Professional Profiles
+## ## Connect
 
 ### 👤 Chand Rayee
-- 🌐 Portfolio: https://chandrayee.me
-- 💼 LinkedIn: https://www.linkedin.com/in/mrchandrayee
-- 🐙 GitHub: https://github.com/mrchandrayee
-- 📸 Instagram: https://www.instagram.com/chandrayee
-- 💻 Upwork: https://www.upwork.com/freelancers/~01858df63e54e4b647
-- 🎯 Fiverr: https://www.fiverr.com/mrchandrayee/
 
-### 🏢 IAPFSAI Technologies Private Limited
-- 🌐 Website: https://iapfsai.com
-- 💼 LinkedIn: https://www.linkedin.com/company/iapfsai
-- 📸 Instagram: https://www.instagram.com/iapfsai
-- 📘 Facebook: https://www.facebook.com/iapfsaitechnologies
-- 🎥 YouTube: https://www.youtube.com/@iapfsai
-- 🐦 X: https://x.com/iapfsai
+<p>
+  <a href="https://chandrayee.me" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/></a>&nbsp;
+  <a href="https://www.linkedin.com/in/mrchandrayee" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
+  <a href="https://github.com/mrchandrayee" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>&nbsp;
+  <a href="https://www.instagram.com/chandrayee" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>&nbsp;
+  <a href="https://www.upwork.com/freelancers/~01858df63e54e4b647" target="_blank"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork"/></a>&nbsp;
+  <a href="https://www.fiverr.com/mrchandrayee/" target="_blank"><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr"/></a>
+</p>
+
+### 🏢 IAPFSAI Technologies
+
+<p>
+  <a href="https://iapfsai.com" target="_blank"><img src="https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Website"/></a>&nbsp;
+  <a href="https://www.linkedin.com/company/iapfsai" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
+  <a href="https://www.instagram.com/iapfsai" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>&nbsp;
+  <a href="https://www.facebook.com/iapfsaitechnologies" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>&nbsp;
+  <a href="https://www.youtube.com/@iapfsai" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>&nbsp;
+  <a href="https://x.com/iapfsai" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+</p>
 
 ### 🚀 ResumeCareerAI
-- 🌐 Website: https://resumecareerai.com
-- 📘 Facebook: https://www.facebook.com/resumecareerai
-- 📸 Instagram: https://www.instagram.com/resumecareerai
-- 💼 LinkedIn: https://www.linkedin.com/company/resumecareerai
 
----
+<p>
+  <a href="https://resumecareerai.com" target="_blank"><img src="https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Website"/></a>&nbsp;
+  <a href="https://www.linkedin.com/company/resumecareerai" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
+  <a href="https://www.instagram.com/resumecareerai" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>&nbsp;
+  <a href="https://www.facebook.com/resumecareerai" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
+</p>
 
 ## 📂 Complete Project Index
 
