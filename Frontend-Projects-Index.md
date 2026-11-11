@@ -76,6 +76,16 @@ A curated index of all **HTML · CSS · JavaScript** frontend projects by [@mrch
 | 29 | 🍫 NÉRO — Chocolate Store | Premium bean-to-bar chocolate store UI with product showcase & bag interaction | [nero-chocolate-store](https://github.com/mrchandrayee/nero-chocolate-store) | [🔗 Live](https://mrchandrayee.github.io/nero-chocolate-store/) |
 | 30 | 🎧 VANTA Pro — Headphones | Premium headphones landing page with immersive dark design & animated sections | [vanta-headphones-website](https://github.com/mrchandrayee/vanta-headphones-website) | [🔗 Live](https://mrchandrayee.github.io/vanta-headphones-website/) |
 | 31 | 💳 Payment Method Checkout | Smooth animated checkout UI with card flip, selection states & confirmation flow | [payment-method-checkout-animation](https://github.com/mrchandrayee/payment-method-checkout-animation) | [🔗 Live](https://mrchandrayee.github.io/payment-method-checkout-animation/) |
+| 32 | 💳 Interactive Card Payment | Real-time card preview, flip animation, input validation & smooth checkout | [interactive-card-payment](https://github.com/mrchandrayee/interactive-card-payment) | [🔗 Live](https://mrchandrayee.github.io/interactive-card-payment/) |
+
+---
+
+## ⚛️ React & TypeScript Projects
+
+| # | Project | Description | GitHub | Live Demo |
+|---|---------|-------------|--------|-----------|
+| 35 | 🤖 Humanity AI Landing | Human-machine collaboration landing page with smooth animations | [human-machine-ai-landing](https://github.com/mrchandrayee/human-machine-ai-landing) | [🔗 Live](https://mrchandrayee.github.io/human-machine-ai-landing/) |
+| 36 | 🎨 NEXUS — Smart Design System | Component library & design token showcase with interactive UI patterns | [nexus-smart-design-system](https://github.com/mrchandrayee/nexus-smart-design-system) | [🔗 Live](https://mrchandrayee.github.io/nexus-smart-design-system/) |
 
 ---
 
