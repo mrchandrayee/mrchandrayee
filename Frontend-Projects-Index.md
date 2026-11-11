@@ -89,21 +89,6 @@ A curated index of all **HTML · CSS · JavaScript** frontend projects by [@mrch
 
 ---
 
-## 📊 Summary
-
-| Category | Count |
-|----------|-------|
-| 🎠 Galleries & 3D | 1 |
-| 💌 Love & Proposals | 3 |
-| 🔘 Button Microinteractions | 13 |
-| 🧭 Navigation & UI Components | 6 |
-| 🔐 Login & Auth Pages | 5 |
-| 🛒 E-Commerce & Product | 3 |
-| 📊 Dashboards | 3 |
-| **Total Frontend Projects** | **34** |
-
----
-
 ## 🛠️ Tech Stack
 
 All projects use:
