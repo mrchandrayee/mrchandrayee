@@ -227,7 +227,7 @@ A curated index of all **HTML · CSS · JavaScript** frontend projects by [@mrch
 | 115 | 🚗 BMW M5 | BMW M5 car showcase animation | [bmw-m5](https://github.com/mrchandrayee/bmw-m5) | [🔗 Live](https://mrchandrayee.github.io/bmw-m5/) |
 | 116 | 🎊 Happy New Year | Happy new year animation | [happy-new-year](https://github.com/mrchandrayee/happy-new-year) | [🔗 Live](https://mrchandrayee.github.io/happy-new-year/) |
 | 117 | 💡 Light Bulb | Interactive light bulb toggle | [light-bulb](https://github.com/mrchandrayee/light-bulb) | [🔗 Live](https://mrchandrayee.github.io/light-bulb/) |
-| 118 | 🔗 Synapse Link | Neural network link animation | [synapse-link](https://github.com/mrchandrayee/synapse-link) | [🔗 Live](https://mrchandrayee.github.io/synapse-link/) |
+| 118 | ⚡ Synapse Link | Advanced HTML5 Canvas game — neon shooting, progressive levels, health system & score tracking | [synapse-link](https://github.com/mrchandrayee/synapse-link) | [🔗 Live](https://mrchandrayee.github.io/synapse-link/) |
 
 ---
 
