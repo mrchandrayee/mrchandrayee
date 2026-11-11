@@ -23,7 +23,10 @@ At IAPFSAI, we aim to help businesses innovate, automate, optimize, and scale th
 
 <p>
   <a href="https://iapfsai.com" target="_blank"><img src="https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Website"/></a>&nbsp;
-  <a href="https://www.linkedin.com/company/iapfsai" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/company/iapfsai" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
+  <a href="https://github.com/mrchandrayee/mrchandrayee/blob/main/Featured-Projects.md" target="_blank"><img src="https://img.shields.io/badge/🌟_Featured_%26_Client_Projects-FFD700?style=for-the-badge&logoColor=black" alt="Featured & Client Projects"/></a>&nbsp;
+  <a href="https://github.com/mrchandrayee/mrchandrayee/blob/main/AI-CV-Projects-Index.md" target="_blank"><img src="https://img.shields.io/badge/🤖_AI_%26_Computer_Vision_Projects-412991?style=for-the-badge&logoColor=white" alt="AI & Computer Vision Projects"/></a>&nbsp;
+  <a href="https://github.com/mrchandrayee/mrchandrayee/blob/main/Frontend-Projects-Index.md" target="_blank"><img src="https://img.shields.io/badge/🎨_Frontend_Projects-E4405F?style=for-the-badge&logoColor=white" alt="Frontend Projects"/></a>
 </p>
 
 We work across:
