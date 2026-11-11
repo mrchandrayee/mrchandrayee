@@ -102,21 +102,6 @@ A portfolio of live platforms, enterprise systems, and digital products built by
 
 ---
 
-## 📊 Portfolio Summary
-
-| Category | Projects |
-|----------|----------|
-| 🤖 AI, SaaS & Intelligent Platforms | 11 |
-| 🏢 Enterprise & Business | 9 |
-| 🏥 Healthcare & Community | 5 |
-| 🛒 E-Commerce & Retail | 7 |
-| 🏨 Travel & Hospitality | 2 |
-| 🌍 Government & Education | 9 |
-| 🎓 Other Digital Products | 4 |
-| **Total** | **47** |
-
----
-
 ## 👨‍💻 Author
 
 **Chand Rayee** — Director @ IAPFSAI Technologies | Full-Stack Developer | AI Integration Specialist
