@@ -99,6 +99,17 @@ A curated index of all **HTML · CSS · JavaScript** frontend projects by [@mrch
 
 ---
 
+## 🏗️ Next.js & Full-Stack Projects
+
+| # | Project | Description | GitHub |
+|---|---------|-------------|--------|
+| 38 | 🏢 BluePearl Group | Corporate real estate website with elegant dark design & property showcase | [bluepearl-group-nextjs](https://github.com/mrchandrayee/bluepearl-group-nextjs) |
+| 39 | 🏡 Prime Estates | Real estate marketing website with property listings & modern showcase UI | [prime-estates-real-estate-nextjs](https://github.com/mrchandrayee/prime-estates-real-estate-nextjs) |
+| 40 | 🌅 VistaHaven | Premium real estate website with property search, listings & interactive UI | [vistahaven-nextjs](https://github.com/mrchandrayee/vistahaven-nextjs) |
+
+
+---
+
 ## 🛠️ Tech Stack
 
 All projects use:
@@ -107,9 +118,9 @@ All projects use:
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-- ✅ Zero dependencies — no npm, no build tools
-- ✅ Open directly in browser
-- ✅ GitHub Pages hosted — all live demos free
+- ✅ HTML/CSS/JS projects — zero dependencies, open in browser
+- ✅ React/Next.js projects — npm install, full framework
+- ✅ GitHub Pages hosted for static projects
 
 ---
 
