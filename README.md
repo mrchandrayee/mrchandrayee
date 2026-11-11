@@ -21,6 +21,11 @@ At IAPFSAI, we aim to help businesses innovate, automate, optimize, and scale th
 
 **Integrated AI Platform for Full-Stack, Scalable Architecture & Intelligence**
 
+<p>
+  <a href="https://iapfsai.com" target="_blank"><img src="https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Website"/></a>&nbsp;
+  <a href="https://www.linkedin.com/company/iapfsai" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+</p>
+
 We work across:
 - **Agentic AI & Automation:** AI agents, multi-agent systems, autonomous workflows, and business process automation.
 - **AI-Powered Platforms:** LLM integrations, RAG systems, conversational AI, intelligent assistants, and enterprise AI applications.
@@ -28,9 +33,6 @@ We work across:
 - **Full-Stack Product Engineering:** Web applications, enterprise platforms, backend systems, APIs, and custom software.
 - **Cloud & Infrastructure:** Cloud architecture, DevOps, CI/CD, containerization, deployment, security, and performance optimization.
 - **Digital Transformation:** Technology solutions that streamline operations and improve business efficiency.
-
-🌐 Website: https://iapfsai.com  
-💼 LinkedIn: https://www.linkedin.com/company/iapfsai
 
 ---
 
@@ -195,7 +197,7 @@ Through our open-source computer vision initiatives, we're also committed to dem
 
 ---
 
-## ## Connect
+## Connect
 
 ### 👤 Chand Rayee
 
@@ -228,9 +230,7 @@ Through our open-source computer vision initiatives, we're also committed to dem
   <a href="https://www.facebook.com/resumecareerai" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
 </p>
 
-## 📂 Complete Project Index
-
-Browse all projects organized by category — click any index to explore the full list with descriptions and links.
+---
 
 | Index | Description | View |
 |-------|-------------|------|
@@ -238,6 +238,8 @@ Browse all projects organized by category — click any index to explore the ful
 | 🤖 **AI & Computer Vision Projects** | 85+ projects — Safety, ALPR, Face Recognition, Drones, OCR, Counting & more | [📄 View Index](https://github.com/mrchandrayee/mrchandrayee/blob/main/AI-CV-Projects-Index.md) |
 | 🎨 **Frontend Projects (HTML/CSS/JS)** | 34 projects — Buttons, Dashboards, Login Pages, E-Commerce, Galleries & more | [📄 View Index](https://github.com/mrchandrayee/mrchandrayee/blob/main/Frontend-Projects-Index.md) |
 | 🔍 **All Repositories** | Complete list of all public repositories | [🔗 View All](https://github.com/mrchandrayee?tab=repositories) |
+
+---
 
 **Building Intelligent Systems. Engineering Scalable Platforms. Enabling AI-Driven Businesses.**
 
