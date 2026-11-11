@@ -128,6 +128,7 @@ A curated index of all **HTML · CSS · JavaScript** frontend projects by [@mrch
 | 52 | 🛒 Order Button | Animated order/buy button | [order-button](https://github.com/mrchandrayee/order-button) | [🔗 Live](https://mrchandrayee.github.io/order-button/) |
 | 53 | 🔵 3D Social Button | 3D social media button with depth | [3d-social-button](https://github.com/mrchandrayee/3d-social-button) | [🔗 Live](https://mrchandrayee.github.io/3d-social-button/) |
 | 54 | 🌐 Social Buttons | Social media share buttons collection | [social-buttons](https://github.com/mrchandrayee/social-buttons) | [🔗 Live](https://mrchandrayee.github.io/social-buttons/) |
+| 55 | 🌐 Social Media Buttons | X, Instagram, LinkedIn, GitHub, YouTube, Discord, WhatsApp & Pinterest animated buttons | [social-media-buttons](https://github.com/mrchandrayee/social-media-buttons) | [🔗 Live](https://mrchandrayee.github.io/social-media-buttons/) |
 | 55 | 🌐 Social Icons | Animated social media icons | [social-icons](https://github.com/mrchandrayee/social-icons) | [🔗 Live](https://mrchandrayee.github.io/social-icons/) |
 | 56 | 🔔 Subscribe Button | Subscribe with confirmation animation | [subscribe-button](https://github.com/mrchandrayee/subscribe-button) | [🔗 Live](https://mrchandrayee.github.io/subscribe-button/) |
 | 57 | 🔀 Toggle Button | Smooth toggle switch button | [toggle-button](https://github.com/mrchandrayee/toggle-button) | [🔗 Live](https://mrchandrayee.github.io/toggle-button/) |
