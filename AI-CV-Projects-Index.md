@@ -78,6 +78,7 @@ A curated index of all AI/ML and Computer Vision projects by [@mrchandrayee](htt
 | 33 | 👥 Multi-Camera ReID | Track individuals across multiple non-overlapping camera views using deep learning | [multi_camera_reid_project](https://github.com/mrchandrayee/multi_camera_reid_project) |
 | 34 | 🖥️ Remote Desk Camera AI | Real-time activity detection and analytics from remote camera feeds | [remote_desk_camera_ai_project](https://github.com/mrchandrayee/remote_desk_camera_ai_project) |
 | 35 | 🎞️ Camera Footage Recovery | Restore corrupted or low-quality surveillance video using deep learning | [camera_footage_recovery](https://github.com/mrchandrayee/camera_footage_recovery) |
+| 36 | 🎯 AI VMS Subject Tracking | CCTV/video ingestion, YOLO detection, ByteTrack IDs, live annotated view, event snapshots & CSV audit log | [ai_vms_subject_tracking](https://github.com/mrchandrayee/ai_vms_subject_tracking) |
 
 ---
 
