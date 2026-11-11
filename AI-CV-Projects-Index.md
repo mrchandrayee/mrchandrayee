@@ -186,6 +186,7 @@ A curated index of all AI/ML and Computer Vision projects by [@mrchandrayee](htt
 | # | Project | Description | GitHub |
 |---|---------|-------------|--------|
 | 72 | 🏭 Conveyor Quality Control | Detect defects and anomalies in products on manufacturing conveyor lines | [conveyor_quality_control_python_project](https://github.com/mrchandrayee/conveyor_quality_control_python_project) |
+| 74 | 🏭 Steel Plate Defect Prediction | ML model to predict defects in steel plates for manufacturing quality control | [Steel-Plate-Defect-Prediction](https://github.com/mrchandrayee/Steel-Plate-Defect-Prediction) |
 
 ---
 
@@ -195,6 +196,8 @@ A curated index of all AI/ML and Computer Vision projects by [@mrchandrayee](htt
 |---|---------|-------------|--------|
 | 73 | 🖐️ Hand Gesture Control | Control applications and devices using real-time hand gesture recognition | [hand_gesture_control](https://github.com/mrchandrayee/hand_gesture_control) |
 | 74 | ✋ Hand Gesture Recognition | Classify and recognize hand gestures using pose estimation and deep learning | [hand_gesture_recognition](https://github.com/mrchandrayee/hand_gesture_recognition) |
+| 75 | 🤲 Gesture Recognition | AI-powered hand gesture recognition using deep learning for HCI applications | [Gesture-Recognition](https://github.com/mrchandrayee/Gesture-Recognition) |
+| 76 | 🎙️ Speech Recognition | AI-powered speech recognition and audio transcription using deep learning | [Speech-Recognition](https://github.com/mrchandrayee/Speech-Recognition) |
 | 75 | 👶 Baby Cry Detection | Classify infant cries using audio deep learning to identify hunger and pain | [baby_cry_detection](https://github.com/mrchandrayee/baby_cry_detection) |
 
 ---
@@ -207,6 +210,39 @@ A curated index of all AI/ML and Computer Vision projects by [@mrchandrayee](htt
 | 77 | ♟️ Xiangqi AI Engine | Play and analyze Chinese chess with AI using minimax and alpha-beta pruning | [xiangqi_ai_engine_python_project](https://github.com/mrchandrayee/xiangqi_ai_engine_python_project) |
 
 ---
+
+
+---
+
+## 🎓 Capstone & ML Projects
+
+| # | Project | Description | GitHub |
+|---|---------|-------------|--------|
+| 78 | 🧠 Brain MRI Style Transfer GAN | CycleGAN/U-Net to generate brain MRI images of different contrasts (T1↔T2) | [brain-mri-style-transfer-gan](https://github.com/mrchandrayee/brain-mri-style-transfer-gan) |
+| 79 | 📰 News Recommendation System | Content-based & collaborative news recommendation using TF-IDF, KNN & K-Means | [news-recommendation-system](https://github.com/mrchandrayee/news-recommendation-system) |
+| 80 | 💳 Credit Card Fraud Detection | Predict fraudulent transactions using XGBoost, Random Forest with SMOTE | [credit-card-fraud-detection-capstone](https://github.com/mrchandrayee/credit-card-fraud-detection-capstone) |
+| 81 | ⭐ Sentiment Product Recommendation | Sentiment analysis + collaborative filtering for e-commerce recommendations | [sentiment-product-recommendation-system](https://github.com/mrchandrayee/sentiment-product-recommendation-system) |
+| 82 | 📈 Rossmann Store Sales Prediction | Predict daily sales for 1,115 drug stores using time series & ensemble ML | [capstone-predict-sales](https://github.com/mrchandrayee/capstone-predict-sales) |
+| 83 | 👁️ Eye for Blind — Image Captioning | CNN+LSTM image captioning with TTS for visually impaired. Dockerized Streamlit | [eye-for-blind-image-captioning](https://github.com/mrchandrayee/eye-for-blind-image-captioning) |
+| 84 | 🚗 Car Damage Detection MLOps | Detect car damage severity using CNN with supervised learning & MLOps pipeline | [car-damage-detection-mlops](https://github.com/mrchandrayee/car-damage-detection-mlops) |
+| 85 | 🎓 EdTech Lead Scoring MLOps | Lead scoring classification with Apache Airflow pipeline & automated retraining | [edtech-lead-scoring-mlops](https://github.com/mrchandrayee/edtech-lead-scoring-mlops) |
+| 86 | 📈 Mini Course Sales Forecasting | Multiple ML models for continuous learning sales forecasting | [Forecasting-Mini-Course-Sales-](https://github.com/mrchandrayee/Forecasting-Mini-Course-Sales-) |
+| 87 | 📊 Stock Market Prediction | AI to predict stock market movements using Python and ML | [AI-to-Predict-the-Stock-Market-with-Python](https://github.com/mrchandrayee/AI-to-Predict-the-Stock-Market-with-Python) |
+| 88 | 🌤️ Weather Forecasting | ML-powered weather forecasting application using Python | [Weather-Forecasting](https://github.com/mrchandrayee/Weather-Forecasting) |
+| 89 | 👥 Customer Segmentation | ML-based customer segmentation using clustering algorithms | [Customer-Segmentation](https://github.com/mrchandrayee/Customer-Segmentation) |
+| 90 | 🏠 House Price Prediction | Advanced regression techniques for predicting house prices (Kaggle) | [House-Prices---Advanced-Regression-Techniques](https://github.com/mrchandrayee/House-Prices---Advanced-Regression-Techniques) |
+| 91 | 💰 Lending Club Loan Default | EDA and ML analysis for loan default prediction and credit risk | [Lending-club-case-study](https://github.com/mrchandrayee/Lending-club-case-study) |
+| 92 | 🚲 Bike Sharing Demand | Linear regression model for bike sharing demand prediction | [Bike-Sharing-by-Linear-Regression-](https://github.com/mrchandrayee/Bike-Sharing-by-Linear-Regression-) |
+| 93 | 💳 Credit Card Fraud Detection v2 | AI-powered fraud detection using ML with class imbalance handling | [Credit-Card-Fraud-Detection-](https://github.com/mrchandrayee/Credit-Card-Fraud-Detection-) |
+
+---
+
+## 🏥 Healthcare & Medical AI
+
+| # | Project | Description | GitHub |
+|---|---------|-------------|--------|
+| 94 | 🎗️ Breast Cancer Detection | AI-powered CNN model for classifying breast cancer tumor images for diagnosis | [Breast-Cancer-Detection](https://github.com/mrchandrayee/Breast-Cancer-Detection) |
+| 95 | 🔬 Melanoma Detection | CNN model for classifying skin cancer melanoma images for early diagnosis | [MelanomaDetecting](https://github.com/mrchandrayee/MelanomaDetecting) |
 
 
 ## 👨‍💻 Author
