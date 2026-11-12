@@ -248,6 +248,137 @@ A curated index of all **HTML · CSS · JavaScript** frontend projects by [@mrch
 
 ---
 
+## 🎴 Cards & Hover Effects
+
+| # | Project | Description | GitHub | Live Demo |
+|---|---------|-------------|--------|-----------|
+| 129 | 🃏 3D Card Hover Effect | 3D Card hover effect with perspective transform | [3d-card-hover-effect](https://github.com/mrchandrayee/3d-card-hover-effect) | [🔗 Live](https://mrchandrayee.github.io/3d-card-hover-effect/) |
+| 130 | 💳 Animated Credit Card | Animated credit card with flip & real-time input | [animated-credit-card](https://github.com/mrchandrayee/animated-credit-card) | [🔗 Live](https://mrchandrayee.github.io/animated-credit-card/) |
+| 131 | 📖 Book Flipping Hover Animation | Book page flipping hover animation | [book-flipping-hover-animation](https://github.com/mrchandrayee/book-flipping-hover-animation) | [🔗 Live](https://mrchandrayee.github.io/book-flipping-hover-animation/) |
+| 132 | ✨ Border Hover Animation | CSS border hover animation effect | [border-hover-animation](https://github.com/mrchandrayee/border-hover-animation) | [🔗 Live](https://mrchandrayee.github.io/border-hover-animation/) |
+| 133 | ✨ Border Hover Animation — extracted/reconstructed project | Border hover animation — extracted reconstruction | [border-hover-animation-extracted](https://github.com/mrchandrayee/border-hover-animation-extracted) | [🔗 Live](https://mrchandrayee.github.io/border-hover-animation-extracted/) |
+| 134 | 🃏 Cards Beam Animation | Cards beam light animation effect | [cards-beam-animation](https://github.com/mrchandrayee/cards-beam-animation) | [🔗 Live](https://mrchandrayee.github.io/cards-beam-animation/) |
+| 135 | 🃏 CSS Card Hover Details | CSS card hover with animated details reveal | [css-card-hover-details](https://github.com/mrchandrayee/css-card-hover-details) | [🔗 Live](https://mrchandrayee.github.io/css-card-hover-details/) |
+| 136 | 🃏 Project Card Animation Hover | Project card hover animation | [project-card-animation-hover](https://github.com/mrchandrayee/project-card-animation-hover) | [🔗 Live](https://mrchandrayee.github.io/project-card-animation-hover/) |
+| 137 | 💧 Ripple Effect on Hover | Ripple effect on hover | [ripple-hover-effect-project](https://github.com/mrchandrayee/ripple-hover-effect-project) | [🔗 Live](https://mrchandrayee.github.io/ripple-hover-effect-project/) |
+| 138 | 🌐 Social Media Card Hover | Social media card hover effects | [social-media-card-hover](https://github.com/mrchandrayee/social-media-card-hover) | [🔗 Live](https://mrchandrayee.github.io/social-media-card-hover/) |
+| 139 | 🌐 Social Media Hover Effect | Social media icon hover effects | [social-media-hover-effect](https://github.com/mrchandrayee/social-media-hover-effect) | [🔗 Live](https://mrchandrayee.github.io/social-media-hover-effect/) |
+
+---
+
+## 🔄 Loaders & Preloaders
+
+| # | Project | Description | GitHub | Live Demo |
+|---|---------|-------------|--------|-----------|
+| 140 | ⏳ Animating Text using Only CSS | Animating text using only CSS | [css-animated-loading-text](https://github.com/mrchandrayee/css-animated-loading-text) | [🔗 Live](https://mrchandrayee.github.io/css-animated-loading-text/) |
+| 141 | ⏳ Designer Loading Animation | Designer-style loading animation | [designer-loading-animation](https://github.com/mrchandrayee/designer-loading-animation) | [🔗 Live](https://mrchandrayee.github.io/designer-loading-animation/) |
+| 142 | ⏳ Fake Pre-loader Website — Runnable Reconstruction | Fake pre-loader website reconstruction | [fake-preloader-reconstruction](https://github.com/mrchandrayee/fake-preloader-reconstruction) | [🔗 Live](https://mrchandrayee.github.io/fake-preloader-reconstruction/) |
+| 143 | ⏳ Fake Pre-loader to Website | Fake pre-loader to website animation | [fake-preloader-website](https://github.com/mrchandrayee/fake-preloader-website) | [🔗 Live](https://mrchandrayee.github.io/fake-preloader-website/) |
+| 144 | ⏳ Kinetic Morph Loader | Kinetic morphing CSS loader | [kinetic-morph-loader](https://github.com/mrchandrayee/kinetic-morph-loader) | [🔗 Live](https://mrchandrayee.github.io/kinetic-morph-loader/) |
+| 145 | ⏳ Kinetic Morph Loader | Kinetic morph loader variant 2 | [kinetic-morph-loader-1](https://github.com/mrchandrayee/kinetic-morph-loader-1) | [🔗 Live](https://mrchandrayee.github.io/kinetic-morph-loader-1/) |
+| 146 | ⏳ Kinetic Morph Loader | Kinetic morph loader variant 3 | [kinetic-morph-loader-2](https://github.com/mrchandrayee/kinetic-morph-loader-2) | [🔗 Live](https://mrchandrayee.github.io/kinetic-morph-loader-2/) |
+| 147 | 🎵 Music Loading Animation | Music bar loading animation | [music-loading-animation](https://github.com/mrchandrayee/music-loading-animation) | [🔗 Live](https://mrchandrayee.github.io/music-loading-animation/) |
+
+---
+
+## 🔐 Auth, OTP & Forms
+
+| # | Project | Description | GitHub | Live Demo |
+|---|---------|-------------|--------|-----------|
+| 148 | 🔐 Animated Login / Register UI | Animated login & register UI with transitions | [animated-login-register-project](https://github.com/mrchandrayee/animated-login-register-project) | [🔗 Live](https://mrchandrayee.github.io/animated-login-register-project/) |
+| 149 | 🔒 DEXE Lock Screen | DEXE animated lock screen UI | [dexe-lock-screen-project](https://github.com/mrchandrayee/dexe-lock-screen-project) | [🔗 Live](https://mrchandrayee.github.io/dexe-lock-screen-project/) |
+| 150 | 🔐 DEXE Login Form | DEXE login form with smooth animations | [dexe-login-form-project](https://github.com/mrchandrayee/dexe-login-form-project) | [🔗 Live](https://mrchandrayee.github.io/dexe-login-form-project/) |
+| 151 | 🔢 Ember — OTP Sign-in Verification | Ember animated OTP sign-in verification | [ember-otp-verification](https://github.com/mrchandrayee/ember-otp-verification) | [🔗 Live](https://mrchandrayee.github.io/ember-otp-verification/) |
+| 152 | 🔢 FLAP — OTP Phone Verification UI | FLAP phone OTP verification UI | [flap-otp-verification](https://github.com/mrchandrayee/flap-otp-verification) | [🔗 Live](https://mrchandrayee.github.io/flap-otp-verification/) |
+| 153 | 🔐 Glassmorphism Login UI | Glassmorphism login UI with frosted glass effect | [glassmorphism-login-project](https://github.com/mrchandrayee/glassmorphism-login-project) | [🔗 Live](https://mrchandrayee.github.io/glassmorphism-login-project/) |
+| 154 | 🔒 HASP — Animated OTP Lock Verification | HASP animated OTP lock verification | [hasp-otp-lock-verification](https://github.com/mrchandrayee/hasp-otp-lock-verification) | [🔗 Live](https://mrchandrayee.github.io/hasp-otp-lock-verification/) |
+| 155 | 📝 HTML Auto Complete — Datalist Demo | HTML autocomplete using datalist element | [html-datalist-autocomplete](https://github.com/mrchandrayee/html-datalist-autocomplete) | [🔗 Live](https://mrchandrayee.github.io/html-datalist-autocomplete/) |
+| 156 | 🔐 Impossible Login Button | Impossible login button — always dodges! | [impossible-login-button](https://github.com/mrchandrayee/impossible-login-button) | [🔗 Live](https://mrchandrayee.github.io/impossible-login-button/) |
+| 157 | 📝 Input Field Animation | Input field animation effects | [input-field-animation-project](https://github.com/mrchandrayee/input-field-animation-project) | [🔗 Live](https://mrchandrayee.github.io/input-field-animation-project/) |
+| 158 | 🔢 Liquid Glass OTP Input | Liquid glass OTP input verification | [liquid-glass-otp-input](https://github.com/mrchandrayee/liquid-glass-otp-input) | [🔗 Live](https://mrchandrayee.github.io/liquid-glass-otp-input/) |
+| 159 | 📱 Phone OTP Verification UI | Phone OTP verification UI | [phone-otp-verification-ui](https://github.com/mrchandrayee/phone-otp-verification-ui) | [🔗 Live](https://mrchandrayee.github.io/phone-otp-verification-ui/) |
+| 160 | 👁️ TUCK — Password Peek Signup | TUCK password peek signup form | [tuck-password-peek-signup](https://github.com/mrchandrayee/tuck-password-peek-signup) | [🔗 Live](https://mrchandrayee.github.io/tuck-password-peek-signup/) |
+
+---
+
+## 🧭 Navigations & Menus
+
+| # | Project | Description | GitHub | Live Demo |
+|---|---------|-------------|--------|-----------|
+| 161 | 🍔 Animated Hamburger Menu Grid | Animated hamburger menu with grid layout | [animated-hamburger-menu-grid](https://github.com/mrchandrayee/animated-hamburger-menu-grid) | [🔗 Live](https://mrchandrayee.github.io/animated-hamburger-menu-grid/) |
+| 162 | 🌙 Nocturne — Aperture Menu | Nocturne aperture menu with dark elegant design | [aperture-nocturne-menu](https://github.com/mrchandrayee/aperture-nocturne-menu) | [🔗 Live](https://mrchandrayee.github.io/aperture-nocturne-menu/) |
+| 163 | 🧭 Iconic Magic Tab Bar | Iconic magic tab bar — HTML & CSS | [iconic-magic-tab-bar](https://github.com/mrchandrayee/iconic-magic-tab-bar) | [🔗 Live](https://mrchandrayee.github.io/iconic-magic-tab-bar/) |
+| 164 | 🏮 Lantern — Animated Sidebar Navigation | Lantern animated sidebar navigation | [lantern-sidebar-navigation](https://github.com/mrchandrayee/lantern-sidebar-navigation) | [🔗 Live](https://mrchandrayee.github.io/lantern-sidebar-navigation/) |
+| 165 | ✨ Magic Navigation Menu | Magic animated navigation menu | [magic-navigation-menu](https://github.com/mrchandrayee/magic-navigation-menu) | [🔗 Live](https://mrchandrayee.github.io/magic-navigation-menu/) |
+| 166 | 🗿 MARBLE — Animated Bottom Navigation | MARBLE animated bottom navigation | [marble-animated-navigation](https://github.com/mrchandrayee/marble-animated-navigation) | [🔗 Live](https://mrchandrayee.github.io/marble-animated-navigation/) |
+| 167 | 📱 Mobile Social Navigation | Mobile social bottom navigation bar | [mobile-social-navigation](https://github.com/mrchandrayee/mobile-social-navigation) | [🔗 Live](https://mrchandrayee.github.io/mobile-social-navigation/) |
+| 168 | 🧭 Navigation Menu V1 — CodePen-style reconstruction | Navigation menu V1 — CodePen rebuild | [navigation-menu-v1-codepen-rebuild](https://github.com/mrchandrayee/navigation-menu-v1-codepen-rebuild) | [🔗 Live](https://mrchandrayee.github.io/navigation-menu-v1-codepen-rebuild/) |
+| 169 | 🧭 Navigation Menu V2 | Navigation menu V2 with animations | [navigation-menu-v2](https://github.com/mrchandrayee/navigation-menu-v2) | [🔗 Live](https://mrchandrayee.github.io/navigation-menu-v2/) |
+| 170 | 🧭 Navigation Tab Menu Vol. 1 | Navigation tab menu Vol.1 | [navigation-tab-menu-vol1](https://github.com/mrchandrayee/navigation-tab-menu-vol1) | [🔗 Live](https://mrchandrayee.github.io/navigation-tab-menu-vol1/) |
+| 171 | 🫧 SIPHON — Glass Navigation | SIPHON glass morphism navigation | [siphon-glass-navigation](https://github.com/mrchandrayee/siphon-glass-navigation) | [🔗 Live](https://mrchandrayee.github.io/siphon-glass-navigation/) |
+| 172 | 🤐 Unzip the Menu — Zipper Navigation | Zipper unzip navigation menu animation | [zipper-unzip-menu](https://github.com/mrchandrayee/zipper-unzip-menu) | [🔗 Live](https://mrchandrayee.github.io/zipper-unzip-menu/) |
+
+---
+
+## 🔍 Search Bars
+
+| # | Project | Description | GitHub | Live Demo |
+|---|---------|-------------|--------|-----------|
+| 173 | 🔍 Animated Search Bar Input | Animated search bar with smooth input effects | [animated-search-bar-input](https://github.com/mrchandrayee/animated-search-bar-input) | [🔗 Live](https://mrchandrayee.github.io/animated-search-bar-input/) |
+| 174 | 🔍 Awesome Search Bar | Awesome animated search bar UI | [awesome-search-bar](https://github.com/mrchandrayee/awesome-search-bar) | [🔗 Live](https://mrchandrayee.github.io/awesome-search-bar/) |
+| 175 | 🔍 Glowing Animated Search Bar | Glowing animated search bar | [glowing-animated-search-bar](https://github.com/mrchandrayee/glowing-animated-search-bar) | [🔗 Live](https://mrchandrayee.github.io/glowing-animated-search-bar/) |
+| 176 | 🔍 Glowing Animated Search Bar | Glowing animated search bar variant | [glowing-animated-search-bar-1](https://github.com/mrchandrayee/glowing-animated-search-bar-1) | [🔗 Live](https://mrchandrayee.github.io/glowing-animated-search-bar-1/) |
+
+---
+
+## ✨ Text & Visual Effects
+
+| # | Project | Description | GitHub | Live Demo |
+|---|---------|-------------|--------|-----------|
+| 177 | ✨ Border Hover Animation | CSS border hover animation effect | [border-hover-animation](https://github.com/mrchandrayee/border-hover-animation) | [🔗 Live](https://mrchandrayee.github.io/border-hover-animation/) |
+| 178 | ✨ Border Hover Animation — extracted/reconstructed project | Border hover animation — extracted reconstruction | [border-hover-animation-extracted](https://github.com/mrchandrayee/border-hover-animation-extracted) | [🔗 Live](https://mrchandrayee.github.io/border-hover-animation-extracted/) |
+| 179 | 🔄 Change Title When User Changes Tab | Change browser tab title when user switches tabs | [change-title-on-tab-switch](https://github.com/mrchandrayee/change-title-on-tab-switch) | [🔗 Live](https://mrchandrayee.github.io/change-title-on-tab-switch/) |
+| 180 | 🌌 Cool Galaxy Animation | Cool galaxy CSS & canvas animation | [cool-galaxy-animation](https://github.com/mrchandrayee/cool-galaxy-animation) | [🔗 Live](https://mrchandrayee.github.io/cool-galaxy-animation/) |
+| 181 | ⏳ Animating Text using Only CSS | Animating text using only CSS | [css-animated-loading-text](https://github.com/mrchandrayee/css-animated-loading-text) | [🔗 Live](https://mrchandrayee.github.io/css-animated-loading-text/) |
+| 182 | 🎨 The ::selection pseudo-element in CSS | CSS ::selection pseudo-element demo | [css-selection-pseudo-element](https://github.com/mrchandrayee/css-selection-pseudo-element) | [🔗 Live](https://mrchandrayee.github.io/css-selection-pseudo-element/) |
+| 183 | 🥚 Egg Toggle | Egg toggle interactive animation | [egg-toggle-project](https://github.com/mrchandrayee/egg-toggle-project) | [🔗 Live](https://mrchandrayee.github.io/egg-toggle-project/) |
+| 184 | 🥚 Egg Toggle Switch | Egg toggle switch — HTML & CSS | [egg-toggle-switch](https://github.com/mrchandrayee/egg-toggle-switch) | [🔗 Live](https://mrchandrayee.github.io/egg-toggle-switch/) |
+| 185 | 🐻 Impossible Teddy Checkbox | Impossible teddy bear checkbox animation | [impossible-teddy-checkbox](https://github.com/mrchandrayee/impossible-teddy-checkbox) | [🔗 Live](https://mrchandrayee.github.io/impossible-teddy-checkbox/) |
+| 186 | 🇮🇳 Indian Flag | Indian flag created with pure HTML & CSS | [indian-flag-html-css](https://github.com/mrchandrayee/indian-flag-html-css) | [🔗 Live](https://mrchandrayee.github.io/indian-flag-html-css/) |
+| 187 | ✍️ Multi Layer Text Animation | Multi-layer CSS text animation | [multi-layer-text-animation](https://github.com/mrchandrayee/multi-layer-text-animation) | [🔗 Live](https://mrchandrayee.github.io/multi-layer-text-animation/) |
+| 188 | ⬆️ Scroll to Top Using JavaScript | Scroll to top button with JavaScript | [scroll-to-top-javascript](https://github.com/mrchandrayee/scroll-to-top-javascript) | [🔗 Live](https://mrchandrayee.github.io/scroll-to-top-javascript/) |
+| 189 | 📜 Simple Custom Scroller | Simple custom scrollbar styling | [simple-custom-scroller](https://github.com/mrchandrayee/simple-custom-scroller) | [🔗 Live](https://mrchandrayee.github.io/simple-custom-scroller/) |
+| 190 | 🌐 Social Media Hover Effect | Social media icon hover effects | [social-media-hover-effect](https://github.com/mrchandrayee/social-media-hover-effect) | [🔗 Live](https://mrchandrayee.github.io/social-media-hover-effect/) |
+
+---
+
+## 🌍 Creative & Interactive Projects
+
+| # | Project | Description | GitHub | Live Demo |
+|---|---------|-------------|--------|-----------|
+| 191 | 🌸 Animated Blossoming Flowers | Animated blossoming flowers using CSS & JS | [animated-blossoming-flowers](https://github.com/mrchandrayee/animated-blossoming-flowers) | [🔗 Live](https://mrchandrayee.github.io/animated-blossoming-flowers/) |
+| 192 | 🌍 Animated Globe Three.js | Animated 3D globe using Three.js | [animated-globe-threejs](https://github.com/mrchandrayee/animated-globe-threejs) | [🔗 Live](https://mrchandrayee.github.io/animated-globe-threejs/) |
+| 193 | 🍽️ Antixor Catering Website | Antixor catering business website | [antixor-catering-website](https://github.com/mrchandrayee/antixor-catering-website) | [🔗 Live](https://mrchandrayee.github.io/antixor-catering-website/) |
+| 194 | 📊 Bramble — Operations Dashboard | Bramble operations dashboard — React/TypeScript | [bramble-operations-dashboard](https://github.com/mrchandrayee/bramble-operations-dashboard) | [🔗 Live](https://mrchandrayee.github.io/bramble-operations-dashboard/) |
+| 195 | 🌌 Cool Galaxy Animation | Cool galaxy CSS & canvas animation | [cool-galaxy-animation](https://github.com/mrchandrayee/cool-galaxy-animation) | [🔗 Live](https://mrchandrayee.github.io/cool-galaxy-animation/) |
+| 196 | 🏠 DORMER — Smart Home Automation Dashboard | DORMER smart home automation dashboard | [dormer-smart-home-dashboard](https://github.com/mrchandrayee/dormer-smart-home-dashboard) | [🔗 Live](https://mrchandrayee.github.io/dormer-smart-home-dashboard/) |
+| 197 | ⏳ Fake Pre-loader Website — Runnable Reconstruction | Fake pre-loader website reconstruction | [fake-preloader-reconstruction](https://github.com/mrchandrayee/fake-preloader-reconstruction) | [🔗 Live](https://mrchandrayee.github.io/fake-preloader-reconstruction/) |
+| 198 | ⏳ Fake Pre-loader to Website | Fake pre-loader to website animation | [fake-preloader-website](https://github.com/mrchandrayee/fake-preloader-website) | [🔗 Live](https://mrchandrayee.github.io/fake-preloader-website/) |
+| 199 | ☀️ Solar System Code Tune | Solar system code tune project | [solar-system-code-tune-project](https://github.com/mrchandrayee/solar-system-code-tune-project) | [🔗 Live](https://mrchandrayee.github.io/solar-system-code-tune-project/) |
+| 200 | ☀️ Solar System — Full Information | Solar system with full planetary information | [solar-system-full-information-project](https://github.com/mrchandrayee/solar-system-full-information-project) | [🔗 Live](https://mrchandrayee.github.io/solar-system-full-information-project/) |
+| 201 | ☀️ Solar System Interactive Rebuild | Solar system interactive rebuild | [solar-system-interactive-rebuild](https://github.com/mrchandrayee/solar-system-interactive-rebuild) | [🔗 Live](https://mrchandrayee.github.io/solar-system-interactive-rebuild/) |
+
+---
+
+## ⚛️ React Projects
+
+| # | Project | Description | GitHub | Live Demo |
+|---|---------|-------------|--------|-----------|
+| 202 | 📊 Bramble — Operations Dashboard | Bramble operations dashboard — React/TypeScript | [bramble-operations-dashboard](https://github.com/mrchandrayee/bramble-operations-dashboard) | [🔗 Live](https://mrchandrayee.github.io/bramble-operations-dashboard/) |
+| 203 | 📱 QR Code Generator | QR code generator — React app | [qr-code-generator-react](https://github.com/mrchandrayee/qr-code-generator-react) | [🔗 Live](https://mrchandrayee.github.io/qr-code-generator-react/) |
+
+---
+
 ## 🛠️ Tech Stack
 
 All projects use:
