@@ -600,6 +600,27 @@ A curated index of all **HTML · CSS · JavaScript** frontend projects by [@mrch
 
 ---
 
+## 🎨 Additional CSS Animation Projects
+
+| # | Project | Description | GitHub | Live Demo |
+|---|---------|-------------|--------|-----------|
+| 355 | 🔘 Advanced Button Animations | Advanced button animation collection with multiple hover effects | [advanced-button-animations](https://github.com/mrchandrayee/advanced-button-animations) | [🔗 Live](https://mrchandrayee.github.io/advanced-button-animations/) |
+| 356 | 🔄 CSS Flip Button Animation | 3D flip button animation with CSS transforms | [css-flip-button-animation](https://github.com/mrchandrayee/css-flip-button-animation) | [🔗 Live](https://mrchandrayee.github.io/css-flip-button-animation/) |
+| 357 | ✨ CSS Animation — Four Effects | Four different CSS animation effects showcase | [css-animation-four-effects](https://github.com/mrchandrayee/css-animation-four-effects) | [🔗 Live](https://mrchandrayee.github.io/css-animation-four-effects/) |
+| 358 | ✨ CSS Border Animation Showcase | Collection of CSS border animation effects | [css-border-animation-showcase](https://github.com/mrchandrayee/css-border-animation-showcase) | [🔗 Live](https://mrchandrayee.github.io/css-border-animation-showcase/) |
+| 359 | ⬜ CSS Border Radius Animation | Animated border radius morphing effects | [css-border-radius-animation](https://github.com/mrchandrayee/css-border-radius-animation) | [🔗 Live](https://mrchandrayee.github.io/css-border-radius-animation/) |
+| 360 | ⏳ CSS Loader — Dual Ring | Dual ring CSS loading spinner animation | [css-loader-dual-ring](https://github.com/mrchandrayee/css-loader-dual-ring) | [🔗 Live](https://mrchandrayee.github.io/css-loader-dual-ring/) |
+| 361 | 🔦 CSS Mask Spotlight Effect | CSS mask spotlight reveal effect | [css-mask-spotlight-effect](https://github.com/mrchandrayee/css-mask-spotlight-effect) | [🔗 Live](https://mrchandrayee.github.io/css-mask-spotlight-effect/) |
+| 362 | ✍️ CSS Text Animation — Five Effects | Five different CSS text animation effects | [css-text-animation-five-effects](https://github.com/mrchandrayee/css-text-animation-five-effects) | [🔗 Live](https://mrchandrayee.github.io/css-text-animation-five-effects/) |
+| 363 | 🔢 Embossed OTP Login UI | Embossed styled OTP login verification interface | [embossed-otp-login-ui](https://github.com/mrchandrayee/embossed-otp-login-ui) | [🔗 Live](https://mrchandrayee.github.io/embossed-otp-login-ui/) |
+| 364 | ✍️ Embossed Text Animation | Embossed 3D text animation effect | [embossed-text-animation](https://github.com/mrchandrayee/embossed-text-animation) | [🔗 Live](https://mrchandrayee.github.io/embossed-text-animation/) |
+| 365 | 🍔 Hamburger Menu Animation | Animated hamburger menu icon transformation | [hamburger-menu-animation](https://github.com/mrchandrayee/hamburger-menu-animation) | [🔗 Live](https://mrchandrayee.github.io/hamburger-menu-animation/) |
+| 366 | 💧 Liquid Animation Login | Liquid morphing animated login form | [liquid-animation-login](https://github.com/mrchandrayee/liquid-animation-login) | [🔗 Live](https://mrchandrayee.github.io/liquid-animation-login/) |
+| 367 | 🔢 OTP Embossed Form | Embossed styled OTP verification form | [otp-embossed-form](https://github.com/mrchandrayee/otp-embossed-form) | [🔗 Live](https://mrchandrayee.github.io/otp-embossed-form/) |
+| 368 | 🧭 Tab Navigation Animation | Animated tab navigation with smooth transitions | [tab-navigation-animation](https://github.com/mrchandrayee/tab-navigation-animation) | [🔗 Live](https://mrchandrayee.github.io/tab-navigation-animation/) |
+
+---
+
 ## 🛠️ Tech Stack
 
 All projects use:
