@@ -621,6 +621,27 @@ A curated index of all **HTML · CSS · JavaScript** frontend projects by [@mrch
 
 ---
 
+## 🎨 Additional CSS & UI Animation Projects
+
+| # | Project | Description | GitHub | Live Demo |
+|---|---------|-------------|--------|-----------|
+| 369 | 🔐 Animated Neon Embossed Login | Neon glowing embossed login UI with smooth animations | [animated-neon-embossed-login](https://github.com/mrchandrayee/animated-neon-embossed-login) | [🔗 Live](https://mrchandrayee.github.io/animated-neon-embossed-login/) |
+| 370 | 🔐 Neon Embossed Login v2 | Neon embossed login variant with different glow effects | [animated-neon-embossed-login-1](https://github.com/mrchandrayee/animated-neon-embossed-login-1) | [🔗 Live](https://mrchandrayee.github.io/animated-neon-embossed-login-1/) |
+| 371 | ⏳ 3D CSS Loader Animation | 3D perspective CSS loader with depth animation | [css-3d-loader-animation](https://github.com/mrchandrayee/css-3d-loader-animation) | [🔗 Live](https://mrchandrayee.github.io/css-3d-loader-animation/) |
+| 372 | ✨ CSS Animation — Five Effects | Five different CSS animation effects showcase | [css-animation-five-effects](https://github.com/mrchandrayee/css-animation-five-effects) | [🔗 Live](https://mrchandrayee.github.io/css-animation-five-effects/) |
+| 373 | 🔄 CSS Infinite Scroll Animation | Infinite scroll animation from video reconstruction | [css-infinite-scroll-animation-video-project](https://github.com/mrchandrayee/css-infinite-scroll-animation-video-project) | [🔗 Live](https://mrchandrayee.github.io/css-infinite-scroll-animation-video-project/) |
+| 374 | ⏳ CSS Loader — Five Effects | Five different CSS loader spinner animations | [css-loader-animation-five-effects](https://github.com/mrchandrayee/css-loader-animation-five-effects) | [🔗 Live](https://mrchandrayee.github.io/css-loader-animation-five-effects/) |
+| 375 | ⏳ CSS Loader — Four Effects | Four loader animation effects collection | [css-loader-four-effects](https://github.com/mrchandrayee/css-loader-four-effects) | [🔗 Live](https://mrchandrayee.github.io/css-loader-four-effects/) |
+| 376 | 📄 CSS Pagination UI | Styled pagination component with CSS animations | [css-pagination-ui](https://github.com/mrchandrayee/css-pagination-ui) | [🔗 Live](https://mrchandrayee.github.io/css-pagination-ui/) |
+| 377 | 📝 Input Hover — Three Effects | Three input field hover animation effects | [input-hover-animation-three-effects](https://github.com/mrchandrayee/input-hover-animation-three-effects) | [🔗 Live](https://mrchandrayee.github.io/input-hover-animation-three-effects/) |
+| 378 | ⏳ Modern Loader Animation | Modern minimal CSS loading animation | [modern-loader-animation](https://github.com/mrchandrayee/modern-loader-animation) | [🔗 Live](https://mrchandrayee.github.io/modern-loader-animation/) |
+| 379 | 🔐 OTP Verification Secure Login | Secure login with OTP verification flow | [otp-verification-secure-login](https://github.com/mrchandrayee/otp-verification-secure-login) | [🔗 Live](https://mrchandrayee.github.io/otp-verification-secure-login/) |
+| 380 | 🎬 Slide Reveal Animation | Slide reveal animation — extracted runnable version | [slide-reveal-animation-extracted-runnable](https://github.com/mrchandrayee/slide-reveal-animation-extracted-runnable) | [🔗 Live](https://mrchandrayee.github.io/slide-reveal-animation-extracted-runnable/) |
+| 381 | ✍️ Split Text Hover Effect | Text splits on hover with CSS animation | [split-text-hover-effect](https://github.com/mrchandrayee/split-text-hover-effect) | [🔗 Live](https://mrchandrayee.github.io/split-text-hover-effect/) |
+| 382 | 🔀 Toggle Switch Animation | Animated toggle switch with smooth transition | [toggle-switch-animation](https://github.com/mrchandrayee/toggle-switch-animation) | [🔗 Live](https://mrchandrayee.github.io/toggle-switch-animation/) |
+
+---
+
 ## 🛠️ Tech Stack
 
 All projects use:
