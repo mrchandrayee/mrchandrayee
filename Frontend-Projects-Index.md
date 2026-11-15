@@ -642,6 +642,23 @@ A curated index of all **HTML · CSS · JavaScript** frontend projects by [@mrch
 
 ---
 
+## 🎨 New CSS & UI Animation Projects
+
+| # | Project | Description | GitHub | Live Demo |
+|---|---------|-------------|--------|-----------|
+| 383 | ⬜ CSS Border Radius Styles | CSS border radius style variations and animations | [css-border-radius-styles](https://github.com/mrchandrayee/css-border-radius-styles) | [🔗 Live](https://mrchandrayee.github.io/css-border-radius-styles/) |
+| 384 | ⏳ CSS Loader — Dual Ring | Dual ring CSS loader animation | [css-loader-animation-dual-ring](https://github.com/mrchandrayee/css-loader-animation-dual-ring) | [🔗 Live](https://mrchandrayee.github.io/css-loader-animation-dual-ring/) |
+| 385 | 🪟 CSS Modal Popup | Animated modal popup with overlay effect | [css-modal-popup](https://github.com/mrchandrayee/css-modal-popup) | [🔗 Live](https://mrchandrayee.github.io/css-modal-popup/) |
+| 386 | ✍️ CSS Text Animation — Four Effects | Four CSS text animation effects collection | [css-text-animation-four-effects](https://github.com/mrchandrayee/css-text-animation-four-effects) | [🔗 Live](https://mrchandrayee.github.io/css-text-animation-four-effects/) |
+| 387 | 📅 CSS Timeline Animation | Animated vertical/horizontal timeline component | [css-timeline-animation](https://github.com/mrchandrayee/css-timeline-animation) | [🔗 Live](https://mrchandrayee.github.io/css-timeline-animation/) |
+| 388 | ⚡ Electric Login & Signup | Electric neon styled login/signup form | [electric-login-signup](https://github.com/mrchandrayee/electric-login-signup) | [🔗 Live](https://mrchandrayee.github.io/electric-login-signup/) |
+| 389 | 🔢 Embossed OTP UI | Embossed styled OTP verification interface | [embossed-otp-ui](https://github.com/mrchandrayee/embossed-otp-ui) | [🔗 Live](https://mrchandrayee.github.io/embossed-otp-ui/) |
+| 390 | 🌫️ Glassmorphism Dropdown Navigation | Glassmorphism dropdown nav from video reconstruction | [glassmorphism-dropdown-navigation-video-project](https://github.com/mrchandrayee/glassmorphism-dropdown-navigation-video-project) | [🔗 Live](https://mrchandrayee.github.io/glassmorphism-dropdown-navigation-video-project/) |
+| 391 | 💡 Login Form — Lamp Animation | Login form with lamp light on/off animation | [login-form-lamp-animation](https://github.com/mrchandrayee/login-form-lamp-animation) | [🔗 Live](https://mrchandrayee.github.io/login-form-lamp-animation/) |
+| 392 | 🔢 OTP Verification UI | Clean OTP verification UI with auto-focus | [otp-verification-ui](https://github.com/mrchandrayee/otp-verification-ui) | [🔗 Live](https://mrchandrayee.github.io/otp-verification-ui/) |
+
+---
+
 ## 🛠️ Tech Stack
 
 All projects use:
