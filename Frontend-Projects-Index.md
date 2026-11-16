@@ -659,6 +659,120 @@ A curated index of all **HTML · CSS · JavaScript** frontend projects by [@mrch
 
 ---
 
+## 🔘 Button Animations
+
+| # | Project | Description | GitHub | Live Demo |
+|---|---------|-------------|--------|-----------|
+| 393 | Button Hover Animation | Button Hover Animation — creative UI project | [button-hover-animation-1](https://github.com/mrchandrayee/button-hover-animation-1) | [🔗 Live](https://mrchandrayee.github.io/button-hover-animation-1/) |
+| 394 | Button Hover Animation | Button Hover Animation — creative UI project | [button-hover-animation-lab](https://github.com/mrchandrayee/button-hover-animation-lab) | [🔗 Live](https://mrchandrayee.github.io/button-hover-animation-lab/) |
+| 395 | Circle CSS Button Animations | Circle CSS Button Animations — creative UI project | [circle-css-button-animations](https://github.com/mrchandrayee/circle-css-button-animations) | [🔗 Live](https://mrchandrayee.github.io/circle-css-button-animations/) |
+| 396 | CSS Button Animation | CSS Button Animation — creative UI project | [css-button-animation-1](https://github.com/mrchandrayee/css-button-animation-1) | [🔗 Live](https://mrchandrayee.github.io/css-button-animation-1/) |
+| 397 | CSS Button Animation | CSS Button Animation — creative UI project | [css-button-animation-lab](https://github.com/mrchandrayee/css-button-animation-lab) | [🔗 Live](https://mrchandrayee.github.io/css-button-animation-lab/) |
+| 398 | CSS Button hover Animation | CSS Button hover Animation — creative UI project | [css-button-hover-animation](https://github.com/mrchandrayee/css-button-hover-animation) | [🔗 Live](https://mrchandrayee.github.io/css-button-hover-animation/) |
+| 399 | CSS Embossed Button | CSS Embossed Button — creative UI project | [css-embossed-button-gallery](https://github.com/mrchandrayee/css-embossed-button-gallery) | [🔗 Live](https://mrchandrayee.github.io/css-embossed-button-gallery/) |
+| 400 | CSS Hover Button Animations | CSS Hover Button Animations — creative UI project | [css-hover-button-animations](https://github.com/mrchandrayee/css-hover-button-animations) | [🔗 Live](https://mrchandrayee.github.io/css-hover-button-animations/) |
+| 401 | Embossed Circle Button Animation | Embossed Circle Button Animation — creative UI project | [embossed-circle-button](https://github.com/mrchandrayee/embossed-circle-button) | [🔗 Live](https://mrchandrayee.github.io/embossed-circle-button/) |
+| 402 | Modern Embossed Buttons | Modern Embossed Buttons — creative UI project | [modern-embossed-buttons](https://github.com/mrchandrayee/modern-embossed-buttons) | [🔗 Live](https://mrchandrayee.github.io/modern-embossed-buttons/) |
+
+---
+
+## ⏳ Loaders & Spinners
+
+| # | Project | Description | GitHub | Live Demo |
+|---|---------|-------------|--------|-----------|
+| 403 | 3D Animated Box Loader | 3D Animated Box Loader — creative UI project | [3d-animated-box-loader](https://github.com/mrchandrayee/3d-animated-box-loader) | [🔗 Live](https://mrchandrayee.github.io/3d-animated-box-loader/) |
+| 404 | Advanced CSS Loaders Animation | Advanced CSS Loaders Animation — creative UI project | [advanced-css-loaders-animation](https://github.com/mrchandrayee/advanced-css-loaders-animation) | [🔗 Live](https://mrchandrayee.github.io/advanced-css-loaders-animation/) |
+| 405 | Advanced CSS Loaders Animation | Advanced CSS Loaders Animation — creative UI project | [advanced-css-loaders-animation-1](https://github.com/mrchandrayee/advanced-css-loaders-animation-1) | [🔗 Live](https://mrchandrayee.github.io/advanced-css-loaders-animation-1/) |
+| 406 | CSS Embossed Loader Animations | CSS Embossed Loader Animations — creative UI project | [css-embossed-loader-animations](https://github.com/mrchandrayee/css-embossed-loader-animations) | [🔗 Live](https://mrchandrayee.github.io/css-embossed-loader-animations/) |
+| 407 | CSS Loader Animation — Six Effects | CSS Loader Animation — Six Effects — creative UI project | [css-loader-six-effects](https://github.com/mrchandrayee/css-loader-six-effects) | [🔗 Live](https://mrchandrayee.github.io/css-loader-six-effects/) |
+| 408 | CSS Square Loader Animation | CSS Square Loader Animation — creative UI project | [css-square-loader-animation-1](https://github.com/mrchandrayee/css-square-loader-animation-1) | [🔗 Live](https://mrchandrayee.github.io/css-square-loader-animation-1/) |
+| 409 | CSS Square Loader Animation | CSS Square Loader Animation — creative UI project | [css-square-loader-animation-2](https://github.com/mrchandrayee/css-square-loader-animation-2) | [🔗 Live](https://mrchandrayee.github.io/css-square-loader-animation-2/) |
+| 410 | CSS Square Loader Animation | CSS Square Loader Animation — creative UI project | [css-square-loader-animation-3](https://github.com/mrchandrayee/css-square-loader-animation-3) | [🔗 Live](https://mrchandrayee.github.io/css-square-loader-animation-3/) |
+| 411 | Interactive Loader Animation | Interactive Loader Animation — creative UI project | [interactive-loader-animation-1](https://github.com/mrchandrayee/interactive-loader-animation-1) | [🔗 Live](https://mrchandrayee.github.io/interactive-loader-animation-1/) |
+
+---
+
+## 🔐 Login, Auth & OTP
+
+| # | Project | Description | GitHub | Live Demo |
+|---|---------|-------------|--------|-----------|
+| 412 | Animated Login UI | Animated Login UI — creative UI project | [animated-login-ui-1](https://github.com/mrchandrayee/animated-login-ui-1) | [🔗 Live](https://mrchandrayee.github.io/animated-login-ui-1/) |
+| 413 | Embossed Login / Sign Up with Validation | Embossed Login / Sign Up with Validation — creative UI project | [embossed-login-signup-validation](https://github.com/mrchandrayee/embossed-login-signup-validation) | [🔗 Live](https://mrchandrayee.github.io/embossed-login-signup-validation/) |
+| 414 | Expandable Electric Login | Expandable Electric Login — creative UI project | [expandable-electric-login](https://github.com/mrchandrayee/expandable-electric-login) | [🔗 Live](https://mrchandrayee.github.io/expandable-electric-login/) |
+| 415 | Glowing Input (On Focus) Effect | Glowing Input (On Focus) Effect — creative UI project | [glowing-input-focus-login](https://github.com/mrchandrayee/glowing-input-focus-login) | [🔗 Live](https://mrchandrayee.github.io/glowing-input-focus-login/) |
+| 416 | Interactive Liquid Login | Interactive Liquid Login — creative UI project | [interactive-liquid-login](https://github.com/mrchandrayee/interactive-liquid-login) | [🔗 Live](https://mrchandrayee.github.io/interactive-liquid-login/) |
+| 417 | Interactive OTP Verification | Interactive OTP Verification — creative UI project | [interactive-otp-verification](https://github.com/mrchandrayee/interactive-otp-verification) | [🔗 Live](https://mrchandrayee.github.io/interactive-otp-verification/) |
+| 418 | Modern UI Login Form | Modern UI Login Form — creative UI project | [modern-ui-login-form](https://github.com/mrchandrayee/modern-ui-login-form) | [🔗 Live](https://mrchandrayee.github.io/modern-ui-login-form/) |
+| 419 | Neon Embossed Login | Neon Embossed Login — creative UI project | [neon-embossed-login](https://github.com/mrchandrayee/neon-embossed-login) | [🔗 Live](https://mrchandrayee.github.io/neon-embossed-login/) |
+| 420 | OTP Animation UI | OTP Animation UI — creative UI project | [otp-animation-ui](https://github.com/mrchandrayee/otp-animation-ui) | [🔗 Live](https://mrchandrayee.github.io/otp-animation-ui/) |
+| 421 | OTP Verification UI | OTP Verification UI — creative UI project | [otp-verification-ui-1](https://github.com/mrchandrayee/otp-verification-ui-1) | [🔗 Live](https://mrchandrayee.github.io/otp-verification-ui-1/) |
+| 422 | Phone OTP Verification | Phone OTP Verification — creative UI project | [phone-otp-verification](https://github.com/mrchandrayee/phone-otp-verification) | [🔗 Live](https://mrchandrayee.github.io/phone-otp-verification/) |
+| 423 | Realistic Lamp Animation | Realistic Lamp Animation — creative UI project | [realistic-lamp-animation](https://github.com/mrchandrayee/realistic-lamp-animation) | [🔗 Live](https://mrchandrayee.github.io/realistic-lamp-animation/) |
+
+---
+
+## 🧭 Navigation & Menus
+
+| # | Project | Description | GitHub | Live Demo |
+|---|---------|-------------|--------|-----------|
+| 424 | Liquid hamburger Menu | Liquid hamburger Menu — creative UI project | [liquid-hamburger-menu](https://github.com/mrchandrayee/liquid-hamburger-menu) | [🔗 Live](https://mrchandrayee.github.io/liquid-hamburger-menu/) |
+| 425 | Navigation Tabs Animation | Navigation Tabs Animation — creative UI project | [navigation-tabs-animation](https://github.com/mrchandrayee/navigation-tabs-animation) | [🔗 Live](https://mrchandrayee.github.io/navigation-tabs-animation/) |
+| 426 | Sidebar Navigation Menu | Sidebar Navigation Menu — creative UI project | [sidebar-navigation-menu](https://github.com/mrchandrayee/sidebar-navigation-menu) | [🔗 Live](https://mrchandrayee.github.io/sidebar-navigation-menu/) |
+
+---
+
+## ✍️ Text & Border Effects
+
+| # | Project | Description | GitHub | Live Demo |
+|---|---------|-------------|--------|-----------|
+| 427 | 2D Transform Animation Lab | 2D Transform Animation Lab — creative UI project | [2d-transform-animation-lab](https://github.com/mrchandrayee/2d-transform-animation-lab) | [🔗 Live](https://mrchandrayee.github.io/2d-transform-animation-lab/) |
+| 428 | Auto Loop Animated List | Auto Loop Animated List — creative UI project | [auto-loop-animated-list](https://github.com/mrchandrayee/auto-loop-animated-list) | [🔗 Live](https://mrchandrayee.github.io/auto-loop-animated-list/) |
+| 429 | Checkbox UI Design | Checkbox UI Design — creative UI project | [checkbox-ui-design](https://github.com/mrchandrayee/checkbox-ui-design) | [🔗 Live](https://mrchandrayee.github.io/checkbox-ui-design/) |
+| 430 | CSS Border Animation | CSS Border Animation — creative UI project | [css-border-animation](https://github.com/mrchandrayee/css-border-animation) | [🔗 Live](https://mrchandrayee.github.io/css-border-animation/) |
+| 431 | CSS Border UI Style | CSS Border UI Style — creative UI project | [css-border-ui-style](https://github.com/mrchandrayee/css-border-ui-style) | [🔗 Live](https://mrchandrayee.github.io/css-border-ui-style/) |
+| 432 | CSS Timing Functions | CSS Timing Functions — creative UI project | [css-timing-functions-1](https://github.com/mrchandrayee/css-timing-functions-1) | [🔗 Live](https://mrchandrayee.github.io/css-timing-functions-1/) |
+| 433 | CSS Transform Hover Effect | CSS Transform Hover Effect — creative UI project | [css-transform-hover-effects](https://github.com/mrchandrayee/css-transform-hover-effects) | [🔗 Live](https://mrchandrayee.github.io/css-transform-hover-effects/) |
+| 434 | CSS Transform Hover Effect | CSS Transform Hover Effect — creative UI project | [css-transform-hover-effects-1](https://github.com/mrchandrayee/css-transform-hover-effects-1) | [🔗 Live](https://mrchandrayee.github.io/css-transform-hover-effects-1/) |
+| 435 | CSS Transition Property with & without | CSS Transition Property with & without — creative UI project | [css-transition-property-demo](https://github.com/mrchandrayee/css-transition-property-demo) | [🔗 Live](https://mrchandrayee.github.io/css-transition-property-demo/) |
+| 436 | Embossed Text Effect | Embossed Text Effect — creative UI project | [embossed-text-effect](https://github.com/mrchandrayee/embossed-text-effect) | [🔗 Live](https://mrchandrayee.github.io/embossed-text-effect/) |
+| 437 | Interactive Checkbox UI | Interactive Checkbox UI — creative UI project | [interactive-checkbox-ui](https://github.com/mrchandrayee/interactive-checkbox-ui) | [🔗 Live](https://mrchandrayee.github.io/interactive-checkbox-ui/) |
+| 438 | Liquid Fill Text Hover Effect | Liquid Fill Text Hover Effect — creative UI project | [liquid-fill-text-hover](https://github.com/mrchandrayee/liquid-fill-text-hover) | [🔗 Live](https://mrchandrayee.github.io/liquid-fill-text-hover/) |
+| 439 | Timed Lyric Animation | Timed Lyric Animation — creative UI project | [timed-lyric-animation](https://github.com/mrchandrayee/timed-lyric-animation) | [🔗 Live](https://mrchandrayee.github.io/timed-lyric-animation/) |
+
+---
+
+## 🎴 Cards, Carousels & Galleries
+
+| # | Project | Description | GitHub | Live Demo |
+|---|---------|-------------|--------|-----------|
+| 440 | 3D Image Carousel | 3D Image Carousel — creative UI project | [3d-image-carousel-506ebfe4](https://github.com/mrchandrayee/3d-image-carousel-506ebfe4) | [🔗 Live](https://mrchandrayee.github.io/3d-image-carousel-506ebfe4/) |
+| 441 | 3D Interactive Portfolio Book | 3D Interactive Portfolio Book — creative UI project | [3d-interactive-portfolio-book](https://github.com/mrchandrayee/3d-interactive-portfolio-book) | [🔗 Live](https://mrchandrayee.github.io/3d-interactive-portfolio-book/) |
+| 442 | Glassy Carousel Animation | Glassy Carousel Animation — creative UI project | [glassy-carousel-animation](https://github.com/mrchandrayee/glassy-carousel-animation) | [🔗 Live](https://mrchandrayee.github.io/glassy-carousel-animation/) |
+| 443 | Interactive Dome Gallery | Interactive Dome Gallery — creative UI project | [interactive-dome-gallery](https://github.com/mrchandrayee/interactive-dome-gallery) | [🔗 Live](https://mrchandrayee.github.io/interactive-dome-gallery/) |
+
+---
+
+## 📐 Layout & UI Components
+
+| # | Project | Description | GitHub | Live Demo |
+|---|---------|-------------|--------|-----------|
+| 444 | Animated Cool Search Bar | Animated Cool Search Bar — creative UI project | [animated-cool-search-bar](https://github.com/mrchandrayee/animated-cool-search-bar) | [🔗 Live](https://mrchandrayee.github.io/animated-cool-search-bar/) |
+| 445 | Auto Suggestions HTML | Auto Suggestions HTML — creative UI project | [auto-suggestions-html](https://github.com/mrchandrayee/auto-suggestions-html) | [🔗 Live](https://mrchandrayee.github.io/auto-suggestions-html/) |
+| 446 | Grid Column UI | Grid Column UI — creative UI project | [grid-column-ui](https://github.com/mrchandrayee/grid-column-ui) | [🔗 Live](https://mrchandrayee.github.io/grid-column-ui/) |
+| 447 | HTML All Tags | HTML All Tags — creative UI project | [html-all-tags-reference](https://github.com/mrchandrayee/html-all-tags-reference) | [🔗 Live](https://mrchandrayee.github.io/html-all-tags-reference/) |
+| 448 | HTML All Tags | HTML All Tags — creative UI project | [html-all-tags-reference-1](https://github.com/mrchandrayee/html-all-tags-reference-1) | [🔗 Live](https://mrchandrayee.github.io/html-all-tags-reference-1/) |
+| 449 | Responsive Layout UI | Responsive Layout UI — creative UI project | [responsive-layout-ui](https://github.com/mrchandrayee/responsive-layout-ui) | [🔗 Live](https://mrchandrayee.github.io/responsive-layout-ui/) |
+
+---
+
+## 🎨 Other Creative Projects
+
+| # | Project | Description | GitHub | Live Demo |
+|---|---------|-------------|--------|-----------|
+| 450 | CSS 3D Animation Lab | CSS 3D Animation Lab — creative UI project | [css-3d-animation-lab](https://github.com/mrchandrayee/css-3d-animation-lab) | [🔗 Live](https://mrchandrayee.github.io/css-3d-animation-lab/) |
+
+---
+
 ## 🛠️ Tech Stack
 
 All projects use:
