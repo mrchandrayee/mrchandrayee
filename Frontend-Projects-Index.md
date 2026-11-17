@@ -773,6 +773,124 @@ A curated index of all **HTML · CSS · JavaScript** frontend projects by [@mrch
 
 ---
 
+## 📊 Dashboards & Analytics
+
+| # | Project | Description | GitHub | Live Demo |
+|---|---------|-------------|--------|-----------|
+| 451 | Amara — Employee Management & Productivity Dashboard | Amara — Employee Management & Productivity Dashboard | [amara-employee-productivity-dashboard](https://github.com/mrchandrayee/amara-employee-productivity-dashboard) | [🔗 Live](https://mrchandrayee.github.io/amara-employee-productivity-dashboard/) |
+| 452 | Amplo — Ad Campaign Dashboard | Amplo — Ad Campaign Dashboard | [amplo-ad-campaign-dashboard](https://github.com/mrchandrayee/amplo-ad-campaign-dashboard) | [🔗 Live](https://mrchandrayee.github.io/amplo-ad-campaign-dashboard/) |
+| 453 | Ardena — Property Investor Dashboard | Ardena — Property Investor Dashboard | [ardena-property-investor-dashboard](https://github.com/mrchandrayee/ardena-property-investor-dashboard) | [🔗 Live](https://mrchandrayee.github.io/ardena-property-investor-dashboard/) |
+| 454 | brisko — Automation Workflow Dashboard | brisko — Automation Workflow Dashboard | [brisko-automation-dashboard](https://github.com/mrchandrayee/brisko-automation-dashboard) | [🔗 Live](https://mrchandrayee.github.io/brisko-automation-dashboard/) |
+| 455 | Cadra — Manufacturing ERP Dashboard | Cadra — Manufacturing ERP Dashboard | [cadra-manufacturing-erp-dashboard](https://github.com/mrchandrayee/cadra-manufacturing-erp-dashboard) | [🔗 Live](https://mrchandrayee.github.io/cadra-manufacturing-erp-dashboard/) |
+| 456 | Calda — Smart Home Dashboard | Calda — Smart Home Dashboard | [calda-smart-home-dashboard](https://github.com/mrchandrayee/calda-smart-home-dashboard) | [🔗 Live](https://mrchandrayee.github.io/calda-smart-home-dashboard/) |
+| 457 | Calda — Smart Home Dashboard (video extraction v2) | Calda — Smart Home Dashboard (video extraction v2) | [calda-smart-home-dashboard-v2](https://github.com/mrchandrayee/calda-smart-home-dashboard-v2) | [🔗 Live](https://mrchandrayee.github.io/calda-smart-home-dashboard-v2/) |
+| 458 | ClinicOS — Clinic Analytics & Operations Dashboard | ClinicOS — Clinic Analytics & Operations Dashboard | [clinic-analytics-dashboard](https://github.com/mrchandrayee/clinic-analytics-dashboard) | [🔗 Live](https://mrchandrayee.github.io/clinic-analytics-dashboard/) |
+| 459 | Corbel Supply Co. — Sales Dashboard | Corbel Supply Co. — Sales Dashboard | [corbel-supply-sales-dashboard](https://github.com/mrchandrayee/corbel-supply-sales-dashboard) | [🔗 Live](https://mrchandrayee.github.io/corbel-supply-sales-dashboard/) |
+| 460 | Dovell — Operations Dashboard Animation | Dovell — Operations Dashboard Animation | [dovell-operations-dashboard](https://github.com/mrchandrayee/dovell-operations-dashboard) | [🔗 Live](https://mrchandrayee.github.io/dovell-operations-dashboard/) |
+| 461 | Fathom — Live Trading Dashboard | Fathom — Live Trading Dashboard | [fathom-live-trading-dashboard](https://github.com/mrchandrayee/fathom-live-trading-dashboard) | [🔗 Live](https://mrchandrayee.github.io/fathom-live-trading-dashboard/) |
+| 462 | Ferna — Banking Dashboard | Ferna — Banking Dashboard | [ferna-banking-dashboard](https://github.com/mrchandrayee/ferna-banking-dashboard) | [🔗 Live](https://mrchandrayee.github.io/ferna-banking-dashboard/) |
+| 463 | Fernly — Team Workspace Dashboard | Fernly — Team Workspace Dashboard | [fernly-dashboard-animations](https://github.com/mrchandrayee/fernly-dashboard-animations) | [🔗 Live](https://mrchandrayee.github.io/fernly-dashboard-animations/) |
+| 464 | Fernly — Project Management Dashboard | Fernly — Project Management Dashboard | [fernly-project-management-dashboard](https://github.com/mrchandrayee/fernly-project-management-dashboard) | [🔗 Live](https://mrchandrayee.github.io/fernly-project-management-dashboard/) |
+| 465 | Fernly — Project Management Dashboard | Fernly — Project Management Dashboard | [fernly-project-management-dashboard-v2](https://github.com/mrchandrayee/fernly-project-management-dashboard-v2) | [🔗 Live](https://mrchandrayee.github.io/fernly-project-management-dashboard-v2/) |
+| 466 | Grovia — HR and Payroll Dashboard | Grovia — HR and Payroll Dashboard | [grovia-hr-payroll-dashboard](https://github.com/mrchandrayee/grovia-hr-payroll-dashboard) | [🔗 Live](https://mrchandrayee.github.io/grovia-hr-payroll-dashboard/) |
+| 467 | Haldane Climbing — Finance & Payroll Dashboard | Haldane Climbing — Finance & Payroll Dashboard | [haldane-finance-payroll-dashboard](https://github.com/mrchandrayee/haldane-finance-payroll-dashboard) | [🔗 Live](https://mrchandrayee.github.io/haldane-finance-payroll-dashboard/) |
+| 468 | Halden — Sales CRM Dashboard | Halden — Sales CRM Dashboard | [halden-sales-crm](https://github.com/mrchandrayee/halden-sales-crm) | [🔗 Live](https://mrchandrayee.github.io/halden-sales-crm/) |
+| 469 | halvi — Personal Health Dashboard | halvi — Personal Health Dashboard | [halvi-health-dashboard](https://github.com/mrchandrayee/halvi-health-dashboard) | [🔗 Live](https://mrchandrayee.github.io/halvi-health-dashboard/) |
+| 470 | Halvo — Smart Home Control Dashboard | Halvo — Smart Home Control Dashboard | [halvo-smart-home-dashboard](https://github.com/mrchandrayee/halvo-smart-home-dashboard) | [🔗 Live](https://mrchandrayee.github.io/halvo-smart-home-dashboard/) |
+| 471 | Hearth — Mortgage CRM Dashboard | Hearth — Mortgage CRM Dashboard | [hearth-mortgage-crm-dashboard](https://github.com/mrchandrayee/hearth-mortgage-crm-dashboard) | [🔗 Live](https://mrchandrayee.github.io/hearth-mortgage-crm-dashboard/) |
+| 472 | Hemli — Home Control Dashboard | Hemli — Home Control Dashboard | [hemli-home-control-dashboard](https://github.com/mrchandrayee/hemli-home-control-dashboard) | [🔗 Live](https://mrchandrayee.github.io/hemli-home-control-dashboard/) |
+| 473 | Ignara — Sales Dashboard | Ignara — Sales Dashboard | [ignara-sales-dashboard](https://github.com/mrchandrayee/ignara-sales-dashboard) | [🔗 Live](https://mrchandrayee.github.io/ignara-sales-dashboard/) |
+| 474 | Kerfa — Sales & Operations Dashboard | Kerfa — Sales & Operations Dashboard | [kerfa-sales-crm-dashboard](https://github.com/mrchandrayee/kerfa-sales-crm-dashboard) | [🔗 Live](https://mrchandrayee.github.io/kerfa-sales-crm-dashboard/) |
+| 475 | Kindra — Holls & Vine Interiors CRM Dashboard | Kindra — Holls & Vine Interiors CRM Dashboard | [kindra-crm-dashboard](https://github.com/mrchandrayee/kindra-crm-dashboard) | [🔗 Live](https://mrchandrayee.github.io/kindra-crm-dashboard/) |
+| 476 | Kinlo — The Halcyon, Bristol · Dashboard Animation | Kinlo — The Halcyon, Bristol · Dashboard Animation | [kinlo-dashboard-animation](https://github.com/mrchandrayee/kinlo-dashboard-animation) | [🔗 Live](https://mrchandrayee.github.io/kinlo-dashboard-animation/) |
+| 477 | Kith & Leaf — Admin Dashboard | Kith & Leaf — Admin Dashboard | [kith-leaf-admin-dashboard](https://github.com/mrchandrayee/kith-leaf-admin-dashboard) | [🔗 Live](https://mrchandrayee.github.io/kith-leaf-admin-dashboard/) |
+| 478 | Levra — Rookhill Bakehouse Sales Dashboard | Levra — Rookhill Bakehouse Sales Dashboard | [levra-sales-dashboard](https://github.com/mrchandrayee/levra-sales-dashboard) | [🔗 Live](https://mrchandrayee.github.io/levra-sales-dashboard/) |
+| 479 | Lumelle — E-commerce Admin Dashboard | Lumelle — E-commerce Admin Dashboard | [lumelle-ecommerce-admin](https://github.com/mrchandrayee/lumelle-ecommerce-admin) | [🔗 Live](https://mrchandrayee.github.io/lumelle-ecommerce-admin/) |
+| 480 | Mario — Management Dashboard | Mario — Management Dashboard | [mario-management-dashboard](https://github.com/mrchandrayee/mario-management-dashboard) | [🔗 Live](https://mrchandrayee.github.io/mario-management-dashboard/) |
+| 481 | Mender — Case Management Dashboard | Mender — Case Management Dashboard | [mender-case-management](https://github.com/mrchandrayee/mender-case-management) | [🔗 Live](https://mrchandrayee.github.io/mender-case-management/) |
+| 482 | Meridian — Portfolio Dashboard | Meridian — Portfolio Dashboard | [meridian-portfolio-dashboard](https://github.com/mrchandrayee/meridian-portfolio-dashboard) | [🔗 Live](https://mrchandrayee.github.io/meridian-portfolio-dashboard/) |
+| 483 | Messaging Analytics Dashboard | Messaging Analytics Dashboard | [messaging-analytics-dashboard](https://github.com/mrchandrayee/messaging-analytics-dashboard) | [🔗 Live](https://mrchandrayee.github.io/messaging-analytics-dashboard/) |
+| 484 | Moorly — Insurance Application Workspace | Moorly — Insurance Application Workspace | [moorly-insurance-dashboard](https://github.com/mrchandrayee/moorly-insurance-dashboard) | [🔗 Live](https://mrchandrayee.github.io/moorly-insurance-dashboard/) |
+| 485 | Murmura — Social Media Management | Murmura — Social Media Management | [murmura-social-media-management](https://github.com/mrchandrayee/murmura-social-media-management) | [🔗 Live](https://mrchandrayee.github.io/murmura-social-media-management/) |
+| 486 | Noor — CRM & Marketing Automation Dashboard | Noor — CRM & Marketing Automation Dashboard | [noor-crm-marketing-dashboard](https://github.com/mrchandrayee/noor-crm-marketing-dashboard) | [🔗 Live](https://mrchandrayee.github.io/noor-crm-marketing-dashboard/) |
+| 487 | Northside Family Clinic — Practice Operations Dashboard | Northside Family Clinic — Practice Operations Dashboard | [northside-clinic-practice-dashboard](https://github.com/mrchandrayee/northside-clinic-practice-dashboard) | [🔗 Live](https://mrchandrayee.github.io/northside-clinic-practice-dashboard/) |
+| 488 | Oasel Capital — Private Credit Management Dashboard | Oasel Capital — Private Credit Management Dashboard | [oasel-private-credit-dashboard](https://github.com/mrchandrayee/oasel-private-credit-dashboard) | [🔗 Live](https://mrchandrayee.github.io/oasel-private-credit-dashboard/) |
+| 489 | pane — Focus & Team Productivity Workspace | pane — Focus & Team Productivity Workspace | [pane-productivity-workspace](https://github.com/mrchandrayee/pane-productivity-workspace) | [🔗 Live](https://mrchandrayee.github.io/pane-productivity-workspace/) |
+| 490 | PRISM — Live E-commerce Analytics Dashboard | PRISM — Live E-commerce Analytics Dashboard | [prism-live-ecommerce-analytics](https://github.com/mrchandrayee/prism-live-ecommerce-analytics) | [🔗 Live](https://mrchandrayee.github.io/prism-live-ecommerce-analytics/) |
+| 491 | rapport — CRM & Revenue Workspace | rapport — CRM & Revenue Workspace | [rapport-crm-dashboard](https://github.com/mrchandrayee/rapport-crm-dashboard) | [🔗 Live](https://mrchandrayee.github.io/rapport-crm-dashboard/) |
+| 492 | Rivet — Finance Dashboard | Rivet — Finance Dashboard | [rivet-finance-dashboard](https://github.com/mrchandrayee/rivet-finance-dashboard) | [🔗 Live](https://mrchandrayee.github.io/rivet-finance-dashboard/) |
+| 493 | Roveno — Management Dashboard | Roveno — Management Dashboard | [roveno-management-dashboard](https://github.com/mrchandrayee/roveno-management-dashboard) | [🔗 Live](https://mrchandrayee.github.io/roveno-management-dashboard/) |
+| 494 | skerry — Project Management Dashboard | skerry — Project Management Dashboard | [skerry-project-management-dashboard](https://github.com/mrchandrayee/skerry-project-management-dashboard) | [🔗 Live](https://mrchandrayee.github.io/skerry-project-management-dashboard/) |
+| 495 | Solvik — Sales CRM Dashboard | Solvik — Sales CRM Dashboard | [solvik-sales-crm](https://github.com/mrchandrayee/solvik-sales-crm) | [🔗 Live](https://mrchandrayee.github.io/solvik-sales-crm/) |
+| 496 | Sprig — Client Relations CRM | Sprig — Client Relations CRM | [sprig-crm-dashboard](https://github.com/mrchandrayee/sprig-crm-dashboard) | [🔗 Live](https://mrchandrayee.github.io/sprig-crm-dashboard/) |
+| 497 | Talvo — Kettlewick Brewing Co. Cash Flow Dashboard | Talvo — Kettlewick Brewing Co. Cash Flow Dashboard | [talvo-cashflow-dashboard](https://github.com/mrchandrayee/talvo-cashflow-dashboard) | [🔗 Live](https://mrchandrayee.github.io/talvo-cashflow-dashboard/) |
+| 498 | Tavola — Restaurant Operations Dashboard | Tavola — Restaurant Operations Dashboard | [tavola-restaurant-dashboard](https://github.com/mrchandrayee/tavola-restaurant-dashboard) | [🔗 Live](https://mrchandrayee.github.io/tavola-restaurant-dashboard/) |
+| 499 | Tolva — Finance Workspace Dashboard Animation | Tolva — Finance Workspace Dashboard Animation | [tolva-finance-dashboard](https://github.com/mrchandrayee/tolva-finance-dashboard) | [🔗 Live](https://mrchandrayee.github.io/tolva-finance-dashboard/) |
+| 500 | Verdelo — Household Finance Dashboard | Verdelo — Household Finance Dashboard | [verdelo-household-finance](https://github.com/mrchandrayee/verdelo-household-finance) | [🔗 Live](https://mrchandrayee.github.io/verdelo-household-finance/) |
+| 501 | Vessa — Marlow & Fern Inventory Management Dashboard | Vessa — Marlow & Fern Inventory Management Dashboard | [vessa-inventory-dashboard](https://github.com/mrchandrayee/vessa-inventory-dashboard) | [🔗 Live](https://mrchandrayee.github.io/vessa-inventory-dashboard/) |
+| 502 | Vitrea Studio — iOS App Publishing Dashboard | Vitrea Studio — iOS App Publishing Dashboard | [vitrea-ios-publishing-dashboard](https://github.com/mrchandrayee/vitrea-ios-publishing-dashboard) | [🔗 Live](https://mrchandrayee.github.io/vitrea-ios-publishing-dashboard/) |
+| 503 | Wharf — Inventory Management Dashboard | Wharf — Inventory Management Dashboard | [wharf-inventory-management-dashboard](https://github.com/mrchandrayee/wharf-inventory-management-dashboard) | [🔗 Live](https://mrchandrayee.github.io/wharf-inventory-management-dashboard/) |
+| 504 | YouTube Creator Analytics Dashboard — Wander Slowly | YouTube Creator Analytics Dashboard — Wander Slowly | [you-tube-creator-analytics-dashboard](https://github.com/mrchandrayee/you-tube-creator-analytics-dashboard) | [🔗 Live](https://mrchandrayee.github.io/you-tube-creator-analytics-dashboard/) |
+| 505 | Zephra — Weather Intelligence Dashboard | Zephra — Weather Intelligence Dashboard | [zephra-weather-dashboard](https://github.com/mrchandrayee/zephra-weather-dashboard) | [🔗 Live](https://mrchandrayee.github.io/zephra-weather-dashboard/) |
+
+---
+
+## 🛒 E-Commerce & Product UI
+
+| # | Project | Description | GitHub | Live Demo |
+|---|---------|-------------|--------|-----------|
+| 506 | KVIST — Furniture & Home Objects E-commerce | KVIST — Furniture & Home Objects E-commerce | [kvist-furniture-commerce](https://github.com/mrchandrayee/kvist-furniture-commerce) | [🔗 Live](https://mrchandrayee.github.io/kvist-furniture-commerce/) |
+| 507 | LUCERNA — Glassworks / Seven Shades | LUCERNA — Glassworks / Seven Shades | [lucerna-glassworks-showcase](https://github.com/mrchandrayee/lucerna-glassworks-showcase) | [🔗 Live](https://mrchandrayee.github.io/lucerna-glassworks-showcase/) |
+| 508 | NORDA — Well Considered Home | NORDA — Well Considered Home | [norda-furniture-store](https://github.com/mrchandrayee/norda-furniture-store) | [🔗 Live](https://mrchandrayee.github.io/norda-furniture-store/) |
+| 509 | Rayé — Fashion Commerce Storefront | Rayé — Fashion Commerce Storefront | [raye-fashion-commerce](https://github.com/mrchandrayee/raye-fashion-commerce) | [🔗 Live](https://mrchandrayee.github.io/raye-fashion-commerce/) |
+| 510 | SOLUM — Outdoor Apparel E-commerce | SOLUM — Outdoor Apparel E-commerce | [solum-outdoor-ecommerce](https://github.com/mrchandrayee/solum-outdoor-ecommerce) | [🔗 Live](https://mrchandrayee.github.io/solum-outdoor-ecommerce/) |
+| 511 | Sorrell — Botanical Skincare Storefront | Sorrell — Botanical Skincare Storefront | [sorrell-botanical-skincare](https://github.com/mrchandrayee/sorrell-botanical-skincare) | [🔗 Live](https://mrchandrayee.github.io/sorrell-botanical-skincare/) |
+| 512 | STRADA — Luxury Car Rental Website | STRADA — Luxury Car Rental Website | [strada-luxury-car-rental](https://github.com/mrchandrayee/strada-luxury-car-rental) | [🔗 Live](https://mrchandrayee.github.io/strada-luxury-car-rental/) |
+
+---
+
+## 🎨 Creative & Interactive
+
+| # | Project | Description | GitHub | Live Demo |
+|---|---------|-------------|--------|-----------|
+| 513 | Orrery — AI API Platform Dashboard | Orrery — AI API Platform Dashboard | [orrery-ai-api-platform](https://github.com/mrchandrayee/orrery-ai-api-platform) | [🔗 Live](https://mrchandrayee.github.io/orrery-ai-api-platform/) |
+| 514 | Simple Student ID Card | Simple Student ID Card | [student-id-card-project](https://github.com/mrchandrayee/student-id-card-project) | [🔗 Live](https://mrchandrayee.github.io/student-id-card-project/) |
+| 515 | UNTIL — Property Workspace | UNTIL — Property Workspace | [until-property-workspace](https://github.com/mrchandrayee/until-property-workspace) | [🔗 Live](https://mrchandrayee.github.io/until-property-workspace/) |
+| 516 | VANTA PRO — Premium Headphones Landing Page | VANTA PRO — Premium Headphones Landing Page | [vanta-pro-headphones](https://github.com/mrchandrayee/vanta-pro-headphones) | [🔗 Live](https://mrchandrayee.github.io/vanta-pro-headphones/) |
+| 517 | VAULT — Password Strength Demo | VAULT — Password Strength Demo | [vault-password-strength-demo](https://github.com/mrchandrayee/vault-password-strength-demo) | [🔗 Live](https://mrchandrayee.github.io/vault-password-strength-demo/) |
+| 518 | Veyla — Trust & Safety Desk | Veyla — Trust & Safety Desk | [veyla-trust-safety-desk](https://github.com/mrchandrayee/veyla-trust-safety-desk) | [🔗 Live](https://mrchandrayee.github.io/veyla-trust-safety-desk/) |
+
+---
+
+## 🔐 Login & Auth
+
+| # | Project | Description | GitHub | Live Demo |
+|---|---------|-------------|--------|-----------|
+| 519 | Huddle — Sign-in Component 88 | Huddle — Sign-in Component 88 | [huddle-sign-in](https://github.com/mrchandrayee/huddle-sign-in) | [🔗 Live](https://mrchandrayee.github.io/huddle-sign-in/) |
+| 520 | OTP Verification Glass — Component 276 | OTP Verification Glass — Component 276 | [otp-verification-glass](https://github.com/mrchandrayee/otp-verification-glass) | [🔗 Live](https://mrchandrayee.github.io/otp-verification-glass/) |
+
+---
+
+## 🔘 Button & UI Animations
+
+| # | Project | Description | GitHub | Live Demo |
+|---|---------|-------------|--------|-----------|
+| 521 | Buy Now + Truck — Add-to-cart button animation | Buy Now + Truck — Add-to-cart button animation | [atc-buy-now-truck-animation](https://github.com/mrchandrayee/atc-buy-now-truck-animation) | [🔗 Live](https://mrchandrayee.github.io/atc-buy-now-truck-animation/) |
+| 522 | Button Label Animations Lab | Button Label Animations Lab | [button-label-animations-lab](https://github.com/mrchandrayee/button-label-animations-lab) | [🔗 Live](https://mrchandrayee.github.io/button-label-animations-lab/) |
+| 523 | Corvane — Payments Operations Dashboard | Corvane — Payments Operations Dashboard | [corvane-payments-ops](https://github.com/mrchandrayee/corvane-payments-ops) | [🔗 Live](https://mrchandrayee.github.io/corvane-payments-ops/) |
+| 524 | CREST — Liquid Bottom Navigation | CREST — Liquid Bottom Navigation | [crest-liquid-bottom-navigation](https://github.com/mrchandrayee/crest-liquid-bottom-navigation) | [🔗 Live](https://mrchandrayee.github.io/crest-liquid-bottom-navigation/) |
+| 525 | Cute Lamp — Interactive CSS & JavaScript Project | Cute Lamp — Interactive CSS & JavaScript Project | [cute-lamp-interactive](https://github.com/mrchandrayee/cute-lamp-interactive) | [🔗 Live](https://mrchandrayee.github.io/cute-lamp-interactive/) |
+| 526 | Delete Button — The Bin Eats The Label | Delete Button — The Bin Eats The Label | [delete-button-bin-animation](https://github.com/mrchandrayee/delete-button-bin-animation) | [🔗 Live](https://mrchandrayee.github.io/delete-button-bin-animation/) |
+| 527 | Download Button — Liquid Fill Animation | Download Button — Liquid Fill Animation | [liquid-fill-download-button](https://github.com/mrchandrayee/liquid-fill-download-button) | [🔗 Live](https://mrchandrayee.github.io/liquid-fill-download-button/) |
+| 528 | Subscribe Button Animation — Plume | Subscribe Button Animation — Plume | [plume-subscribe-button-animation](https://github.com/mrchandrayee/plume-subscribe-button-animation) | [🔗 Live](https://mrchandrayee.github.io/plume-subscribe-button-animation/) |
+| 529 | Publish Button Animation | Publish Button Animation | [publish-button-animation](https://github.com/mrchandrayee/publish-button-animation) | [🔗 Live](https://mrchandrayee.github.io/publish-button-animation/) |
+| 530 | SABLE Checkout — Payment Method Animation | SABLE Checkout — Payment Method Animation | [sable-payment-method-animation](https://github.com/mrchandrayee/sable-payment-method-animation) | [🔗 Live](https://mrchandrayee.github.io/sable-payment-method-animation/) |
+| 531 | Search Bar Animation | Search Bar Animation | [search-bar-animation-lab](https://github.com/mrchandrayee/search-bar-animation-lab) | [🔗 Live](https://mrchandrayee.github.io/search-bar-animation-lab/) |
+| 532 | Send Button Animation | Send Button Animation | [send-button-animation-lab](https://github.com/mrchandrayee/send-button-animation-lab) | [🔗 Live](https://mrchandrayee.github.io/send-button-animation-lab/) |
+| 533 | TIDE — Download Button | TIDE — Download Button | [tide-download-button](https://github.com/mrchandrayee/tide-download-button) | [🔗 Live](https://mrchandrayee.github.io/tide-download-button/) |
+
+---
+
 ## 🛠️ Tech Stack
 
 All projects use:
