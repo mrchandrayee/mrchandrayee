@@ -891,6 +891,95 @@ A curated index of all **HTML · CSS · JavaScript** frontend projects by [@mrch
 
 ---
 
+## 🎯 UX Laws & Design Principles
+
+| # | Project | Description | GitHub | Live Demo |
+|---|---------|-------------|--------|-----------|
+| 534 | Dark Patterns — Exposed | Dark Patterns — Exposed | [dark-patterns-exposed](https://github.com/mrchandrayee/dark-patterns-exposed) | [🔗 Live](https://mrchandrayee.github.io/dark-patterns-exposed/) |
+| 535 | Dark Patterns — UX Breakdown | Dark Patterns — UX Breakdown | [dark-patterns-ux-demo](https://github.com/mrchandrayee/dark-patterns-ux-demo) | [🔗 Live](https://mrchandrayee.github.io/dark-patterns-ux-demo/) |
+| 536 | Fake Fast — Six Speed Tricks | Fake Fast — Six Speed Tricks | [fake-fast-six-speed-tricks](https://github.com/mrchandrayee/fake-fast-six-speed-tricks) | [🔗 Live](https://mrchandrayee.github.io/fake-fast-six-speed-tricks/) |
+| 537 | Why Premium Apps Feel Smooth — Six Details | Why Premium Apps Feel Smooth — Six Details | [premium-apps-feel-smooth](https://github.com/mrchandrayee/premium-apps-feel-smooth) | [🔗 Live](https://mrchandrayee.github.io/premium-apps-feel-smooth/) |
+| 538 | Six UX Laws — runnable recreation | Six UX Laws — runnable recreation | [six-ux-laws-demo](https://github.com/mrchandrayee/six-ux-laws-demo) | [🔗 Live](https://mrchandrayee.github.io/six-ux-laws-demo/) |
+| 539 | UX Laws in Action — Interactive Lab | UX Laws in Action — Interactive Lab | [ux-laws-in-action](https://github.com/mrchandrayee/ux-laws-in-action) | [🔗 Live](https://mrchandrayee.github.io/ux-laws-in-action/) |
+| 540 | UX Laws in Action — Part 2 | UX Laws in Action — Part 2 | [ux-laws-part-2](https://github.com/mrchandrayee/ux-laws-part-2) | [🔗 Live](https://mrchandrayee.github.io/ux-laws-part-2/) |
+| 541 | UX Laws in Action — Part 4 | UX Laws in Action — Part 4 | [ux-laws-part-four](https://github.com/mrchandrayee/ux-laws-part-four) | [🔗 Live](https://mrchandrayee.github.io/ux-laws-part-four/) |
+| 542 | UX Laws in Action — video recreation | UX Laws in Action — video recreation | [ux-laws-recreated](https://github.com/mrchandrayee/ux-laws-recreated) | [🔗 Live](https://mrchandrayee.github.io/ux-laws-recreated/) |
+| 543 | Which Feels Better? — Six UX Rounds | Which Feels Better? — Six UX Rounds | [which-feels-better-six-ux-rounds](https://github.com/mrchandrayee/which-feels-better-six-ux-rounds) | [🔗 Live](https://mrchandrayee.github.io/which-feels-better-six-ux-rounds/) |
+
+---
+
+## ✨ Six-Decision UI Showcases
+
+| # | Project | Description | GitHub | Live Demo |
+|---|---------|-------------|--------|-----------|
+| 544 | Aurora Login Form — Six Decisions | Aurora Login Form — Six Decisions | [aurora-login-six-decisions](https://github.com/mrchandrayee/aurora-login-six-decisions) | [🔗 Live](https://mrchandrayee.github.io/aurora-login-six-decisions/) |
+| 545 | UX Lab — Six Decisions | UX Lab — Six Decisions | [aurora-ux-video-project](https://github.com/mrchandrayee/aurora-ux-video-project) | [🔗 Live](https://mrchandrayee.github.io/aurora-ux-video-project/) |
+| 546 | Command Palette — Six Decisions | Command Palette — Six Decisions | [command-palette-six-decisions](https://github.com/mrchandrayee/command-palette-six-decisions) | [🔗 Live](https://mrchandrayee.github.io/command-palette-six-decisions/) |
+| 547 | Why iPhone Looks So Good — Six Design Secrets | Why iPhone Looks So Good — Six Design Secrets | [iphone-six-design-secrets](https://github.com/mrchandrayee/iphone-six-design-secrets) | [🔗 Live](https://mrchandrayee.github.io/iphone-six-design-secrets/) |
+| 548 | iPhone — Six Invisible Details | iPhone — Six Invisible Details | [iphone-six-invisible-details](https://github.com/mrchandrayee/iphone-six-invisible-details) | [🔗 Live](https://mrchandrayee.github.io/iphone-six-invisible-details/) |
+| 549 | Pricing Tables That Convert — Six Decisions | Pricing Tables That Convert — Six Decisions | [pricing-table-six-decisions](https://github.com/mrchandrayee/pricing-table-six-decisions) | [🔗 Live](https://mrchandrayee.github.io/pricing-table-six-decisions/) |
+| 550 | Primary Button — Six Decisions | Primary Button — Six Decisions | [primary-button-six-decisions](https://github.com/mrchandrayee/primary-button-six-decisions) | [🔗 Live](https://mrchandrayee.github.io/primary-button-six-decisions/) |
+| 551 | Same Chat. Six Decisions. — Runnable Project | Same Chat. Six Decisions. — Runnable Project | [same-chat-six-decisions](https://github.com/mrchandrayee/same-chat-six-decisions) | [🔗 Live](https://mrchandrayee.github.io/same-chat-six-decisions/) |
+| 552 | Six App UI Secrets — Runnable Project | Six App UI Secrets — Runnable Project | [six-app-ui-secrets](https://github.com/mrchandrayee/six-app-ui-secrets) | [🔗 Live](https://mrchandrayee.github.io/six-app-ui-secrets/) |
+| 553 | Six Details. One Checkout. — Runnable Project | Six Details. One Checkout. — Runnable Project | [six-details-one-checkout](https://github.com/mrchandrayee/six-details-one-checkout) | [🔗 Live](https://mrchandrayee.github.io/six-details-one-checkout/) |
+| 554 | Six Details. One Player. — Runnable recreation | Six Details. One Player. — Runnable recreation | [six-details-one-player](https://github.com/mrchandrayee/six-details-one-player) | [🔗 Live](https://mrchandrayee.github.io/six-details-one-player/) |
+| 555 | Six Details. One Tracker. — Order Tracking UI | Six Details. One Tracker. — Order Tracking UI | [six-details-one-tracker](https://github.com/mrchandrayee/six-details-one-tracker) | [🔗 Live](https://mrchandrayee.github.io/six-details-one-tracker/) |
+| 556 | Six-Layer Premium Card | Six-Layer Premium Card | [six-layer-premium-card](https://github.com/mrchandrayee/six-layer-premium-card) | [🔗 Live](https://mrchandrayee.github.io/six-layer-premium-card/) |
+| 557 | Six Micro-Interactions — Motion Lab | Six Micro-Interactions — Motion Lab | [six-micro-interactions](https://github.com/mrchandrayee/six-micro-interactions) | [🔗 Live](https://mrchandrayee.github.io/six-micro-interactions/) |
+| 558 | Six Motion Micro-interactions | Six Motion Micro-interactions | [six-motion-microinteractions](https://github.com/mrchandrayee/six-motion-microinteractions) | [🔗 Live](https://mrchandrayee.github.io/six-motion-microinteractions/) |
+| 559 | Six Smooth Details — Part 4 | Six Smooth Details — Part 4 | [six-smooth-details-part-four](https://github.com/mrchandrayee/six-smooth-details-part-four) | [🔗 Live](https://mrchandrayee.github.io/six-smooth-details-part-four/) |
+| 560 | Six Smooth Motion Details — Part 5 | Six Smooth Motion Details — Part 5 | [six-smooth-motion-details](https://github.com/mrchandrayee/six-smooth-motion-details) | [🔗 Live](https://mrchandrayee.github.io/six-smooth-motion-details/) |
+| 561 | Six Smooth UI Details — Motion Lab | Six Smooth UI Details — Motion Lab | [six-smooth-ui-details](https://github.com/mrchandrayee/six-smooth-ui-details) | [🔗 Live](https://mrchandrayee.github.io/six-smooth-ui-details/) |
+
+---
+
+## 🧭 Navigation & Menus
+
+| # | Project | Description | GitHub | Live Demo |
+|---|---------|-------------|--------|-----------|
+| 562 | Dropdown Menu — Runnable Project | Dropdown Menu — Runnable Project | [dropdown-menu-project](https://github.com/mrchandrayee/dropdown-menu-project) | [🔗 Live](https://mrchandrayee.github.io/dropdown-menu-project/) |
+| 563 | Modern Navbar | CSS | Modern Navbar | CSS | [modern-navbar-css-runnable](https://github.com/mrchandrayee/modern-navbar-css-runnable) | [🔗 Live](https://mrchandrayee.github.io/modern-navbar-css-runnable/) |
+| 564 | PipWise — Apple Style Navbar | PipWise — Apple Style Navbar | [pipwise-apple-navbar](https://github.com/mrchandrayee/pipwise-apple-navbar) | [🔗 Live](https://mrchandrayee.github.io/pipwise-apple-navbar/) |
+| 565 | Premium Navigation Menu | Premium Navigation Menu | [premium-navigation-menu](https://github.com/mrchandrayee/premium-navigation-menu) | [🔗 Live](https://mrchandrayee.github.io/premium-navigation-menu/) |
+| 566 | Sidebar Menu — Runnable Project | Sidebar Menu — Runnable Project | [sidebar-menu](https://github.com/mrchandrayee/sidebar-menu) | [🔗 Live](https://mrchandrayee.github.io/sidebar-menu/) |
+
+---
+
+## 🔐 Login, Auth & Forms
+
+| # | Project | Description | GitHub | Live Demo |
+|---|---------|-------------|--------|-----------|
+| 567 | 3D Login Page | CSS — Runnable Project | 3D Login Page | CSS — Runnable Project | [3d-neumorphic-login](https://github.com/mrchandrayee/3d-neumorphic-login) | [🔗 Live](https://mrchandrayee.github.io/3d-neumorphic-login/) |
+| 568 | OTP Verification Page | OTP Verification Page | [otp-verification-page](https://github.com/mrchandrayee/otp-verification-page) | [🔗 Live](https://mrchandrayee.github.io/otp-verification-page/) |
+| 569 | Show / Hide Password | CSS | Show / Hide Password | CSS | [show-hide-password-css](https://github.com/mrchandrayee/show-hide-password-css) | [🔗 Live](https://mrchandrayee.github.io/show-hide-password-css/) |
+
+---
+
+## 🎨 Effects & Animations
+
+| # | Project | Description | GitHub | Live Demo |
+|---|---------|-------------|--------|-----------|
+| 570 | Border Draw | Animation | Border Draw | Animation | [border-draw-animation](https://github.com/mrchandrayee/border-draw-animation) | [🔗 Live](https://mrchandrayee.github.io/border-draw-animation/) |
+| 571 | CSS Not Hover Effect — runnable recreation | CSS Not Hover Effect — runnable recreation | [css-not-hover-effect](https://github.com/mrchandrayee/css-not-hover-effect) | [🔗 Live](https://mrchandrayee.github.io/css-not-hover-effect/) |
+| 572 | Glowing Icons | CSS — Runnable recreation | Glowing Icons | CSS — Runnable recreation | [glowing-icons-css-runnable](https://github.com/mrchandrayee/glowing-icons-css-runnable) | [🔗 Live](https://mrchandrayee.github.io/glowing-icons-css-runnable/) |
+| 573 | Hover Image Zoom with Overlay | Hover Image Zoom with Overlay | [hover-image-zoom-overlay](https://github.com/mrchandrayee/hover-image-zoom-overlay) | [🔗 Live](https://mrchandrayee.github.io/hover-image-zoom-overlay/) |
+| 574 | Icons That Feel Alive — Complete Runnable Project | Icons That Feel Alive — Complete Runnable Project | [icons-that-feel-alive](https://github.com/mrchandrayee/icons-that-feel-alive) | [🔗 Live](https://mrchandrayee.github.io/icons-that-feel-alive/) |
+| 575 | Image Zoom Hover Effect | CSS | Image Zoom Hover Effect | CSS | [image-zoom-hover-effect](https://github.com/mrchandrayee/image-zoom-hover-effect) | [🔗 Live](https://mrchandrayee.github.io/image-zoom-hover-effect/) |
+| 576 | Lazy Dark Mode — Music Player | Lazy Dark Mode — Music Player | [lazy-dark-mode-player](https://github.com/mrchandrayee/lazy-dark-mode-player) | [🔗 Live](https://mrchandrayee.github.io/lazy-dark-mode-player/) |
+| 577 | Morphing Gradient Background | Morphing Gradient Background | [morphing-gradient-background](https://github.com/mrchandrayee/morphing-gradient-background) | [🔗 Live](https://mrchandrayee.github.io/morphing-gradient-background/) |
+| 578 | Popup Box | CSS — Runnable Project | Popup Box | CSS — Runnable Project | [popup-box-css](https://github.com/mrchandrayee/popup-box-css) | [🔗 Live](https://mrchandrayee.github.io/popup-box-css/) |
+
+---
+
+## 📱 UI Components
+
+| # | Project | Description | GitHub | Live Demo |
+|---|---------|-------------|--------|-----------|
+| 579 | iCard — Digital Business Card Landing Page | iCard — Digital Business Card Landing Page | [icard-digital-business-card](https://github.com/mrchandrayee/icard-digital-business-card) | [🔗 Live](https://mrchandrayee.github.io/icard-digital-business-card/) |
+| 580 | Lisbon Weather Dashboard — 10 Fixes | Lisbon Weather Dashboard — 10 Fixes | [weather-dashboard-ten-fixes](https://github.com/mrchandrayee/weather-dashboard-ten-fixes) | [🔗 Live](https://mrchandrayee.github.io/weather-dashboard-ten-fixes/) |
+
+---
+
 ## 🛠️ Tech Stack
 
 All projects use:
